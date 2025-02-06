@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\Saturdaywork\duplicate\bin\Debug\duplicate.exe.config
+C:\Users\preethu\source\repos\Saturdaywork\duplicate\bin\Debug\duplicate.exe
+C:\Users\preethu\source\repos\Saturdaywork\duplicate\bin\Debug\duplicate.pdb
+C:\Users\preethu\source\repos\Saturdaywork\duplicate\obj\Debug\duplicate.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Saturdaywork\duplicate\obj\Debug\duplicate.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Saturdaywork\duplicate\obj\Debug\duplicate.exe
+C:\Users\preethu\source\repos\Saturdaywork\duplicate\obj\Debug\duplicate.pdb

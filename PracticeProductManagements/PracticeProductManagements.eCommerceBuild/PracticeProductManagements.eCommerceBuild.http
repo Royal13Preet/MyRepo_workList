@@ -1,0 +1,6 @@
+@PracticeProductManagements.eCommerceBuild_HostAddress = http://localhost:5252
+
+GET {{PracticeProductManagements.eCommerceBuild_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

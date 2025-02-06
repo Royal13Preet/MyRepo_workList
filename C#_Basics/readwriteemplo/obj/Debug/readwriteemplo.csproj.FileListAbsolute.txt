@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\areaofrect\readwriteemplo\obj\Debug\readwriteemplo.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\areaofrect\readwriteemplo\obj\Debug\readwriteemplo.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\areaofrect\readwriteemplo\bin\Debug\readwriteemplo.exe.config
+C:\Users\preethu\source\repos\areaofrect\readwriteemplo\bin\Debug\readwriteemplo.exe
+C:\Users\preethu\source\repos\areaofrect\readwriteemplo\bin\Debug\readwriteemplo.pdb
+C:\Users\preethu\source\repos\areaofrect\readwriteemplo\obj\Debug\readwriteemplo.exe
+C:\Users\preethu\source\repos\areaofrect\readwriteemplo\obj\Debug\readwriteemplo.pdb

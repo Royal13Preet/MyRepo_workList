@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\areaofrect\Jaggedarray\bin\Debug\Jaggedarray.exe.config
+C:\Users\preethu\source\repos\areaofrect\Jaggedarray\bin\Debug\Jaggedarray.exe
+C:\Users\preethu\source\repos\areaofrect\Jaggedarray\bin\Debug\Jaggedarray.pdb
+C:\Users\preethu\source\repos\areaofrect\Jaggedarray\obj\Debug\Jaggedarray.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\areaofrect\Jaggedarray\obj\Debug\Jaggedarray.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\areaofrect\Jaggedarray\obj\Debug\Jaggedarray.exe
+C:\Users\preethu\source\repos\areaofrect\Jaggedarray\obj\Debug\Jaggedarray.pdb

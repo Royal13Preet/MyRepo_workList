@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\Mildgames\Mildgames\bin\Debug\Mildgames.exe.config
+C:\Users\preethu\source\repos\Mildgames\Mildgames\bin\Debug\Mildgames.exe
+C:\Users\preethu\source\repos\Mildgames\Mildgames\bin\Debug\Mildgames.pdb
+C:\Users\preethu\source\repos\Mildgames\Mildgames\obj\Debug\Mildgames.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Mildgames\Mildgames\obj\Debug\Mildgames.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Mildgames\Mildgames\obj\Debug\Mildgames.exe
+C:\Users\preethu\source\repos\Mildgames\Mildgames\obj\Debug\Mildgames.pdb

@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\Saturdaywork\recursivefact\bin\Debug\recursivefact.exe.config
+C:\Users\preethu\source\repos\Saturdaywork\recursivefact\bin\Debug\recursivefact.exe
+C:\Users\preethu\source\repos\Saturdaywork\recursivefact\bin\Debug\recursivefact.pdb
+C:\Users\preethu\source\repos\Saturdaywork\recursivefact\obj\Debug\recursivefact.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Saturdaywork\recursivefact\obj\Debug\recursivefact.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Saturdaywork\recursivefact\obj\Debug\recursivefact.exe
+C:\Users\preethu\source\repos\Saturdaywork\recursivefact\obj\Debug\recursivefact.pdb

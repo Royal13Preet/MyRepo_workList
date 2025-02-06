@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\Multithreading\ThraedaingExa,ple\bin\Debug\ThraedaingExa,ple.exe.config
+C:\Users\preethu\source\repos\Multithreading\ThraedaingExa,ple\bin\Debug\ThraedaingExa,ple.exe
+C:\Users\preethu\source\repos\Multithreading\ThraedaingExa,ple\bin\Debug\ThraedaingExa,ple.pdb
+C:\Users\preethu\source\repos\Multithreading\ThraedaingExa,ple\obj\Debug\ThraedaingExa,ple.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Multithreading\ThraedaingExa,ple\obj\Debug\ThraedaingExa,ple.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Multithreading\ThraedaingExa,ple\obj\Debug\ThraedaingExa,ple.exe
+C:\Users\preethu\source\repos\Multithreading\ThraedaingExa,ple\obj\Debug\ThraedaingExa,ple.pdb

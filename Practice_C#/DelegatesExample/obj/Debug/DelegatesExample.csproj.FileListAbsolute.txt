@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\practice\DelegatesExample\obj\Debug\DelegatesExample.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\practice\DelegatesExample\obj\Debug\DelegatesExample.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\practice\DelegatesExample\bin\Debug\DelegatesExample.exe.config
+C:\Users\preethu\source\repos\practice\DelegatesExample\bin\Debug\DelegatesExample.exe
+C:\Users\preethu\source\repos\practice\DelegatesExample\bin\Debug\DelegatesExample.pdb
+C:\Users\preethu\source\repos\practice\DelegatesExample\obj\Debug\DelegatesExample.exe
+C:\Users\preethu\source\repos\practice\DelegatesExample\obj\Debug\DelegatesExample.pdb

@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\Multithreading\Asynchandawait\bin\Debug\Asynchandawait.exe.config
+C:\Users\preethu\source\repos\Multithreading\Asynchandawait\bin\Debug\Asynchandawait.exe
+C:\Users\preethu\source\repos\Multithreading\Asynchandawait\bin\Debug\Asynchandawait.pdb
+C:\Users\preethu\source\repos\Multithreading\Asynchandawait\obj\Debug\Asynchandawait.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Multithreading\Asynchandawait\obj\Debug\Asynchandawait.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Multithreading\Asynchandawait\obj\Debug\Asynchandawait.exe
+C:\Users\preethu\source\repos\Multithreading\Asynchandawait\obj\Debug\Asynchandawait.pdb

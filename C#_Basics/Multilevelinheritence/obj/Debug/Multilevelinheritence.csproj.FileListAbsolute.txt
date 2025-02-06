@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\areaofrect\Multilevelinheritence\bin\Debug\Multilevelinheritence.exe.config
+C:\Users\preethu\source\repos\areaofrect\Multilevelinheritence\bin\Debug\Multilevelinheritence.exe
+C:\Users\preethu\source\repos\areaofrect\Multilevelinheritence\bin\Debug\Multilevelinheritence.pdb
+C:\Users\preethu\source\repos\areaofrect\Multilevelinheritence\obj\Debug\Multilevelinheritence.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\areaofrect\Multilevelinheritence\obj\Debug\Multilevelinheritence.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\areaofrect\Multilevelinheritence\obj\Debug\Multilevelinheritence.exe
+C:\Users\preethu\source\repos\areaofrect\Multilevelinheritence\obj\Debug\Multilevelinheritence.pdb

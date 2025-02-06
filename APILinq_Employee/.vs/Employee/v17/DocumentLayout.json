@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\preethu\\source\\repos\\Employee\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{821C0E5F-17DF-4E17-AD55-9BA719CD4188}|Employee.DataAceess\\Employee.DataAceess.csproj|c:\\users\\preethu\\source\\repos\\employee\\employee.dataaceess\\reository\\employeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821C0E5F-17DF-4E17-AD55-9BA719CD4188}|Employee.DataAceess\\Employee.DataAceess.csproj|solutionrelative:employee.dataaceess\\reository\\employeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E96525A-1A00-40B8-BE9A-30F58950DE38}|Employee\\Employee.csproj|c:\\users\\preethu\\source\\repos\\employee\\employee\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E96525A-1A00-40B8-BE9A-30F58950DE38}|Employee\\Employee.csproj|solutionrelative:employee\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\preethu\\Downloads\\Example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821C0E5F-17DF-4E17-AD55-9BA719CD4188}|Employee.DataAceess\\Employee.DataAceess.csproj|c:\\users\\preethu\\source\\repos\\employee\\employee.dataaceess\\dbmodel\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821C0E5F-17DF-4E17-AD55-9BA719CD4188}|Employee.DataAceess\\Employee.DataAceess.csproj|solutionrelative:employee.dataaceess\\dbmodel\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E96525A-1A00-40B8-BE9A-30F58950DE38}|Employee\\Employee.csproj|c:\\users\\preethu\\source\\repos\\employee\\employee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E96525A-1A00-40B8-BE9A-30F58950DE38}|Employee\\Employee.csproj|solutionrelative:employee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821C0E5F-17DF-4E17-AD55-9BA719CD4188}|Employee.DataAceess\\Employee.DataAceess.csproj|c:\\users\\preethu\\source\\repos\\employee\\employee.dataaceess\\reository\\iemployeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821C0E5F-17DF-4E17-AD55-9BA719CD4188}|Employee.DataAceess\\Employee.DataAceess.csproj|solutionrelative:employee.dataaceess\\reository\\iemployeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1B4E442-D9F0-42D1-A219-AE5822F50F70}|Employee.Models\\Employee.Models.csproj|c:\\users\\preethu\\source\\repos\\employee\\employee.models\\dtos\\departmentsalarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1B4E442-D9F0-42D1-A219-AE5822F50F70}|Employee.Models\\Employee.Models.csproj|solutionrelative:employee.models\\dtos\\departmentsalarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E96525A-1A00-40B8-BE9A-30F58950DE38}|Employee\\Employee.csproj|c:\\users\\preethu\\source\\repos\\employee\\employee\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9E96525A-1A00-40B8-BE9A-30F58950DE38}|Employee\\Employee.csproj|solutionrelative:employee\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 215,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Employee\\Employee.DataAceess\\DBModel\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.DataAceess\\DBModel\\Employee.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Employee\\Employee.DataAceess\\DBModel\\Employee.cs",
+              "RelativeToolTip": "Employee.DataAceess\\DBModel\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T08:47:31.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DepartmentSalarydto.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Employee\\Employee.Models\\Dtos\\DepartmentSalarydto.cs",
+              "RelativeDocumentMoniker": "Employee.Models\\Dtos\\DepartmentSalarydto.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Employee\\Employee.Models\\Dtos\\DepartmentSalarydto.cs",
+              "RelativeToolTip": "Employee.Models\\Dtos\\DepartmentSalarydto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T08:47:16.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEmployeeRepo.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Employee\\Employee.DataAceess\\Reository\\IEmployeeRepo.cs",
+              "RelativeDocumentMoniker": "Employee.DataAceess\\Reository\\IEmployeeRepo.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Employee\\Employee.DataAceess\\Reository\\IEmployeeRepo.cs",
+              "RelativeToolTip": "Employee.DataAceess\\Reository\\IEmployeeRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T08:29:12.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeRepo.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Employee\\Employee.DataAceess\\Reository\\EmployeeRepo.cs",
+              "RelativeDocumentMoniker": "Employee.DataAceess\\Reository\\EmployeeRepo.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Employee\\Employee.DataAceess\\Reository\\EmployeeRepo.cs",
+              "RelativeToolTip": "Employee.DataAceess\\Reository\\EmployeeRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T07:03:55.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Employee\\Employee\\Program.cs",
+              "RelativeDocumentMoniker": "Employee\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Employee\\Employee\\Program.cs",
+              "RelativeToolTip": "Employee\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T06:46:49.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Employee\\Employee\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Employee\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Employee\\Employee\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Employee\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T07:00:09.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Example.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\Downloads\\Example.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Example.cs",
+              "ToolTip": "C:\\Users\\preethu\\Downloads\\Example.cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\Example.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T09:25:54.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Employee\\Employee\\appsettings.json",
+              "RelativeDocumentMoniker": "Employee\\appsettings.json",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Employee\\Employee\\appsettings.json",
+              "RelativeToolTip": "Employee\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-16T06:46:44.932Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 51,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\Saturdaywork\wordoccurence\obj\Debug\wordoccurence.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Saturdaywork\wordoccurence\obj\Debug\wordoccurence.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Saturdaywork\wordoccurence\bin\Debug\wordoccurence.exe.config
+C:\Users\preethu\source\repos\Saturdaywork\wordoccurence\bin\Debug\wordoccurence.exe
+C:\Users\preethu\source\repos\Saturdaywork\wordoccurence\bin\Debug\wordoccurence.pdb
+C:\Users\preethu\source\repos\Saturdaywork\wordoccurence\obj\Debug\wordoccurence.exe
+C:\Users\preethu\source\repos\Saturdaywork\wordoccurence\obj\Debug\wordoccurence.pdb

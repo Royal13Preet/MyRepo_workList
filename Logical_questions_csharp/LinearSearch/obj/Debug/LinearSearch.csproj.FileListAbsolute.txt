@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\Saturdaywork\LinearSearch\bin\Debug\LinearSearch.exe.config
+C:\Users\preethu\source\repos\Saturdaywork\LinearSearch\bin\Debug\LinearSearch.exe
+C:\Users\preethu\source\repos\Saturdaywork\LinearSearch\bin\Debug\LinearSearch.pdb
+C:\Users\preethu\source\repos\Saturdaywork\LinearSearch\obj\Debug\LinearSearch.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Saturdaywork\LinearSearch\obj\Debug\LinearSearch.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Saturdaywork\LinearSearch\obj\Debug\LinearSearch.exe
+C:\Users\preethu\source\repos\Saturdaywork\LinearSearch\obj\Debug\LinearSearch.pdb

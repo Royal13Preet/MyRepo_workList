@@ -1,0 +1,17 @@
+C:\Users\preethu\source\repos\PracticeProductManagements\PracticeProductManagements.Manager\bin\Debug\net8.0\PracticeProductManagements.Manager.deps.json
+C:\Users\preethu\source\repos\PracticeProductManagements\PracticeProductManagements.Manager\bin\Debug\net8.0\PracticeProductManagements.Manager.dll
+C:\Users\preethu\source\repos\PracticeProductManagements\PracticeProductManagements.Manager\bin\Debug\net8.0\PracticeProductManagements.Manager.pdb
+C:\Users\preethu\source\repos\PracticeProductManagements\PracticeProductManagements.Manager\obj\Debug\net8.0\PracticeProductManagements.Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\preethu\source\repos\PracticeProductManagements\PracticeProductManagements.Manager\obj\Debug\net8.0\PracticeProductManagements.Manager.AssemblyInfoInputs.cache
+C:\Users\preethu\source\repos\PracticeProductManagements\PracticeProductManagements.Manager\obj\Debug\net8.0\PracticeProductManagements.Manager.AssemblyInfo.cs
+C:\Users\preethu\source\repos\PracticeProductManagements\PracticeProductManagements.Manager\obj\Debug\net8.0\PracticeProductManagements.Manager.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\PracticeProductManagements\PracticeProductManagements.Manager\obj\Debug\net8.0\PracticeProductManagements.Manager.dll
+C:\Users\preethu\source\repos\PracticeProductManagements\PracticeProductManagements.Manager\obj\Debug\net8.0\refint\PracticeProductManagements.Manager.dll
+C:\Users\preethu\source\repos\PracticeProductManagements\PracticeProductManagements.Manager\obj\Debug\net8.0\PracticeProductManagements.Manager.pdb
+C:\Users\preethu\source\repos\PracticeProductManagements\PracticeProductManagements.Manager\obj\Debug\net8.0\ref\PracticeProductManagements.Manager.dll
+C:\Users\preethu\source\repos\PracticeProductManagements\PracticeProductManagements.Manager\bin\Debug\net8.0\PracticeProductManagements.DataAccess.dll
+C:\Users\preethu\source\repos\PracticeProductManagements\PracticeProductManagements.Manager\bin\Debug\net8.0\PracticeProductManagements.Models.dll
+C:\Users\preethu\source\repos\PracticeProductManagements\PracticeProductManagements.Manager\bin\Debug\net8.0\PracticeProductManagements.DataAccess.pdb
+C:\Users\preethu\source\repos\PracticeProductManagements\PracticeProductManagements.Manager\bin\Debug\net8.0\PracticeProductManagements.Models.pdb
+C:\Users\preethu\source\repos\PracticeProductManagements\PracticeProductManagements.Manager\obj\Debug\net8.0\PracticeProductManagements.Manager.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\PracticeProductManagements\PracticeProductManagements.Manager\obj\Debug\net8.0\Practice.DDC581B9.Up2Date

@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\practice\Queueexample\bin\Debug\Queueexample.exe.config
+C:\Users\preethu\source\repos\practice\Queueexample\bin\Debug\Queueexample.exe
+C:\Users\preethu\source\repos\practice\Queueexample\bin\Debug\Queueexample.pdb
+C:\Users\preethu\source\repos\practice\Queueexample\obj\Debug\Queueexample.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\practice\Queueexample\obj\Debug\Queueexample.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\practice\Queueexample\obj\Debug\Queueexample.exe
+C:\Users\preethu\source\repos\practice\Queueexample\obj\Debug\Queueexample.pdb

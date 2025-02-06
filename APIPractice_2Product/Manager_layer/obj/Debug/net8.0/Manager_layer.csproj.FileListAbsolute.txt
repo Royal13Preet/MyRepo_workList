@@ -1,0 +1,15 @@
+C:\Users\preethu\source\repos\Practice_2Product\Manager_layer\bin\Debug\net8.0\Manager_layer.deps.json
+C:\Users\preethu\source\repos\Practice_2Product\Manager_layer\bin\Debug\net8.0\Manager_layer.dll
+C:\Users\preethu\source\repos\Practice_2Product\Manager_layer\bin\Debug\net8.0\Manager_layer.pdb
+C:\Users\preethu\source\repos\Practice_2Product\Manager_layer\bin\Debug\net8.0\DataAccess.dll
+C:\Users\preethu\source\repos\Practice_2Product\Manager_layer\bin\Debug\net8.0\DataAccess.pdb
+C:\Users\preethu\source\repos\Practice_2Product\Manager_layer\obj\Debug\net8.0\Manager_layer.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Practice_2Product\Manager_layer\obj\Debug\net8.0\Manager_layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\preethu\source\repos\Practice_2Product\Manager_layer\obj\Debug\net8.0\Manager_layer.AssemblyInfoInputs.cache
+C:\Users\preethu\source\repos\Practice_2Product\Manager_layer\obj\Debug\net8.0\Manager_layer.AssemblyInfo.cs
+C:\Users\preethu\source\repos\Practice_2Product\Manager_layer\obj\Debug\net8.0\Manager_layer.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Practice_2Product\Manager_layer\obj\Debug\net8.0\Manager_.D798DFEB.Up2Date
+C:\Users\preethu\source\repos\Practice_2Product\Manager_layer\obj\Debug\net8.0\Manager_layer.dll
+C:\Users\preethu\source\repos\Practice_2Product\Manager_layer\obj\Debug\net8.0\refint\Manager_layer.dll
+C:\Users\preethu\source\repos\Practice_2Product\Manager_layer\obj\Debug\net8.0\Manager_layer.pdb
+C:\Users\preethu\source\repos\Practice_2Product\Manager_layer\obj\Debug\net8.0\ref\Manager_layer.dll

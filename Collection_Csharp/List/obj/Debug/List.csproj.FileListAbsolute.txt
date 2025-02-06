@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\Collection\List\bin\Debug\List.exe.config
+C:\Users\preethu\source\repos\Collection\List\bin\Debug\List.exe
+C:\Users\preethu\source\repos\Collection\List\bin\Debug\List.pdb
+C:\Users\preethu\source\repos\Collection\List\obj\Debug\List.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Collection\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Collection\List\obj\Debug\List.exe
+C:\Users\preethu\source\repos\Collection\List\obj\Debug\List.pdb

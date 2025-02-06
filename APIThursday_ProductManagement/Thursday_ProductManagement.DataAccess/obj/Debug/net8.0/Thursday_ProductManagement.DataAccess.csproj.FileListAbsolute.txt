@@ -1,0 +1,14 @@
+C:\Users\preethu\source\repos\Thursday_ProductManagement\Thursday_ProductManagement.DataAccess\bin\Debug\net8.0\Thursday_ProductManagement.DataAccess.deps.json
+C:\Users\preethu\source\repos\Thursday_ProductManagement\Thursday_ProductManagement.DataAccess\bin\Debug\net8.0\Thursday_ProductManagement.DataAccess.runtimeconfig.json
+C:\Users\preethu\source\repos\Thursday_ProductManagement\Thursday_ProductManagement.DataAccess\bin\Debug\net8.0\Thursday_ProductManagement.DataAccess.dll
+C:\Users\preethu\source\repos\Thursday_ProductManagement\Thursday_ProductManagement.DataAccess\bin\Debug\net8.0\Thursday_ProductManagement.DataAccess.pdb
+C:\Users\preethu\source\repos\Thursday_ProductManagement\Thursday_ProductManagement.DataAccess\obj\Debug\net8.0\Thursday_ProductManagement.DataAccess.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Thursday_ProductManagement\Thursday_ProductManagement.DataAccess\obj\Debug\net8.0\Thursday_ProductManagement.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\preethu\source\repos\Thursday_ProductManagement\Thursday_ProductManagement.DataAccess\obj\Debug\net8.0\Thursday_ProductManagement.DataAccess.AssemblyInfoInputs.cache
+C:\Users\preethu\source\repos\Thursday_ProductManagement\Thursday_ProductManagement.DataAccess\obj\Debug\net8.0\Thursday_ProductManagement.DataAccess.AssemblyInfo.cs
+C:\Users\preethu\source\repos\Thursday_ProductManagement\Thursday_ProductManagement.DataAccess\obj\Debug\net8.0\Thursday_ProductManagement.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Thursday_ProductManagement\Thursday_ProductManagement.DataAccess\obj\Debug\net8.0\Thursday_ProductManagement.DataAccess.dll
+C:\Users\preethu\source\repos\Thursday_ProductManagement\Thursday_ProductManagement.DataAccess\obj\Debug\net8.0\refint\Thursday_ProductManagement.DataAccess.dll
+C:\Users\preethu\source\repos\Thursday_ProductManagement\Thursday_ProductManagement.DataAccess\obj\Debug\net8.0\Thursday_ProductManagement.DataAccess.pdb
+C:\Users\preethu\source\repos\Thursday_ProductManagement\Thursday_ProductManagement.DataAccess\obj\Debug\net8.0\Thursday_ProductManagement.DataAccess.genruntimeconfig.cache
+C:\Users\preethu\source\repos\Thursday_ProductManagement\Thursday_ProductManagement.DataAccess\obj\Debug\net8.0\ref\Thursday_ProductManagement.DataAccess.dll

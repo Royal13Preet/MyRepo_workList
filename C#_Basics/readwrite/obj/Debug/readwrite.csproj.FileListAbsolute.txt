@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\areaofrect\readwrite\bin\Debug\readwrite.exe.config
+C:\Users\preethu\source\repos\areaofrect\readwrite\bin\Debug\readwrite.exe
+C:\Users\preethu\source\repos\areaofrect\readwrite\bin\Debug\readwrite.pdb
+C:\Users\preethu\source\repos\areaofrect\readwrite\obj\Debug\readwrite.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\areaofrect\readwrite\obj\Debug\readwrite.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\areaofrect\readwrite\obj\Debug\readwrite.exe
+C:\Users\preethu\source\repos\areaofrect\readwrite\obj\Debug\readwrite.pdb

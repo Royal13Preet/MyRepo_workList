@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\Saturdaywork\MaxandMin\bin\Debug\MaxandMin.exe.config
+C:\Users\preethu\source\repos\Saturdaywork\MaxandMin\bin\Debug\MaxandMin.exe
+C:\Users\preethu\source\repos\Saturdaywork\MaxandMin\bin\Debug\MaxandMin.pdb
+C:\Users\preethu\source\repos\Saturdaywork\MaxandMin\obj\Debug\MaxandMin.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Saturdaywork\MaxandMin\obj\Debug\MaxandMin.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Saturdaywork\MaxandMin\obj\Debug\MaxandMin.exe
+C:\Users\preethu\source\repos\Saturdaywork\MaxandMin\obj\Debug\MaxandMin.pdb

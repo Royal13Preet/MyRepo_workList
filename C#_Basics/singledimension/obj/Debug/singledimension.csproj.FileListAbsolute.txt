@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\areaofrect\singledimension\bin\Debug\singledimension.exe.config
+C:\Users\preethu\source\repos\areaofrect\singledimension\bin\Debug\singledimension.exe
+C:\Users\preethu\source\repos\areaofrect\singledimension\bin\Debug\singledimension.pdb
+C:\Users\preethu\source\repos\areaofrect\singledimension\obj\Debug\singledimension.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\areaofrect\singledimension\obj\Debug\singledimension.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\areaofrect\singledimension\obj\Debug\singledimension.exe
+C:\Users\preethu\source\repos\areaofrect\singledimension\obj\Debug\singledimension.pdb

@@ -1,0 +1,17 @@
+C:\Users\preethu\source\repos\Practice_1\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Practice_1\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\preethu\source\repos\Practice_1\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+C:\Users\preethu\source\repos\Practice_1\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+C:\Users\preethu\source\repos\Practice_1\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Practice_1\Service\bin\Debug\net8.0\Service.deps.json
+C:\Users\preethu\source\repos\Practice_1\Service\bin\Debug\net8.0\Service.dll
+C:\Users\preethu\source\repos\Practice_1\Service\bin\Debug\net8.0\Service.pdb
+C:\Users\preethu\source\repos\Practice_1\Service\bin\Debug\net8.0\DataAccess.dll
+C:\Users\preethu\source\repos\Practice_1\Service\bin\Debug\net8.0\Manager.dll
+C:\Users\preethu\source\repos\Practice_1\Service\bin\Debug\net8.0\DataAccess.pdb
+C:\Users\preethu\source\repos\Practice_1\Service\bin\Debug\net8.0\Manager.pdb
+C:\Users\preethu\source\repos\Practice_1\Service\obj\Debug\net8.0\Service.csproj.Up2Date
+C:\Users\preethu\source\repos\Practice_1\Service\obj\Debug\net8.0\Service.dll
+C:\Users\preethu\source\repos\Practice_1\Service\obj\Debug\net8.0\refint\Service.dll
+C:\Users\preethu\source\repos\Practice_1\Service\obj\Debug\net8.0\Service.pdb
+C:\Users\preethu\source\repos\Practice_1\Service\obj\Debug\net8.0\ref\Service.dll

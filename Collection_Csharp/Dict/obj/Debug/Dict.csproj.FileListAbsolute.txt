@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\Collection\Dict\bin\Debug\Dict.exe.config
+C:\Users\preethu\source\repos\Collection\Dict\bin\Debug\Dict.exe
+C:\Users\preethu\source\repos\Collection\Dict\bin\Debug\Dict.pdb
+C:\Users\preethu\source\repos\Collection\Dict\obj\Debug\Dict.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Collection\Dict\obj\Debug\Dict.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Collection\Dict\obj\Debug\Dict.exe
+C:\Users\preethu\source\repos\Collection\Dict\obj\Debug\Dict.pdb

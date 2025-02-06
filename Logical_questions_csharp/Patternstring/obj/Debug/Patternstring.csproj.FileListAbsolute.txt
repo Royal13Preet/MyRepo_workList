@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\Saturdaywork\Patternstring\bin\Debug\Patternstring.exe.config
+C:\Users\preethu\source\repos\Saturdaywork\Patternstring\bin\Debug\Patternstring.exe
+C:\Users\preethu\source\repos\Saturdaywork\Patternstring\bin\Debug\Patternstring.pdb
+C:\Users\preethu\source\repos\Saturdaywork\Patternstring\obj\Debug\Patternstring.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Saturdaywork\Patternstring\obj\Debug\Patternstring.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Saturdaywork\Patternstring\obj\Debug\Patternstring.exe
+C:\Users\preethu\source\repos\Saturdaywork\Patternstring\obj\Debug\Patternstring.pdb

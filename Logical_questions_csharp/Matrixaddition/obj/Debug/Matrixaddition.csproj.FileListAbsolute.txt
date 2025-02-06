@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\Saturdaywork\Matrixaddition\bin\Debug\Matrixaddition.exe.config
+C:\Users\preethu\source\repos\Saturdaywork\Matrixaddition\bin\Debug\Matrixaddition.exe
+C:\Users\preethu\source\repos\Saturdaywork\Matrixaddition\bin\Debug\Matrixaddition.pdb
+C:\Users\preethu\source\repos\Saturdaywork\Matrixaddition\obj\Debug\Matrixaddition.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Saturdaywork\Matrixaddition\obj\Debug\Matrixaddition.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Saturdaywork\Matrixaddition\obj\Debug\Matrixaddition.exe
+C:\Users\preethu\source\repos\Saturdaywork\Matrixaddition\obj\Debug\Matrixaddition.pdb

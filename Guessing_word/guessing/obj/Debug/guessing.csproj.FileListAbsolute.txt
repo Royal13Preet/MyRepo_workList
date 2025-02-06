@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\guessing\guessing\bin\Debug\guessing.exe.config
+C:\Users\preethu\source\repos\guessing\guessing\bin\Debug\guessing.exe
+C:\Users\preethu\source\repos\guessing\guessing\bin\Debug\guessing.pdb
+C:\Users\preethu\source\repos\guessing\guessing\obj\Debug\guessing.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\guessing\guessing\obj\Debug\guessing.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\guessing\guessing\obj\Debug\guessing.exe
+C:\Users\preethu\source\repos\guessing\guessing\obj\Debug\guessing.pdb

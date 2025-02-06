@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\Multithreading\files\bin\Debug\files.exe.config
+C:\Users\preethu\source\repos\Multithreading\files\bin\Debug\files.exe
+C:\Users\preethu\source\repos\Multithreading\files\bin\Debug\files.pdb
+C:\Users\preethu\source\repos\Multithreading\files\obj\Debug\files.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Multithreading\files\obj\Debug\files.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Multithreading\files\obj\Debug\files.exe
+C:\Users\preethu\source\repos\Multithreading\files\obj\Debug\files.pdb

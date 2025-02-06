@@ -1,0 +1,11 @@
+C:\Users\preethu\source\repos\AccessModifierDemo\AssemblyOne\obj\Debug\net8.0\AssemblyOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\preethu\source\repos\AccessModifierDemo\AssemblyOne\obj\Debug\net8.0\AssemblyOne.AssemblyInfoInputs.cache
+C:\Users\preethu\source\repos\AccessModifierDemo\AssemblyOne\obj\Debug\net8.0\AssemblyOne.AssemblyInfo.cs
+C:\Users\preethu\source\repos\AccessModifierDemo\AssemblyOne\obj\Debug\net8.0\AssemblyOne.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\AccessModifierDemo\AssemblyOne\bin\Debug\net8.0\AssemblyOne.deps.json
+C:\Users\preethu\source\repos\AccessModifierDemo\AssemblyOne\bin\Debug\net8.0\AssemblyOne.dll
+C:\Users\preethu\source\repos\AccessModifierDemo\AssemblyOne\bin\Debug\net8.0\AssemblyOne.pdb
+C:\Users\preethu\source\repos\AccessModifierDemo\AssemblyOne\obj\Debug\net8.0\AssemblyOne.dll
+C:\Users\preethu\source\repos\AccessModifierDemo\AssemblyOne\obj\Debug\net8.0\refint\AssemblyOne.dll
+C:\Users\preethu\source\repos\AccessModifierDemo\AssemblyOne\obj\Debug\net8.0\AssemblyOne.pdb
+C:\Users\preethu\source\repos\AccessModifierDemo\AssemblyOne\obj\Debug\net8.0\ref\AssemblyOne.dll

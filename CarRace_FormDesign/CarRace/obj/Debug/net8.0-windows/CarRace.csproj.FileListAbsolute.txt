@@ -1,0 +1,17 @@
+C:\Users\preethu\source\repos\CarRace\CarRace\bin\Debug\net8.0-windows\CarRace.exe
+C:\Users\preethu\source\repos\CarRace\CarRace\bin\Debug\net8.0-windows\CarRace.deps.json
+C:\Users\preethu\source\repos\CarRace\CarRace\bin\Debug\net8.0-windows\CarRace.runtimeconfig.json
+C:\Users\preethu\source\repos\CarRace\CarRace\bin\Debug\net8.0-windows\CarRace.dll
+C:\Users\preethu\source\repos\CarRace\CarRace\bin\Debug\net8.0-windows\CarRace.pdb
+C:\Users\preethu\source\repos\CarRace\CarRace\obj\Debug\net8.0-windows\CarRace.Form1.resources
+C:\Users\preethu\source\repos\CarRace\CarRace\obj\Debug\net8.0-windows\CarRace.csproj.GenerateResource.cache
+C:\Users\preethu\source\repos\CarRace\CarRace\obj\Debug\net8.0-windows\CarRace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\preethu\source\repos\CarRace\CarRace\obj\Debug\net8.0-windows\CarRace.AssemblyInfoInputs.cache
+C:\Users\preethu\source\repos\CarRace\CarRace\obj\Debug\net8.0-windows\CarRace.AssemblyInfo.cs
+C:\Users\preethu\source\repos\CarRace\CarRace\obj\Debug\net8.0-windows\CarRace.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\CarRace\CarRace\obj\Debug\net8.0-windows\CarRace.dll
+C:\Users\preethu\source\repos\CarRace\CarRace\obj\Debug\net8.0-windows\refint\CarRace.dll
+C:\Users\preethu\source\repos\CarRace\CarRace\obj\Debug\net8.0-windows\CarRace.pdb
+C:\Users\preethu\source\repos\CarRace\CarRace\obj\Debug\net8.0-windows\CarRace.genruntimeconfig.cache
+C:\Users\preethu\source\repos\CarRace\CarRace\obj\Debug\net8.0-windows\ref\CarRace.dll
+C:\Users\preethu\source\repos\CarRace\CarRace\obj\Debug\net8.0-windows\CarRace.Properties.Resources.resources

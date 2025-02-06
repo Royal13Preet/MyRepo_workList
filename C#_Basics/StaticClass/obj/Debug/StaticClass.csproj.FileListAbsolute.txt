@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\areaofrect\StaticClass\bin\Debug\StaticClass.exe.config
+C:\Users\preethu\source\repos\areaofrect\StaticClass\bin\Debug\StaticClass.exe
+C:\Users\preethu\source\repos\areaofrect\StaticClass\bin\Debug\StaticClass.pdb
+C:\Users\preethu\source\repos\areaofrect\StaticClass\obj\Debug\StaticClass.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\areaofrect\StaticClass\obj\Debug\StaticClass.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\areaofrect\StaticClass\obj\Debug\StaticClass.exe
+C:\Users\preethu\source\repos\areaofrect\StaticClass\obj\Debug\StaticClass.pdb

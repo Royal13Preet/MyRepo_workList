@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\Exercise\smallmatrix\bin\Debug\smallmatrix.exe.config
+C:\Users\preethu\source\repos\Exercise\smallmatrix\bin\Debug\smallmatrix.exe
+C:\Users\preethu\source\repos\Exercise\smallmatrix\bin\Debug\smallmatrix.pdb
+C:\Users\preethu\source\repos\Exercise\smallmatrix\obj\Debug\smallmatrix.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Exercise\smallmatrix\obj\Debug\smallmatrix.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Exercise\smallmatrix\obj\Debug\smallmatrix.exe
+C:\Users\preethu\source\repos\Exercise\smallmatrix\obj\Debug\smallmatrix.pdb

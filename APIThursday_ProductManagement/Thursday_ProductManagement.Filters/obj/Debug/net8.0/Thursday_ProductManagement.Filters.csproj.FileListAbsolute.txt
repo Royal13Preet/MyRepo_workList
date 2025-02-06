@@ -1,0 +1,12 @@
+C:\Users\preethu\source\repos\Thursday_ProductManagement\Thursday_ProductManagement.Filters\bin\Debug\net8.0\Thursday_ProductManagement.Filters.deps.json
+C:\Users\preethu\source\repos\Thursday_ProductManagement\Thursday_ProductManagement.Filters\bin\Debug\net8.0\Thursday_ProductManagement.Filters.dll
+C:\Users\preethu\source\repos\Thursday_ProductManagement\Thursday_ProductManagement.Filters\bin\Debug\net8.0\Thursday_ProductManagement.Filters.pdb
+C:\Users\preethu\source\repos\Thursday_ProductManagement\Thursday_ProductManagement.Filters\obj\Debug\net8.0\Thursday_ProductManagement.Filters.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Thursday_ProductManagement\Thursday_ProductManagement.Filters\obj\Debug\net8.0\Thursday_ProductManagement.Filters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\preethu\source\repos\Thursday_ProductManagement\Thursday_ProductManagement.Filters\obj\Debug\net8.0\Thursday_ProductManagement.Filters.AssemblyInfoInputs.cache
+C:\Users\preethu\source\repos\Thursday_ProductManagement\Thursday_ProductManagement.Filters\obj\Debug\net8.0\Thursday_ProductManagement.Filters.AssemblyInfo.cs
+C:\Users\preethu\source\repos\Thursday_ProductManagement\Thursday_ProductManagement.Filters\obj\Debug\net8.0\Thursday_ProductManagement.Filters.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Thursday_ProductManagement\Thursday_ProductManagement.Filters\obj\Debug\net8.0\Thursday_ProductManagement.Filters.dll
+C:\Users\preethu\source\repos\Thursday_ProductManagement\Thursday_ProductManagement.Filters\obj\Debug\net8.0\refint\Thursday_ProductManagement.Filters.dll
+C:\Users\preethu\source\repos\Thursday_ProductManagement\Thursday_ProductManagement.Filters\obj\Debug\net8.0\Thursday_ProductManagement.Filters.pdb
+C:\Users\preethu\source\repos\Thursday_ProductManagement\Thursday_ProductManagement.Filters\obj\Debug\net8.0\ref\Thursday_ProductManagement.Filters.dll

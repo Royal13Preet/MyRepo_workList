@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\Saturdaywork\Recursivefib\obj\Debug\Recursivefib.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Saturdaywork\Recursivefib\obj\Debug\Recursivefib.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Saturdaywork\Recursivefib\bin\Debug\Recursivefib.exe.config
+C:\Users\preethu\source\repos\Saturdaywork\Recursivefib\bin\Debug\Recursivefib.exe
+C:\Users\preethu\source\repos\Saturdaywork\Recursivefib\bin\Debug\Recursivefib.pdb
+C:\Users\preethu\source\repos\Saturdaywork\Recursivefib\obj\Debug\Recursivefib.exe
+C:\Users\preethu\source\repos\Saturdaywork\Recursivefib\obj\Debug\Recursivefib.pdb

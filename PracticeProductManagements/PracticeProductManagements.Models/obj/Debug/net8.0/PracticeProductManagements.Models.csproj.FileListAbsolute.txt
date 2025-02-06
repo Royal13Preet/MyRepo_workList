@@ -1,0 +1,11 @@
+C:\Users\preethu\source\repos\PracticeProductManagements\PracticeProductManagements.Models\bin\Debug\net8.0\PracticeProductManagements.Models.deps.json
+C:\Users\preethu\source\repos\PracticeProductManagements\PracticeProductManagements.Models\bin\Debug\net8.0\PracticeProductManagements.Models.dll
+C:\Users\preethu\source\repos\PracticeProductManagements\PracticeProductManagements.Models\bin\Debug\net8.0\PracticeProductManagements.Models.pdb
+C:\Users\preethu\source\repos\PracticeProductManagements\PracticeProductManagements.Models\obj\Debug\net8.0\PracticeProductManagements.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\preethu\source\repos\PracticeProductManagements\PracticeProductManagements.Models\obj\Debug\net8.0\PracticeProductManagements.Models.AssemblyInfoInputs.cache
+C:\Users\preethu\source\repos\PracticeProductManagements\PracticeProductManagements.Models\obj\Debug\net8.0\PracticeProductManagements.Models.AssemblyInfo.cs
+C:\Users\preethu\source\repos\PracticeProductManagements\PracticeProductManagements.Models\obj\Debug\net8.0\PracticeProductManagements.Models.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\PracticeProductManagements\PracticeProductManagements.Models\obj\Debug\net8.0\PracticeProductManagements.Models.dll
+C:\Users\preethu\source\repos\PracticeProductManagements\PracticeProductManagements.Models\obj\Debug\net8.0\refint\PracticeProductManagements.Models.dll
+C:\Users\preethu\source\repos\PracticeProductManagements\PracticeProductManagements.Models\obj\Debug\net8.0\PracticeProductManagements.Models.pdb
+C:\Users\preethu\source\repos\PracticeProductManagements\PracticeProductManagements.Models\obj\Debug\net8.0\ref\PracticeProductManagements.Models.dll

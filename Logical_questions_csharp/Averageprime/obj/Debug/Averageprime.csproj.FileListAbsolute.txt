@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\Saturdaywork\Averageprime\bin\Debug\Averageprime.exe.config
+C:\Users\preethu\source\repos\Saturdaywork\Averageprime\bin\Debug\Averageprime.exe
+C:\Users\preethu\source\repos\Saturdaywork\Averageprime\bin\Debug\Averageprime.pdb
+C:\Users\preethu\source\repos\Saturdaywork\Averageprime\obj\Debug\Averageprime.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Saturdaywork\Averageprime\obj\Debug\Averageprime.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Saturdaywork\Averageprime\obj\Debug\Averageprime.exe
+C:\Users\preethu\source\repos\Saturdaywork\Averageprime\obj\Debug\Averageprime.pdb

@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\practice\Sudko\bin\Debug\Sudko.exe.config
+C:\Users\preethu\source\repos\practice\Sudko\bin\Debug\Sudko.exe
+C:\Users\preethu\source\repos\practice\Sudko\bin\Debug\Sudko.pdb
+C:\Users\preethu\source\repos\practice\Sudko\obj\Debug\Sudko.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\practice\Sudko\obj\Debug\Sudko.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\practice\Sudko\obj\Debug\Sudko.exe
+C:\Users\preethu\source\repos\practice\Sudko\obj\Debug\Sudko.pdb

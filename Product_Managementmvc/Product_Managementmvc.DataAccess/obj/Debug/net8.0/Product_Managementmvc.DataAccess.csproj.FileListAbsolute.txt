@@ -1,0 +1,14 @@
+C:\Users\preethu\source\repos\Product_Managementmvc\Product_Managementmvc.DataAccess\bin\Debug\net8.0\Product_Managementmvc.DataAccess.deps.json
+C:\Users\preethu\source\repos\Product_Managementmvc\Product_Managementmvc.DataAccess\bin\Debug\net8.0\Product_Managementmvc.DataAccess.dll
+C:\Users\preethu\source\repos\Product_Managementmvc\Product_Managementmvc.DataAccess\bin\Debug\net8.0\Product_Managementmvc.DataAccess.pdb
+C:\Users\preethu\source\repos\Product_Managementmvc\Product_Managementmvc.DataAccess\obj\Debug\net8.0\Product_Managementmvc.DataAccess.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Product_Managementmvc\Product_Managementmvc.DataAccess\obj\Debug\net8.0\Product_Managementmvc.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\preethu\source\repos\Product_Managementmvc\Product_Managementmvc.DataAccess\obj\Debug\net8.0\Product_Managementmvc.DataAccess.AssemblyInfoInputs.cache
+C:\Users\preethu\source\repos\Product_Managementmvc\Product_Managementmvc.DataAccess\obj\Debug\net8.0\Product_Managementmvc.DataAccess.AssemblyInfo.cs
+C:\Users\preethu\source\repos\Product_Managementmvc\Product_Managementmvc.DataAccess\obj\Debug\net8.0\Product_Managementmvc.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Product_Managementmvc\Product_Managementmvc.DataAccess\obj\Debug\net8.0\Product_Managementmvc.DataAccess.dll
+C:\Users\preethu\source\repos\Product_Managementmvc\Product_Managementmvc.DataAccess\obj\Debug\net8.0\refint\Product_Managementmvc.DataAccess.dll
+C:\Users\preethu\source\repos\Product_Managementmvc\Product_Managementmvc.DataAccess\obj\Debug\net8.0\Product_Managementmvc.DataAccess.pdb
+C:\Users\preethu\source\repos\Product_Managementmvc\Product_Managementmvc.DataAccess\obj\Debug\net8.0\ref\Product_Managementmvc.DataAccess.dll
+C:\Users\preethu\source\repos\Product_Managementmvc\Product_Managementmvc.DataAccess\bin\Debug\net8.0\Product_Managementmvc.DataAccess.runtimeconfig.json
+C:\Users\preethu\source\repos\Product_Managementmvc\Product_Managementmvc.DataAccess\obj\Debug\net8.0\Product_Managementmvc.DataAccess.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\Exercise\DateTimeyear\bin\Debug\DateTimeyear.exe.config
+C:\Users\preethu\source\repos\Exercise\DateTimeyear\bin\Debug\DateTimeyear.exe
+C:\Users\preethu\source\repos\Exercise\DateTimeyear\bin\Debug\DateTimeyear.pdb
+C:\Users\preethu\source\repos\Exercise\DateTimeyear\obj\Debug\DateTimeyear.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Exercise\DateTimeyear\obj\Debug\DateTimeyear.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Exercise\DateTimeyear\obj\Debug\DateTimeyear.exe
+C:\Users\preethu\source\repos\Exercise\DateTimeyear\obj\Debug\DateTimeyear.pdb

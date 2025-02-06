@@ -1,0 +1,397 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3550A33-C08B-4848-A2EB-AE9378F9D389}|Product_Managementmvc.MvcView\\Product_Managementmvc.MvcView.csproj|c:\\users\\preethu\\source\\repos\\product_managementmvc\\product_managementmvc.mvcview\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3550A33-C08B-4848-A2EB-AE9378F9D389}|Product_Managementmvc.MvcView\\Product_Managementmvc.MvcView.csproj|solutionrelative:product_managementmvc.mvcview\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3550A33-C08B-4848-A2EB-AE9378F9D389}|Product_Managementmvc.MvcView\\Product_Managementmvc.MvcView.csproj|c:\\users\\preethu\\source\\repos\\product_managementmvc\\product_managementmvc.mvcview\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3550A33-C08B-4848-A2EB-AE9378F9D389}|Product_Managementmvc.MvcView\\Product_Managementmvc.MvcView.csproj|solutionrelative:product_managementmvc.mvcview\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C3EF61-180F-4EB3-84EE-B589541D1B79}|Product_Managementmvc.DataAccess\\Product_Managementmvc.DataAccess.csproj|c:\\users\\preethu\\source\\repos\\product_managementmvc\\product_managementmvc.dataaccess\\dbmodel\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C3EF61-180F-4EB3-84EE-B589541D1B79}|Product_Managementmvc.DataAccess\\Product_Managementmvc.DataAccess.csproj|solutionrelative:product_managementmvc.dataaccess\\dbmodel\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C3EF61-180F-4EB3-84EE-B589541D1B79}|Product_Managementmvc.DataAccess\\Product_Managementmvc.DataAccess.csproj|c:\\users\\preethu\\source\\repos\\product_managementmvc\\product_managementmvc.dataaccess\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C3EF61-180F-4EB3-84EE-B589541D1B79}|Product_Managementmvc.DataAccess\\Product_Managementmvc.DataAccess.csproj|solutionrelative:product_managementmvc.dataaccess\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C3EF61-180F-4EB3-84EE-B589541D1B79}|Product_Managementmvc.DataAccess\\Product_Managementmvc.DataAccess.csproj|c:\\users\\preethu\\source\\repos\\product_managementmvc\\product_managementmvc.dataaccess\\migrations\\productdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C3EF61-180F-4EB3-84EE-B589541D1B79}|Product_Managementmvc.DataAccess\\Product_Managementmvc.DataAccess.csproj|solutionrelative:product_managementmvc.dataaccess\\migrations\\productdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3550A33-C08B-4848-A2EB-AE9378F9D389}|Product_Managementmvc.MvcView\\Product_Managementmvc.MvcView.csproj|c:\\users\\preethu\\source\\repos\\product_managementmvc\\product_managementmvc.mvcview\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C3550A33-C08B-4848-A2EB-AE9378F9D389}|Product_Managementmvc.MvcView\\Product_Managementmvc.MvcView.csproj|solutionrelative:product_managementmvc.mvcview\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3550A33-C08B-4848-A2EB-AE9378F9D389}|Product_Managementmvc.MvcView\\Product_Managementmvc.MvcView.csproj|c:\\users\\preethu\\source\\repos\\product_managementmvc\\product_managementmvc.mvcview\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C3550A33-C08B-4848-A2EB-AE9378F9D389}|Product_Managementmvc.MvcView\\Product_Managementmvc.MvcView.csproj|solutionrelative:product_managementmvc.mvcview\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3550A33-C08B-4848-A2EB-AE9378F9D389}|Product_Managementmvc.MvcView\\Product_Managementmvc.MvcView.csproj|c:\\users\\preethu\\source\\repos\\product_managementmvc\\product_managementmvc.mvcview\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3550A33-C08B-4848-A2EB-AE9378F9D389}|Product_Managementmvc.MvcView\\Product_Managementmvc.MvcView.csproj|solutionrelative:product_managementmvc.mvcview\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3550A33-C08B-4848-A2EB-AE9378F9D389}|Product_Managementmvc.MvcView\\Product_Managementmvc.MvcView.csproj|c:\\users\\preethu\\source\\repos\\product_managementmvc\\product_managementmvc.mvcview\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3550A33-C08B-4848-A2EB-AE9378F9D389}|Product_Managementmvc.MvcView\\Product_Managementmvc.MvcView.csproj|solutionrelative:product_managementmvc.mvcview\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3550A33-C08B-4848-A2EB-AE9378F9D389}|Product_Managementmvc.MvcView\\Product_Managementmvc.MvcView.csproj|c:\\users\\preethu\\source\\repos\\product_managementmvc\\product_managementmvc.mvcview\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3550A33-C08B-4848-A2EB-AE9378F9D389}|Product_Managementmvc.MvcView\\Product_Managementmvc.MvcView.csproj|solutionrelative:product_managementmvc.mvcview\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3550A33-C08B-4848-A2EB-AE9378F9D389}|Product_Managementmvc.MvcView\\Product_Managementmvc.MvcView.csproj|c:\\users\\preethu\\source\\repos\\product_managementmvc\\product_managementmvc.mvcview\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3550A33-C08B-4848-A2EB-AE9378F9D389}|Product_Managementmvc.MvcView\\Product_Managementmvc.MvcView.csproj|solutionrelative:product_managementmvc.mvcview\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3550A33-C08B-4848-A2EB-AE9378F9D389}|Product_Managementmvc.MvcView\\Product_Managementmvc.MvcView.csproj|c:\\users\\preethu\\source\\repos\\product_managementmvc\\product_managementmvc.mvcview\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3550A33-C08B-4848-A2EB-AE9378F9D389}|Product_Managementmvc.MvcView\\Product_Managementmvc.MvcView.csproj|solutionrelative:product_managementmvc.mvcview\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3550A33-C08B-4848-A2EB-AE9378F9D389}|Product_Managementmvc.MvcView\\Product_Managementmvc.MvcView.csproj|c:\\users\\preethu\\source\\repos\\product_managementmvc\\product_managementmvc.mvcview\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3550A33-C08B-4848-A2EB-AE9378F9D389}|Product_Managementmvc.MvcView\\Product_Managementmvc.MvcView.csproj|solutionrelative:product_managementmvc.mvcview\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3550A33-C08B-4848-A2EB-AE9378F9D389}|Product_Managementmvc.MvcView\\Product_Managementmvc.MvcView.csproj|c:\\users\\preethu\\source\\repos\\product_managementmvc\\product_managementmvc.mvcview\\views\\login\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3550A33-C08B-4848-A2EB-AE9378F9D389}|Product_Managementmvc.MvcView\\Product_Managementmvc.MvcView.csproj|solutionrelative:product_managementmvc.mvcview\\views\\login\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CAD5E5-AE6A-48BA-BF0E-57713DA63448}|Product_Managementmvc.Managers\\Product_Managementmvc.Managers.csproj|c:\\users\\preethu\\source\\repos\\product_managementmvc\\product_managementmvc.managers\\productdto\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56CAD5E5-AE6A-48BA-BF0E-57713DA63448}|Product_Managementmvc.Managers\\Product_Managementmvc.Managers.csproj|solutionrelative:product_managementmvc.managers\\productdto\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C3EF61-180F-4EB3-84EE-B589541D1B79}|Product_Managementmvc.DataAccess\\Product_Managementmvc.DataAccess.csproj|c:\\users\\preethu\\source\\repos\\product_managementmvc\\product_managementmvc.dataaccess\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C3EF61-180F-4EB3-84EE-B589541D1B79}|Product_Managementmvc.DataAccess\\Product_Managementmvc.DataAccess.csproj|solutionrelative:product_managementmvc.dataaccess\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C3EF61-180F-4EB3-84EE-B589541D1B79}|Product_Managementmvc.DataAccess\\Product_Managementmvc.DataAccess.csproj|c:\\users\\preethu\\source\\repos\\product_managementmvc\\product_managementmvc.dataaccess\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C3EF61-180F-4EB3-84EE-B589541D1B79}|Product_Managementmvc.DataAccess\\Product_Managementmvc.DataAccess.csproj|solutionrelative:product_managementmvc.dataaccess\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C3EF61-180F-4EB3-84EE-B589541D1B79}|Product_Managementmvc.DataAccess\\Product_Managementmvc.DataAccess.csproj|c:\\users\\preethu\\source\\repos\\product_managementmvc\\product_managementmvc.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C3EF61-180F-4EB3-84EE-B589541D1B79}|Product_Managementmvc.DataAccess\\Product_Managementmvc.DataAccess.csproj|solutionrelative:product_managementmvc.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C3EF61-180F-4EB3-84EE-B589541D1B79}|Product_Managementmvc.DataAccess\\Product_Managementmvc.DataAccess.csproj|c:\\users\\preethu\\source\\repos\\product_managementmvc\\product_managementmvc.dataaccess\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C3EF61-180F-4EB3-84EE-B589541D1B79}|Product_Managementmvc.DataAccess\\Product_Managementmvc.DataAccess.csproj|solutionrelative:product_managementmvc.dataaccess\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3550A33-C08B-4848-A2EB-AE9378F9D389}|Product_Managementmvc.MvcView\\Product_Managementmvc.MvcView.csproj|c:\\users\\preethu\\source\\repos\\product_managementmvc\\product_managementmvc.mvcview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3550A33-C08B-4848-A2EB-AE9378F9D389}|Product_Managementmvc.MvcView\\Product_Managementmvc.MvcView.csproj|solutionrelative:product_managementmvc.mvcview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3550A33-C08B-4848-A2EB-AE9378F9D389}|Product_Managementmvc.MvcView\\Product_Managementmvc.MvcView.csproj|c:\\users\\preethu\\source\\repos\\product_managementmvc\\product_managementmvc.mvcview\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3550A33-C08B-4848-A2EB-AE9378F9D389}|Product_Managementmvc.MvcView\\Product_Managementmvc.MvcView.csproj|solutionrelative:product_managementmvc.mvcview\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3550A33-C08B-4848-A2EB-AE9378F9D389}|Product_Managementmvc.MvcView\\Product_Managementmvc.MvcView.csproj|c:\\users\\preethu\\source\\repos\\product_managementmvc\\product_managementmvc.mvcview\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C3550A33-C08B-4848-A2EB-AE9378F9D389}|Product_Managementmvc.MvcView\\Product_Managementmvc.MvcView.csproj|solutionrelative:product_managementmvc.mvcview\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 215,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.DataAccess\\DBModel\\Product.cs",
+              "RelativeDocumentMoniker": "Product_Managementmvc.DataAccess\\DBModel\\Product.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.DataAccess\\DBModel\\Product.cs",
+              "RelativeToolTip": "Product_Managementmvc.DataAccess\\DBModel\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T03:53:23.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.MvcView\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Product_Managementmvc.MvcView\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.MvcView\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Product_Managementmvc.MvcView\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T08:13:49.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoggingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.MvcView\\LoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "Product_Managementmvc.MvcView\\LoggingMiddleware.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.MvcView\\LoggingMiddleware.cs",
+              "RelativeToolTip": "Product_Managementmvc.MvcView\\LoggingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T08:13:32.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.MvcView\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Product_Managementmvc.MvcView\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.MvcView\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Product_Managementmvc.MvcView\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T08:12:18.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.MvcView\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Product_Managementmvc.MvcView\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.MvcView\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Product_Managementmvc.MvcView\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T08:12:15.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.MvcView\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Product_Managementmvc.MvcView\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.MvcView\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Product_Managementmvc.MvcView\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T03:42:49.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.MvcView\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Product_Managementmvc.MvcView\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.MvcView\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Product_Managementmvc.MvcView\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T03:45:02.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.MvcView\\appsettings.json",
+              "RelativeDocumentMoniker": "Product_Managementmvc.MvcView\\appsettings.json",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.MvcView\\appsettings.json",
+              "RelativeToolTip": "Product_Managementmvc.MvcView\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-31T08:38:26.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.DataAccess\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "Product_Managementmvc.DataAccess\\ProductDbContext.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.DataAccess\\ProductDbContext.cs",
+              "RelativeToolTip": "Product_Managementmvc.DataAccess\\ProductDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T03:53:15.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.DataAccess\\Migrations\\ProductDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Product_Managementmvc.DataAccess\\Migrations\\ProductDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.DataAccess\\Migrations\\ProductDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Product_Managementmvc.DataAccess\\Migrations\\ProductDbContextModelSnapshot.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T05:25:42.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.MvcView\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Product_Managementmvc.MvcView\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.MvcView\\appsettings.Development.json",
+              "RelativeToolTip": "Product_Managementmvc.MvcView\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-31T08:38:30.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.MvcView\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Product_Managementmvc.MvcView\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.MvcView\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Product_Managementmvc.MvcView\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T08:12:11.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.MvcView\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "Product_Managementmvc.MvcView\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.MvcView\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "Product_Managementmvc.MvcView\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T05:53:56.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.MvcView\\Views\\Login\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "Product_Managementmvc.MvcView\\Views\\Login\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.MvcView\\Views\\Login\\AccessDenied.cshtml",
+              "RelativeToolTip": "Product_Managementmvc.MvcView\\Views\\Login\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T05:53:22.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.Managers\\ProductDto\\ProductCreateDto.cs",
+              "RelativeDocumentMoniker": "Product_Managementmvc.Managers\\ProductDto\\ProductCreateDto.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.Managers\\ProductDto\\ProductCreateDto.cs",
+              "RelativeToolTip": "Product_Managementmvc.Managers\\ProductDto\\ProductCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T05:26:01.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.DataAccess\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "Product_Managementmvc.DataAccess\\Repository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.DataAccess\\Repository\\IRepository.cs",
+              "RelativeToolTip": "Product_Managementmvc.DataAccess\\Repository\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T05:25:58.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.DataAccess\\Repository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Product_Managementmvc.DataAccess\\Repository\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.DataAccess\\Repository\\IProductRepository.cs",
+              "RelativeToolTip": "Product_Managementmvc.DataAccess\\Repository\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T05:25:57.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.DataAccess\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "Product_Managementmvc.DataAccess\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.DataAccess\\Repository\\Repository.cs",
+              "RelativeToolTip": "Product_Managementmvc.DataAccess\\Repository\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T05:25:56.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.DataAccess\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Product_Managementmvc.DataAccess\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.DataAccess\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "Product_Managementmvc.DataAccess\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T05:25:55.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.MvcView\\Program.cs",
+              "RelativeDocumentMoniker": "Product_Managementmvc.MvcView\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.MvcView\\Program.cs",
+              "RelativeToolTip": "Product_Managementmvc.MvcView\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T08:45:14.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.MvcView\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Product_Managementmvc.MvcView\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.MvcView\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Product_Managementmvc.MvcView\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-25T08:58:40.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.MvcView\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "Product_Managementmvc.MvcView\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.MvcView\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "Product_Managementmvc.MvcView\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-27T08:25:11.421Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 51,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

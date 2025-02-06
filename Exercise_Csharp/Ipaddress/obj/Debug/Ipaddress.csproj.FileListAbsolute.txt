@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\Exercise\Ipaddress\bin\Debug\Ipaddress.exe.config
+C:\Users\preethu\source\repos\Exercise\Ipaddress\bin\Debug\Ipaddress.exe
+C:\Users\preethu\source\repos\Exercise\Ipaddress\bin\Debug\Ipaddress.pdb
+C:\Users\preethu\source\repos\Exercise\Ipaddress\obj\Debug\Ipaddress.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Exercise\Ipaddress\obj\Debug\Ipaddress.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Exercise\Ipaddress\obj\Debug\Ipaddress.exe
+C:\Users\preethu\source\repos\Exercise\Ipaddress\obj\Debug\Ipaddress.pdb

@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\practice\Equaloperator\bin\Debug\Equaloperator.exe.config
+C:\Users\preethu\source\repos\practice\Equaloperator\bin\Debug\Equaloperator.exe
+C:\Users\preethu\source\repos\practice\Equaloperator\bin\Debug\Equaloperator.pdb
+C:\Users\preethu\source\repos\practice\Equaloperator\obj\Debug\Equaloperator.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\practice\Equaloperator\obj\Debug\Equaloperator.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\practice\Equaloperator\obj\Debug\Equaloperator.exe
+C:\Users\preethu\source\repos\practice\Equaloperator\obj\Debug\Equaloperator.pdb

@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\areaofrect\PartialClassDemo\bin\Debug\PartialClassDemo.exe.config
+C:\Users\preethu\source\repos\areaofrect\PartialClassDemo\bin\Debug\PartialClassDemo.exe
+C:\Users\preethu\source\repos\areaofrect\PartialClassDemo\bin\Debug\PartialClassDemo.pdb
+C:\Users\preethu\source\repos\areaofrect\PartialClassDemo\obj\Debug\PartialClassDemo.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\areaofrect\PartialClassDemo\obj\Debug\PartialClassDemo.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\areaofrect\PartialClassDemo\obj\Debug\PartialClassDemo.exe
+C:\Users\preethu\source\repos\areaofrect\PartialClassDemo\obj\Debug\PartialClassDemo.pdb

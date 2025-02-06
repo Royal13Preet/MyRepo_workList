@@ -1,0 +1,656 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64D54D35-9874-4B87-9CD7-72591443F65D}|DatatypeCasting\\DatatypeCasting.csproj|c:\\users\\preethu\\source\\repos\\c#_basics\\datatypecasting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D54D35-9874-4B87-9CD7-72591443F65D}|DatatypeCasting\\DatatypeCasting.csproj|solutionrelative:datatypecasting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BDBE7EE-B134-42FC-9357-012422ADDD95}|areaofrect\\area.csproj|C:\\Users\\preethu\\source\\repos\\C#_Basics\\areaofrect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BDBE7EE-B134-42FC-9357-012422ADDD95}|areaofrect\\area.csproj|solutionrelative:areaofrect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC98C80-F347-4D1B-9D8A-3395BF720C4C}|Abstractclass1\\Abstractclass1.csproj|C:\\Users\\preethu\\source\\repos\\C#_Basics\\abstractclass1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC98C80-F347-4D1B-9D8A-3395BF720C4C}|Abstractclass1\\Abstractclass1.csproj|solutionrelative:abstractclass1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6C83F7-55AF-49E3-AE77-1A1849D5196F}|single level\\single level.csproj|c:\\users\\preethu\\source\\repos\\c#_basics\\single level\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6C83F7-55AF-49E3-AE77-1A1849D5196F}|single level\\single level.csproj|solutionrelative:single level\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6ED08D0-7324-4AF5-A826-F59B54C2C986}|singledimension\\singledimension.csproj|C:\\Users\\preethu\\source\\repos\\C#_Basics\\singledimension\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6ED08D0-7324-4AF5-A826-F59B54C2C986}|singledimension\\singledimension.csproj|solutionrelative:singledimension\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDBF5AB-69C9-40D0-B13A-8691F5ABCB64}|StaticClass\\StaticClass.csproj|C:\\Users\\preethu\\source\\repos\\C#_Basics\\staticclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDBF5AB-69C9-40D0-B13A-8691F5ABCB64}|StaticClass\\StaticClass.csproj|solutionrelative:staticclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E4AB67-1F02-438F-A7E0-BCB52BC282F0}|staticmeth\\staticmeth.csproj|C:\\Users\\preethu\\source\\repos\\C#_Basics\\staticmeth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E4AB67-1F02-438F-A7E0-BCB52BC282F0}|staticmeth\\staticmeth.csproj|solutionrelative:staticmeth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF90075-F499-415A-BB02-E85D800EC170}|array\\Transpose.csproj|C:\\Users\\preethu\\source\\repos\\C#_Basics\\array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBF90075-F499-415A-BB02-E85D800EC170}|array\\Transpose.csproj|solutionrelative:array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF90075-F499-415A-BB02-E85D800EC170}|array\\array.csproj|C:\\Users\\preethu\\source\\repos\\C#_Basics\\array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBF90075-F499-415A-BB02-E85D800EC170}|array\\array.csproj|solutionrelative:array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33711737-A7AC-4CD9-A762-E553B45EAB83}|userdefines\\userdefines.csproj|C:\\Users\\preethu\\source\\repos\\C#_Basics\\userdefines\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33711737-A7AC-4CD9-A762-E553B45EAB83}|userdefines\\userdefines.csproj|solutionrelative:userdefines\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471F85D-5297-4CD1-8E9C-BF79C3EAEAAC}|Methodoveriding\\Methodoveriding.csproj|C:\\Users\\preethu\\source\\repos\\C#_Basics\\methodoveriding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471F85D-5297-4CD1-8E9C-BF79C3EAEAAC}|Methodoveriding\\Methodoveriding.csproj|solutionrelative:methodoveriding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{396B0BA6-923C-4992-B0C9-C53E9122A746}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\preethu\\source\\repos\\C#_Basics\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{396B0BA6-923C-4992-B0C9-C53E9122A746}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A79D691D-58CA-499C-B397-346DDF5AB0BD}|PartialClassDemo\\PartialClassDemo.csproj|C:\\Users\\preethu\\source\\repos\\C#_Basics\\partialclassdemo\\partialemployeeone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A79D691D-58CA-499C-B397-346DDF5AB0BD}|PartialClassDemo\\PartialClassDemo.csproj|solutionrelative:partialclassdemo\\partialemployeeone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A79D691D-58CA-499C-B397-346DDF5AB0BD}|PartialClassDemo\\PartialClassDemo.csproj|C:\\Users\\preethu\\source\\repos\\C#_Basics\\partialclassdemo\\partialemployeetwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A79D691D-58CA-499C-B397-346DDF5AB0BD}|PartialClassDemo\\PartialClassDemo.csproj|solutionrelative:partialclassdemo\\partialemployeetwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A79D691D-58CA-499C-B397-346DDF5AB0BD}|PartialClassDemo\\PartialClassDemo.csproj|C:\\Users\\preethu\\source\\repos\\C#_Basics\\partialclassdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A79D691D-58CA-499C-B397-346DDF5AB0BD}|PartialClassDemo\\PartialClassDemo.csproj|solutionrelative:partialclassdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4FE929-A096-40B5-AE81-45538CD4553A}|hide\\hide.csproj|C:\\Users\\preethu\\source\\repos\\C#_Basics\\hide\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4FE929-A096-40B5-AE81-45538CD4553A}|hide\\hide.csproj|solutionrelative:hide\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{708140D4-3701-4F2B-92B1-7FA385F8B410}|classandobject\\classandobject.csproj|C:\\Users\\preethu\\source\\repos\\C#_Basics\\classandobject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{708140D4-3701-4F2B-92B1-7FA385F8B410}|classandobject\\classandobject.csproj|solutionrelative:classandobject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59C1335-44CB-4A4D-B3E2-9D2379C28C74}|Sealedclass\\Sealedclass.csproj|C:\\Users\\preethu\\source\\repos\\C#_Basics\\sealedclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59C1335-44CB-4A4D-B3E2-9D2379C28C74}|Sealedclass\\Sealedclass.csproj|solutionrelative:sealedclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B52415DF-71F9-4A96-813C-7C8136FBB134}|parameterized\\parameterized.csproj|C:\\Users\\preethu\\source\\repos\\C#_Basics\\parameterized\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B52415DF-71F9-4A96-813C-7C8136FBB134}|parameterized\\parameterized.csproj|solutionrelative:parameterized\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F751260-485A-455A-BCFA-03AB8C28C41A}|Jaggedarray\\Jaggedarray.csproj|C:\\Users\\preethu\\source\\repos\\C#_Basics\\jaggedarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F751260-485A-455A-BCFA-03AB8C28C41A}|Jaggedarray\\Jaggedarray.csproj|solutionrelative:jaggedarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03BEB042-EA0C-41E9-9819-0B16AA5E7BBB}|Multilevelinheritence\\Multilevelinheritence.csproj|C:\\Users\\preethu\\source\\repos\\C#_Basics\\multilevelinheritence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03BEB042-EA0C-41E9-9819-0B16AA5E7BBB}|Multilevelinheritence\\Multilevelinheritence.csproj|solutionrelative:multilevelinheritence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C5804F-32C9-4BE7-A83F-E43E95307DC3}|arraysearch\\bubble.csproj|C:\\Users\\preethu\\source\\repos\\C#_Basics\\arraysearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C5804F-32C9-4BE7-A83F-E43E95307DC3}|arraysearch\\bubble.csproj|solutionrelative:arraysearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A448E50-11D2-4111-BD98-82160B1DA3E8}|Mergesort\\SelectionSort.csproj|C:\\Users\\preethu\\source\\repos\\C#_Basics\\mergesort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A448E50-11D2-4111-BD98-82160B1DA3E8}|Mergesort\\SelectionSort.csproj|solutionrelative:mergesort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F3B7AE-7ADF-47FB-8985-850A11623F36}|methodoverload\\methodoverload.csproj|C:\\Users\\preethu\\source\\repos\\C#_Basics\\methodoverload\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0F3B7AE-7ADF-47FB-8985-850A11623F36}|methodoverload\\methodoverload.csproj|solutionrelative:methodoverload\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{846C869E-0EE2-42C7-B157-F898CBBD94A8}|readwriteemplo\\readwriteemplo.csproj|C:\\Users\\preethu\\source\\repos\\C#_Basics\\readwriteemplo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{846C869E-0EE2-42C7-B157-F898CBBD94A8}|readwriteemplo\\readwriteemplo.csproj|solutionrelative:readwriteemplo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A12E135-17C8-4B5A-8090-2EFD7BD5D77E}|methodoverloading\\methodoverloading.csproj|C:\\Users\\preethu\\source\\repos\\C#_Basics\\methodoverloading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A12E135-17C8-4B5A-8090-2EFD7BD5D77E}|methodoverloading\\methodoverloading.csproj|solutionrelative:methodoverloading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70508613-03FD-41EB-AF63-1A2EB2987AB8}|shape\\insertion.csproj|C:\\Users\\preethu\\source\\repos\\C#_Basics\\shape\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70508613-03FD-41EB-AF63-1A2EB2987AB8}|shape\\insertion.csproj|solutionrelative:shape\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C275B5-5407-4B38-95F8-2F0BF016F3B1}|copyconstructor\\copyconstructor.csproj|C:\\Users\\preethu\\source\\repos\\C#_Basics\\copyconstructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C275B5-5407-4B38-95F8-2F0BF016F3B1}|copyconstructor\\copyconstructor.csproj|solutionrelative:copyconstructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F56B3416-0359-4BC9-9E27-3F29EE80ABFD}|assignment\\assignment.csproj|C:\\Users\\preethu\\source\\repos\\C#_Basics\\assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F56B3416-0359-4BC9-9E27-3F29EE80ABFD}|assignment\\assignment.csproj|solutionrelative:assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D61B8FFE-5EFB-4F0B-8FF4-137CD53A44A7}|arrayfun\\arrayfun.csproj|C:\\Users\\preethu\\source\\repos\\C#_Basics\\arrayfun\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D61B8FFE-5EFB-4F0B-8FF4-137CD53A44A7}|arrayfun\\arrayfun.csproj|solutionrelative:arrayfun\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8406BD6-22C0-4251-975C-E66A1B4C764D}|defaultconst\\defaultconst.csproj|C:\\Users\\preethu\\source\\repos\\C#_Basics\\defaultconst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8406BD6-22C0-4251-975C-E66A1B4C764D}|defaultconst\\defaultconst.csproj|solutionrelative:defaultconst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34BD5E16-EE4A-4521-A3DB-42976F39B347}|Multiplication\\Multiplication.csproj|C:\\Users\\preethu\\source\\repos\\C#_Basics\\multiplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34BD5E16-EE4A-4521-A3DB-42976F39B347}|Multiplication\\Multiplication.csproj|solutionrelative:multiplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83516E6-8025-4B17-8A12-CDDF32E44B89}|diaglonal\\diaglonal.csproj|C:\\Users\\preethu\\source\\repos\\C#_Basics\\diaglonal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F83516E6-8025-4B17-8A12-CDDF32E44B89}|diaglonal\\diaglonal.csproj|solutionrelative:diaglonal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0075CB-8C16-470E-866E-FA132A0E960B}|Multidimension\\Multidimension.csproj|C:\\Users\\preethu\\source\\repos\\C#_Basics\\multidimension\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C0075CB-8C16-470E-866E-FA132A0E960B}|Multidimension\\Multidimension.csproj|solutionrelative:multidimension\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9F94A9-3FE5-4614-B9DE-2FA929B40A05}|Foreach\\Foreach.csproj|C:\\Users\\preethu\\source\\repos\\C#_Basics\\foreach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9F94A9-3FE5-4614-B9DE-2FA929B40A05}|Foreach\\Foreach.csproj|solutionrelative:foreach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{416F93E0-CA08-4732-B79F-8DC404090EBA}|Matrixaddition\\Matrixaddition.csproj|C:\\Users\\preethu\\source\\repos\\C#_Basics\\matrixaddition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{416F93E0-CA08-4732-B79F-8DC404090EBA}|Matrixaddition\\Matrixaddition.csproj|solutionrelative:matrixaddition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C5804F-32C9-4BE7-A83F-E43E95307DC3}|arraysearch\\arraysearch.csproj|C:\\Users\\preethu\\source\\repos\\C#_Basics\\arraysearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C5804F-32C9-4BE7-A83F-E43E95307DC3}|arraysearch\\arraysearch.csproj|solutionrelative:arraysearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6A578B-6582-411D-8C31-C9E4436684B0}|readwrite\\readwrite.csproj|C:\\Users\\preethu\\source\\repos\\C#_Basics\\readwrite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA6A578B-6582-411D-8C31-C9E4436684B0}|readwrite\\readwrite.csproj|solutionrelative:readwrite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\parameterized\\Program.cs",
+              "RelativeDocumentMoniker": "parameterized\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\parameterized\\Program.cs",
+              "RelativeToolTip": "parameterized\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T07:16:57.003Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\Jaggedarray\\Program.cs",
+              "RelativeDocumentMoniker": "Jaggedarray\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\Jaggedarray\\Program.cs",
+              "RelativeToolTip": "Jaggedarray\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:48:12.452Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\DatatypeCasting\\Program.cs",
+              "RelativeDocumentMoniker": "DatatypeCasting\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\DatatypeCasting\\Program.cs",
+              "RelativeToolTip": "DatatypeCasting\\Program.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAD8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T10:28:24.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\staticmeth\\Program.cs",
+              "RelativeDocumentMoniker": "staticmeth\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\staticmeth\\Program.cs",
+              "RelativeToolTip": "staticmeth\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T11:41:14.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\StaticClass\\Program.cs",
+              "RelativeDocumentMoniker": "StaticClass\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\StaticClass\\Program.cs",
+              "RelativeToolTip": "StaticClass\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T11:52:47.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\singledimension\\Program.cs",
+              "RelativeDocumentMoniker": "singledimension\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\singledimension\\Program.cs",
+              "RelativeToolTip": "singledimension\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T05:56:49.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\single level\\Program.cs",
+              "RelativeDocumentMoniker": "single level\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\single level\\Program.cs",
+              "RelativeToolTip": "single level\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T07:23:16.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\userdefines\\Program.cs",
+              "RelativeDocumentMoniker": "userdefines\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\userdefines\\Program.cs",
+              "RelativeToolTip": "userdefines\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T07:04:26.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\Abstractclass1\\Program.cs",
+              "RelativeDocumentMoniker": "Abstractclass1\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\Abstractclass1\\Program.cs",
+              "RelativeToolTip": "Abstractclass1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T04:26:08.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\areaofrect\\Program.cs",
+              "RelativeDocumentMoniker": "areaofrect\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\areaofrect\\Program.cs",
+              "RelativeToolTip": "areaofrect\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwBoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T04:02:53.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\array\\Program.cs",
+              "RelativeDocumentMoniker": "array\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\array\\Program.cs",
+              "RelativeToolTip": "array\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T09:13:24.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\array\\Program.cs",
+              "RelativeDocumentMoniker": "array\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\array\\Program.cs",
+              "RelativeToolTip": "array\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T08:57:12.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\Methodoveriding\\Program.cs",
+              "RelativeDocumentMoniker": "Methodoveriding\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\Methodoveriding\\Program.cs",
+              "RelativeToolTip": "Methodoveriding\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T03:24:02.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PartialEmployeeTwo.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\PartialClassDemo\\PartialEmployeeTwo.cs",
+              "RelativeDocumentMoniker": "PartialClassDemo\\PartialEmployeeTwo.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\PartialClassDemo\\PartialEmployeeTwo.cs",
+              "RelativeToolTip": "PartialClassDemo\\PartialEmployeeTwo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T05:50:36.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T09:47:41.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\hide\\Program.cs",
+              "RelativeDocumentMoniker": "hide\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\hide\\Program.cs",
+              "RelativeToolTip": "hide\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T05:13:51.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\PartialClassDemo\\Program.cs",
+              "RelativeDocumentMoniker": "PartialClassDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\PartialClassDemo\\Program.cs",
+              "RelativeToolTip": "PartialClassDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T05:42:58.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PartialEmployeeOne.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\PartialClassDemo\\PartialEmployeeOne.cs",
+              "RelativeDocumentMoniker": "PartialClassDemo\\PartialEmployeeOne.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\PartialClassDemo\\PartialEmployeeOne.cs",
+              "RelativeToolTip": "PartialClassDemo\\PartialEmployeeOne.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T05:50:15.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\Sealedclass\\Program.cs",
+              "RelativeDocumentMoniker": "Sealedclass\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\Sealedclass\\Program.cs",
+              "RelativeToolTip": "Sealedclass\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T10:46:40.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\Mergesort\\Program.cs",
+              "RelativeDocumentMoniker": "Mergesort\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\Mergesort\\Program.cs",
+              "RelativeToolTip": "Mergesort\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T06:59:02.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\classandobject\\Program.cs",
+              "RelativeDocumentMoniker": "classandobject\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\classandobject\\Program.cs",
+              "RelativeToolTip": "classandobject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T06:34:32.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\Multilevelinheritence\\Program.cs",
+              "RelativeDocumentMoniker": "Multilevelinheritence\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\Multilevelinheritence\\Program.cs",
+              "RelativeToolTip": "Multilevelinheritence\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T12:07:48.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\readwriteemplo\\Program.cs",
+              "RelativeDocumentMoniker": "readwriteemplo\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\readwriteemplo\\Program.cs",
+              "RelativeToolTip": "readwriteemplo\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T08:47:41.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\methodoverload\\Program.cs",
+              "RelativeDocumentMoniker": "methodoverload\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\methodoverload\\Program.cs",
+              "RelativeToolTip": "methodoverload\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAuwDgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T10:48:39.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\methodoverloading\\Program.cs",
+              "RelativeDocumentMoniker": "methodoverloading\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\methodoverloading\\Program.cs",
+              "RelativeToolTip": "methodoverloading\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T06:52:28.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\shape\\Program.cs",
+              "RelativeDocumentMoniker": "shape\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\shape\\Program.cs",
+              "RelativeToolTip": "shape\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T05:00:37.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\copyconstructor\\Program.cs",
+              "RelativeDocumentMoniker": "copyconstructor\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\copyconstructor\\Program.cs",
+              "RelativeToolTip": "copyconstructor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T06:48:03.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\assignment\\Program.cs",
+              "RelativeDocumentMoniker": "assignment\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\assignment\\Program.cs",
+              "RelativeToolTip": "assignment\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T03:36:47.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\arrayfun\\Program.cs",
+              "RelativeDocumentMoniker": "arrayfun\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\arrayfun\\Program.cs",
+              "RelativeToolTip": "arrayfun\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T06:21:02.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\arraysearch\\Program.cs",
+              "RelativeDocumentMoniker": "arraysearch\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\arraysearch\\Program.cs",
+              "RelativeToolTip": "arraysearch\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T12:30:54.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\readwrite\\Program.cs",
+              "RelativeDocumentMoniker": "readwrite\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\readwrite\\Program.cs",
+              "RelativeToolTip": "readwrite\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T07:03:21.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\defaultconst\\Program.cs",
+              "RelativeDocumentMoniker": "defaultconst\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\defaultconst\\Program.cs",
+              "RelativeToolTip": "defaultconst\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:16:25.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\arraysearch\\Program.cs",
+              "RelativeDocumentMoniker": "arraysearch\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\arraysearch\\Program.cs",
+              "RelativeToolTip": "arraysearch\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:07:54.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\Multiplication\\Program.cs",
+              "RelativeDocumentMoniker": "Multiplication\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\Multiplication\\Program.cs",
+              "RelativeToolTip": "Multiplication\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAIwEEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T04:01:37.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\diaglonal\\Program.cs",
+              "RelativeDocumentMoniker": "diaglonal\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\diaglonal\\Program.cs",
+              "RelativeToolTip": "diaglonal\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T09:50:36.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\Matrixaddition\\Program.cs",
+              "RelativeDocumentMoniker": "Matrixaddition\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\Matrixaddition\\Program.cs",
+              "RelativeToolTip": "Matrixaddition\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:31:36.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\Foreach\\Program.cs",
+              "RelativeDocumentMoniker": "Foreach\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\Foreach\\Program.cs",
+              "RelativeToolTip": "Foreach\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T06:48:23.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\Multidimension\\Program.cs",
+              "RelativeDocumentMoniker": "Multidimension\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\C#_Basics\\Multidimension\\Program.cs",
+              "RelativeToolTip": "Multidimension\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T06:01:18.519Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

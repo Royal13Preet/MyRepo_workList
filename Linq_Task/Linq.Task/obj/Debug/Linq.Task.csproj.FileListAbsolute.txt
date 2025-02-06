@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\Linq.Task\Linq.Task\bin\Debug\Linq.Task.exe.config
+C:\Users\preethu\source\repos\Linq.Task\Linq.Task\bin\Debug\Linq.Task.exe
+C:\Users\preethu\source\repos\Linq.Task\Linq.Task\bin\Debug\Linq.Task.pdb
+C:\Users\preethu\source\repos\Linq.Task\Linq.Task\obj\Debug\Linq.Task.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Linq.Task\Linq.Task\obj\Debug\Linq.Task.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Linq.Task\Linq.Task\obj\Debug\Linq.Task.exe
+C:\Users\preethu\source\repos\Linq.Task\Linq.Task\obj\Debug\Linq.Task.pdb

@@ -1,0 +1,6 @@
+@Thursday_ProductManagement.WebApi_HostAddress = http://localhost:5033
+
+GET {{Thursday_ProductManagement.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

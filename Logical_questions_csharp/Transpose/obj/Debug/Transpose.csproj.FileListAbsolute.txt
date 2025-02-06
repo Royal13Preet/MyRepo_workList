@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\Saturdaywork\Transpose\bin\Debug\Transpose.exe.config
+C:\Users\preethu\source\repos\Saturdaywork\Transpose\bin\Debug\Transpose.exe
+C:\Users\preethu\source\repos\Saturdaywork\Transpose\bin\Debug\Transpose.pdb
+C:\Users\preethu\source\repos\Saturdaywork\Transpose\obj\Debug\Transpose.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Saturdaywork\Transpose\obj\Debug\Transpose.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Saturdaywork\Transpose\obj\Debug\Transpose.exe
+C:\Users\preethu\source\repos\Saturdaywork\Transpose\obj\Debug\Transpose.pdb

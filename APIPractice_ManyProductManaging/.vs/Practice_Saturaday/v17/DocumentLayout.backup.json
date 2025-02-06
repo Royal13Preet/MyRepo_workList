@@ -1,0 +1,251 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\preethu\\source\\repos\\Practice_Saturaday\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{261B9C2C-0F0A-4916-8565-B13AC13BEAA6}|Practice_Saturaday\\DataAccess.csproj|c:\\users\\preethu\\source\\repos\\practice_saturaday\\practice_saturaday\\repository\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{261B9C2C-0F0A-4916-8565-B13AC13BEAA6}|Practice_Saturaday\\DataAccess.csproj|solutionrelative:practice_saturaday\\repository\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960E164F-48B5-419B-B796-FDA51BF20538}|Manager\\Manager.csproj|c:\\users\\preethu\\source\\repos\\practice_saturaday\\manager\\dto\u0027s\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{960E164F-48B5-419B-B796-FDA51BF20538}|Manager\\Manager.csproj|solutionrelative:manager\\dto\u0027s\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2070FDD3-96A3-4949-B019-7ED7A0415275}|Service_Layer\\Service_Layer.csproj|c:\\users\\preethu\\source\\repos\\practice_saturaday\\service_layer\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2070FDD3-96A3-4949-B019-7ED7A0415275}|Service_Layer\\Service_Layer.csproj|solutionrelative:service_layer\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261B9C2C-0F0A-4916-8565-B13AC13BEAA6}|Practice_Saturaday\\DataAccess.csproj|c:\\users\\preethu\\source\\repos\\practice_saturaday\\practice_saturaday\\dbmodel\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{261B9C2C-0F0A-4916-8565-B13AC13BEAA6}|Practice_Saturaday\\DataAccess.csproj|solutionrelative:practice_saturaday\\dbmodel\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2070FDD3-96A3-4949-B019-7ED7A0415275}|Service_Layer\\Service_Layer.csproj|c:\\users\\preethu\\source\\repos\\practice_saturaday\\service_layer\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2070FDD3-96A3-4949-B019-7ED7A0415275}|Service_Layer\\Service_Layer.csproj|solutionrelative:service_layer\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261B9C2C-0F0A-4916-8565-B13AC13BEAA6}|Practice_Saturaday\\DataAccess.csproj|c:\\users\\preethu\\source\\repos\\practice_saturaday\\practice_saturaday\\dbmodel\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{261B9C2C-0F0A-4916-8565-B13AC13BEAA6}|Practice_Saturaday\\DataAccess.csproj|solutionrelative:practice_saturaday\\dbmodel\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261B9C2C-0F0A-4916-8565-B13AC13BEAA6}|Practice_Saturaday\\DataAccess.csproj|c:\\users\\preethu\\source\\repos\\practice_saturaday\\practice_saturaday\\projectdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{261B9C2C-0F0A-4916-8565-B13AC13BEAA6}|Practice_Saturaday\\DataAccess.csproj|solutionrelative:practice_saturaday\\projectdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261B9C2C-0F0A-4916-8565-B13AC13BEAA6}|Practice_Saturaday\\DataAccess.csproj|c:\\users\\preethu\\source\\repos\\practice_saturaday\\practice_saturaday\\repository\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{261B9C2C-0F0A-4916-8565-B13AC13BEAA6}|Practice_Saturaday\\DataAccess.csproj|solutionrelative:practice_saturaday\\repository\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960E164F-48B5-419B-B796-FDA51BF20538}|Manager\\Manager.csproj|c:\\users\\preethu\\source\\repos\\practice_saturaday\\manager\\dto\u0027s\\responsecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{960E164F-48B5-419B-B796-FDA51BF20538}|Manager\\Manager.csproj|solutionrelative:manager\\dto\u0027s\\responsecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960E164F-48B5-419B-B796-FDA51BF20538}|Manager\\Manager.csproj|c:\\users\\preethu\\source\\repos\\practice_saturaday\\manager\\dto\u0027s\\createproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{960E164F-48B5-419B-B796-FDA51BF20538}|Manager\\Manager.csproj|solutionrelative:manager\\dto\u0027s\\createproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261B9C2C-0F0A-4916-8565-B13AC13BEAA6}|Practice_Saturaday\\DataAccess.csproj|c:\\users\\preethu\\source\\repos\\practice_saturaday\\practice_saturaday\\dbmodel\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{261B9C2C-0F0A-4916-8565-B13AC13BEAA6}|Practice_Saturaday\\DataAccess.csproj|solutionrelative:practice_saturaday\\dbmodel\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB99974F-57FD-44BE-869B-21E775E503F5}|Web_API\\Web_API.csproj|c:\\users\\preethu\\source\\repos\\practice_saturaday\\web_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB99974F-57FD-44BE-869B-21E775E503F5}|Web_API\\Web_API.csproj|solutionrelative:web_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB99974F-57FD-44BE-869B-21E775E503F5}|Web_API\\Web_API.csproj|c:\\users\\preethu\\source\\repos\\practice_saturaday\\web_api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB99974F-57FD-44BE-869B-21E775E503F5}|Web_API\\Web_API.csproj|solutionrelative:web_api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 215,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Practice_Saturaday\\Service_Layer\\Service.cs",
+              "RelativeDocumentMoniker": "Service_Layer\\Service.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Practice_Saturaday\\Service_Layer\\Service.cs",
+              "RelativeToolTip": "Service_Layer\\Service.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T03:58:16.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Repo.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Practice_Saturaday\\Practice_Saturaday\\Repository\\Repo.cs",
+              "RelativeDocumentMoniker": "Practice_Saturaday\\Repository\\Repo.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Practice_Saturaday\\Practice_Saturaday\\Repository\\Repo.cs",
+              "RelativeToolTip": "Practice_Saturaday\\Repository\\Repo.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T03:45:25.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Practice_Saturaday\\Manager\\Dto\u0027s\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "Manager\\Dto\u0027s\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Practice_Saturaday\\Manager\\Dto\u0027s\\CategoryDto.cs",
+              "RelativeToolTip": "Manager\\Dto\u0027s\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T03:53:58.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Practice_Saturaday\\Practice_Saturaday\\Repository\\IRepo.cs",
+              "RelativeDocumentMoniker": "Practice_Saturaday\\Repository\\IRepo.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Practice_Saturaday\\Practice_Saturaday\\Repository\\IRepo.cs",
+              "RelativeToolTip": "Practice_Saturaday\\Repository\\IRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T03:31:10.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProjectDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Practice_Saturaday\\Practice_Saturaday\\ProjectDBContext.cs",
+              "RelativeDocumentMoniker": "Practice_Saturaday\\ProjectDBContext.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Practice_Saturaday\\Practice_Saturaday\\ProjectDBContext.cs",
+              "RelativeToolTip": "Practice_Saturaday\\ProjectDBContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T03:36:19.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductCategory.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Practice_Saturaday\\Practice_Saturaday\\DBModel\\ProductCategory.cs",
+              "RelativeDocumentMoniker": "Practice_Saturaday\\DBModel\\ProductCategory.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Practice_Saturaday\\Practice_Saturaday\\DBModel\\ProductCategory.cs",
+              "RelativeToolTip": "Practice_Saturaday\\DBModel\\ProductCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T04:41:00.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Practice_Saturaday\\Practice_Saturaday\\DBModel\\Product.cs",
+              "RelativeDocumentMoniker": "Practice_Saturaday\\DBModel\\Product.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Practice_Saturaday\\Practice_Saturaday\\DBModel\\Product.cs",
+              "RelativeToolTip": "Practice_Saturaday\\DBModel\\Product.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T03:31:34.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Practice_Saturaday\\Service_Layer\\IService.cs",
+              "RelativeDocumentMoniker": "Service_Layer\\IService.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Practice_Saturaday\\Service_Layer\\IService.cs",
+              "RelativeToolTip": "Service_Layer\\IService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T03:56:56.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ResponseCreatedto.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Practice_Saturaday\\Manager\\Dto\u0027s\\ResponseCreatedto.cs",
+              "RelativeDocumentMoniker": "Manager\\Dto\u0027s\\ResponseCreatedto.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Practice_Saturaday\\Manager\\Dto\u0027s\\ResponseCreatedto.cs",
+              "RelativeToolTip": "Manager\\Dto\u0027s\\ResponseCreatedto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T04:54:20.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateProduct.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Practice_Saturaday\\Manager\\Dto\u0027s\\CreateProduct.cs",
+              "RelativeDocumentMoniker": "Manager\\Dto\u0027s\\CreateProduct.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Practice_Saturaday\\Manager\\Dto\u0027s\\CreateProduct.cs",
+              "RelativeToolTip": "Manager\\Dto\u0027s\\CreateProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T03:47:07.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Practice_Saturaday\\Practice_Saturaday\\DBModel\\Category.cs",
+              "RelativeDocumentMoniker": "Practice_Saturaday\\DBModel\\Category.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Practice_Saturaday\\Practice_Saturaday\\DBModel\\Category.cs",
+              "RelativeToolTip": "Practice_Saturaday\\DBModel\\Category.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T03:33:37.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Practice_Saturaday\\Web_API\\Program.cs",
+              "RelativeDocumentMoniker": "Web_API\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Practice_Saturaday\\Web_API\\Program.cs",
+              "RelativeToolTip": "Web_API\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T04:21:28.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Practice_Saturaday\\Web_API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Web_API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Practice_Saturaday\\Web_API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Web_API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T06:54:43.623Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 51,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

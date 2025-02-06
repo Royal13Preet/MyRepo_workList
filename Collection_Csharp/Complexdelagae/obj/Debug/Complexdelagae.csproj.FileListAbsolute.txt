@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\Collection\Complexdelagae\bin\Debug\Complexdelagae.exe.config
+C:\Users\preethu\source\repos\Collection\Complexdelagae\bin\Debug\Complexdelagae.exe
+C:\Users\preethu\source\repos\Collection\Complexdelagae\bin\Debug\Complexdelagae.pdb
+C:\Users\preethu\source\repos\Collection\Complexdelagae\obj\Debug\Complexdelagae.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Collection\Complexdelagae\obj\Debug\Complexdelagae.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Collection\Complexdelagae\obj\Debug\Complexdelagae.exe
+C:\Users\preethu\source\repos\Collection\Complexdelagae\obj\Debug\Complexdelagae.pdb

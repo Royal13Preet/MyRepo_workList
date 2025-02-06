@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\areaofrect\multilvel\bin\Debug\multilvel.exe.config
+C:\Users\preethu\source\repos\areaofrect\multilvel\bin\Debug\multilvel.exe
+C:\Users\preethu\source\repos\areaofrect\multilvel\bin\Debug\multilvel.pdb
+C:\Users\preethu\source\repos\areaofrect\multilvel\obj\Debug\multilvel.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\areaofrect\multilvel\obj\Debug\multilvel.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\areaofrect\multilvel\obj\Debug\multilvel.exe
+C:\Users\preethu\source\repos\areaofrect\multilvel\obj\Debug\multilvel.pdb

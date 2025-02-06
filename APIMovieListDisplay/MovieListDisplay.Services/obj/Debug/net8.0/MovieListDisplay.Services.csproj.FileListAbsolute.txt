@@ -1,0 +1,12 @@
+C:\Users\preethu\source\repos\MovieListDisplay\MovieListDisplay.Services\obj\Debug\net8.0\MovieListDisplay.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\preethu\source\repos\MovieListDisplay\MovieListDisplay.Services\obj\Debug\net8.0\MovieListDisplay.Services.AssemblyInfoInputs.cache
+C:\Users\preethu\source\repos\MovieListDisplay\MovieListDisplay.Services\obj\Debug\net8.0\MovieListDisplay.Services.AssemblyInfo.cs
+C:\Users\preethu\source\repos\MovieListDisplay\MovieListDisplay.Services\obj\Debug\net8.0\MovieListDisplay.Services.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\MovieListDisplay\MovieListDisplay.Services\bin\Debug\net8.0\MovieListDisplay.Services.deps.json
+C:\Users\preethu\source\repos\MovieListDisplay\MovieListDisplay.Services\bin\Debug\net8.0\MovieListDisplay.Services.dll
+C:\Users\preethu\source\repos\MovieListDisplay\MovieListDisplay.Services\bin\Debug\net8.0\MovieListDisplay.Services.pdb
+C:\Users\preethu\source\repos\MovieListDisplay\MovieListDisplay.Services\obj\Debug\net8.0\MovieListDisplay.Services.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\MovieListDisplay\MovieListDisplay.Services\obj\Debug\net8.0\MovieListDisplay.Services.dll
+C:\Users\preethu\source\repos\MovieListDisplay\MovieListDisplay.Services\obj\Debug\net8.0\refint\MovieListDisplay.Services.dll
+C:\Users\preethu\source\repos\MovieListDisplay\MovieListDisplay.Services\obj\Debug\net8.0\MovieListDisplay.Services.pdb
+C:\Users\preethu\source\repos\MovieListDisplay\MovieListDisplay.Services\obj\Debug\net8.0\ref\MovieListDisplay.Services.dll

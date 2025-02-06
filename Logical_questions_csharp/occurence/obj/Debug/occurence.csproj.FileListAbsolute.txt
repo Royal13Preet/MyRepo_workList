@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\Saturdaywork\occurence\bin\Debug\occurence.exe.config
+C:\Users\preethu\source\repos\Saturdaywork\occurence\bin\Debug\occurence.exe
+C:\Users\preethu\source\repos\Saturdaywork\occurence\bin\Debug\occurence.pdb
+C:\Users\preethu\source\repos\Saturdaywork\occurence\obj\Debug\occurence.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Saturdaywork\occurence\obj\Debug\occurence.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Saturdaywork\occurence\obj\Debug\occurence.exe
+C:\Users\preethu\source\repos\Saturdaywork\occurence\obj\Debug\occurence.pdb

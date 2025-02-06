@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\Collection\Enumdays\bin\Debug\Enumdays.exe.config
+C:\Users\preethu\source\repos\Collection\Enumdays\bin\Debug\Enumdays.exe
+C:\Users\preethu\source\repos\Collection\Enumdays\bin\Debug\Enumdays.pdb
+C:\Users\preethu\source\repos\Collection\Enumdays\obj\Debug\Enumdays.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Collection\Enumdays\obj\Debug\Enumdays.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Collection\Enumdays\obj\Debug\Enumdays.exe
+C:\Users\preethu\source\repos\Collection\Enumdays\obj\Debug\Enumdays.pdb

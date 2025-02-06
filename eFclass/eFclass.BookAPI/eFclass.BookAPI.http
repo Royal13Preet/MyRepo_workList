@@ -1,0 +1,6 @@
+@eFclass.BookAPI_HostAddress = http://localhost:5286
+
+GET {{eFclass.BookAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

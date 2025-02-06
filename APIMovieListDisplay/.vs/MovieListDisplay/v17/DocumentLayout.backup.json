@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\preethu\\source\\repos\\MovieListDisplay\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97D5C82E-2A5D-4F44-B7E6-E6481FED0EF5}|MovieListDisplay.Services\\MovieListDisplay.Services.csproj|c:\\users\\preethu\\source\\repos\\movielistdisplay\\movielistdisplay.services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97D5C82E-2A5D-4F44-B7E6-E6481FED0EF5}|MovieListDisplay.Services\\MovieListDisplay.Services.csproj|solutionrelative:movielistdisplay.services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA3F40A-F74F-47CD-AB0E-D67693BCEF06}|MovieListDisplay.Webapi\\MovieListDisplay.Webapi.csproj|c:\\users\\preethu\\source\\repos\\movielistdisplay\\movielistdisplay.webapi\\controllers\\movielistdisplaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA3F40A-F74F-47CD-AB0E-D67693BCEF06}|MovieListDisplay.Webapi\\MovieListDisplay.Webapi.csproj|solutionrelative:movielistdisplay.webapi\\controllers\\movielistdisplaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA3F40A-F74F-47CD-AB0E-D67693BCEF06}|MovieListDisplay.Webapi\\MovieListDisplay.Webapi.csproj|c:\\users\\preethu\\source\\repos\\movielistdisplay\\movielistdisplay.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA3F40A-F74F-47CD-AB0E-D67693BCEF06}|MovieListDisplay.Webapi\\MovieListDisplay.Webapi.csproj|solutionrelative:movielistdisplay.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA3F40A-F74F-47CD-AB0E-D67693BCEF06}|MovieListDisplay.Webapi\\MovieListDisplay.Webapi.csproj|c:\\users\\preethu\\source\\repos\\movielistdisplay\\movielistdisplay.webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA3F40A-F74F-47CD-AB0E-D67693BCEF06}|MovieListDisplay.Webapi\\MovieListDisplay.Webapi.csproj|solutionrelative:movielistdisplay.webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97D5C82E-2A5D-4F44-B7E6-E6481FED0EF5}|MovieListDisplay.Services\\MovieListDisplay.Services.csproj|c:\\users\\preethu\\source\\repos\\movielistdisplay\\movielistdisplay.services\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97D5C82E-2A5D-4F44-B7E6-E6481FED0EF5}|MovieListDisplay.Services\\MovieListDisplay.Services.csproj|solutionrelative:movielistdisplay.services\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\preethu\\AppData\\Local\\Temp\\8287564c-e3d7-4362-9908-db4e21ebf44d_movies.zip.44d\\movies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 210,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\MovieListDisplay\\MovieListDisplay.Webapi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "MovieListDisplay.Webapi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\MovieListDisplay\\MovieListDisplay.Webapi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "MovieListDisplay.Webapi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T12:35:16.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieListDisplayController.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\MovieListDisplay\\MovieListDisplay.Webapi\\Controllers\\MovieListDisplayController.cs",
+              "RelativeDocumentMoniker": "MovieListDisplay.Webapi\\Controllers\\MovieListDisplayController.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\MovieListDisplay\\MovieListDisplay.Webapi\\Controllers\\MovieListDisplayController.cs",
+              "RelativeToolTip": "MovieListDisplay.Webapi\\Controllers\\MovieListDisplayController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T12:16:02.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "movies.json",
+              "DocumentMoniker": "C:\\Users\\preethu\\AppData\\Local\\Temp\\8287564c-e3d7-4362-9908-db4e21ebf44d_movies.zip.44d\\movies.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\8287564c-e3d7-4362-9908-db4e21ebf44d_movies.zip.44d\\movies.json",
+              "ToolTip": "C:\\Users\\preethu\\AppData\\Local\\Temp\\8287564c-e3d7-4362-9908-db4e21ebf44d_movies.zip.44d\\movies.json [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\8287564c-e3d7-4362-9908-db4e21ebf44d_movies.zip.44d\\movies.json [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-13T12:10:31.937Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\MovieListDisplay\\MovieListDisplay.Services\\MovieService.cs",
+              "RelativeDocumentMoniker": "MovieListDisplay.Services\\MovieService.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\MovieListDisplay\\MovieListDisplay.Services\\MovieService.cs",
+              "RelativeToolTip": "MovieListDisplay.Services\\MovieService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T12:08:43.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\MovieListDisplay\\MovieListDisplay.Services\\Movie.cs",
+              "RelativeDocumentMoniker": "MovieListDisplay.Services\\Movie.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\MovieListDisplay\\MovieListDisplay.Services\\Movie.cs",
+              "RelativeToolTip": "MovieListDisplay.Services\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T12:08:34.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\MovieListDisplay\\MovieListDisplay.Webapi\\Program.cs",
+              "RelativeDocumentMoniker": "MovieListDisplay.Webapi\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\MovieListDisplay\\MovieListDisplay.Webapi\\Program.cs",
+              "RelativeToolTip": "MovieListDisplay.Webapi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T12:07:39.993Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 89,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

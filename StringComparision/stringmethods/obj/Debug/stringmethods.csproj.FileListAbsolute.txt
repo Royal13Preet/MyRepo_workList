@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\Assisnment\stringmethods\bin\Debug\stringmethods.exe.config
+C:\Users\preethu\source\repos\Assisnment\stringmethods\bin\Debug\stringmethods.exe
+C:\Users\preethu\source\repos\Assisnment\stringmethods\bin\Debug\stringmethods.pdb
+C:\Users\preethu\source\repos\Assisnment\stringmethods\obj\Debug\stringmethods.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Assisnment\stringmethods\obj\Debug\stringmethods.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Assisnment\stringmethods\obj\Debug\stringmethods.exe
+C:\Users\preethu\source\repos\Assisnment\stringmethods\obj\Debug\stringmethods.pdb

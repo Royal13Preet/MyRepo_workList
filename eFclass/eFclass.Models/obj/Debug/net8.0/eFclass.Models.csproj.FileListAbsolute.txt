@@ -1,0 +1,11 @@
+C:\Users\preethu\source\repos\eFclass\eFclass.Models\bin\Debug\net8.0\eFclass.Models.deps.json
+C:\Users\preethu\source\repos\eFclass\eFclass.Models\bin\Debug\net8.0\eFclass.Models.dll
+C:\Users\preethu\source\repos\eFclass\eFclass.Models\bin\Debug\net8.0\eFclass.Models.pdb
+C:\Users\preethu\source\repos\eFclass\eFclass.Models\obj\Debug\net8.0\eFclass.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\preethu\source\repos\eFclass\eFclass.Models\obj\Debug\net8.0\eFclass.Models.AssemblyInfoInputs.cache
+C:\Users\preethu\source\repos\eFclass\eFclass.Models\obj\Debug\net8.0\eFclass.Models.AssemblyInfo.cs
+C:\Users\preethu\source\repos\eFclass\eFclass.Models\obj\Debug\net8.0\eFclass.Models.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\eFclass\eFclass.Models\obj\Debug\net8.0\eFclass.Models.dll
+C:\Users\preethu\source\repos\eFclass\eFclass.Models\obj\Debug\net8.0\refint\eFclass.Models.dll
+C:\Users\preethu\source\repos\eFclass\eFclass.Models\obj\Debug\net8.0\eFclass.Models.pdb
+C:\Users\preethu\source\repos\eFclass\eFclass.Models\obj\Debug\net8.0\ref\eFclass.Models.dll

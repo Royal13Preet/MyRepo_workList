@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\areaofrect\shape\bin\Debug\shape.exe.config
+C:\Users\preethu\source\repos\areaofrect\shape\bin\Debug\shape.exe
+C:\Users\preethu\source\repos\areaofrect\shape\bin\Debug\shape.pdb
+C:\Users\preethu\source\repos\areaofrect\shape\obj\Debug\insertion.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\areaofrect\shape\obj\Debug\insertion.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\areaofrect\shape\obj\Debug\shape.exe
+C:\Users\preethu\source\repos\areaofrect\shape\obj\Debug\shape.pdb

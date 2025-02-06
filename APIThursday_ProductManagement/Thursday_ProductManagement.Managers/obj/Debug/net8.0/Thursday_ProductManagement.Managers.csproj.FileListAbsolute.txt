@@ -1,0 +1,15 @@
+C:\Users\preethu\source\repos\Thursday_ProductManagement\Thursday_ProductManagement.Managers\bin\Debug\net8.0\Thursday_ProductManagement.Managers.deps.json
+C:\Users\preethu\source\repos\Thursday_ProductManagement\Thursday_ProductManagement.Managers\bin\Debug\net8.0\Thursday_ProductManagement.Managers.dll
+C:\Users\preethu\source\repos\Thursday_ProductManagement\Thursday_ProductManagement.Managers\bin\Debug\net8.0\Thursday_ProductManagement.Managers.pdb
+C:\Users\preethu\source\repos\Thursday_ProductManagement\Thursday_ProductManagement.Managers\bin\Debug\net8.0\Thursday_ProductManagement.DataAccess.dll
+C:\Users\preethu\source\repos\Thursday_ProductManagement\Thursday_ProductManagement.Managers\bin\Debug\net8.0\Thursday_ProductManagement.DataAccess.pdb
+C:\Users\preethu\source\repos\Thursday_ProductManagement\Thursday_ProductManagement.Managers\obj\Debug\net8.0\Thursday_ProductManagement.Managers.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Thursday_ProductManagement\Thursday_ProductManagement.Managers\obj\Debug\net8.0\Thursday_ProductManagement.Managers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\preethu\source\repos\Thursday_ProductManagement\Thursday_ProductManagement.Managers\obj\Debug\net8.0\Thursday_ProductManagement.Managers.AssemblyInfoInputs.cache
+C:\Users\preethu\source\repos\Thursday_ProductManagement\Thursday_ProductManagement.Managers\obj\Debug\net8.0\Thursday_ProductManagement.Managers.AssemblyInfo.cs
+C:\Users\preethu\source\repos\Thursday_ProductManagement\Thursday_ProductManagement.Managers\obj\Debug\net8.0\Thursday_ProductManagement.Managers.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Thursday_ProductManagement\Thursday_ProductManagement.Managers\obj\Debug\net8.0\Thursday.366F52C8.Up2Date
+C:\Users\preethu\source\repos\Thursday_ProductManagement\Thursday_ProductManagement.Managers\obj\Debug\net8.0\Thursday_ProductManagement.Managers.dll
+C:\Users\preethu\source\repos\Thursday_ProductManagement\Thursday_ProductManagement.Managers\obj\Debug\net8.0\refint\Thursday_ProductManagement.Managers.dll
+C:\Users\preethu\source\repos\Thursday_ProductManagement\Thursday_ProductManagement.Managers\obj\Debug\net8.0\Thursday_ProductManagement.Managers.pdb
+C:\Users\preethu\source\repos\Thursday_ProductManagement\Thursday_ProductManagement.Managers\obj\Debug\net8.0\ref\Thursday_ProductManagement.Managers.dll

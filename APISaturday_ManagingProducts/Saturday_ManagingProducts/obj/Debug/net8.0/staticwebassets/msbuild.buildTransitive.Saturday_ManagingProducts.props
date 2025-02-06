@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Saturday_ManagingProducts.props" />
+</Project>

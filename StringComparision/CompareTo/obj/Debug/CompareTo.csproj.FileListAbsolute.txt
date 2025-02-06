@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\Assisnment\CompareTo\bin\Debug\CompareTo.exe.config
+C:\Users\preethu\source\repos\Assisnment\CompareTo\bin\Debug\CompareTo.exe
+C:\Users\preethu\source\repos\Assisnment\CompareTo\bin\Debug\CompareTo.pdb
+C:\Users\preethu\source\repos\Assisnment\CompareTo\obj\Debug\CompareTo.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Assisnment\CompareTo\obj\Debug\CompareTo.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Assisnment\CompareTo\obj\Debug\CompareTo.exe
+C:\Users\preethu\source\repos\Assisnment\CompareTo\obj\Debug\CompareTo.pdb

@@ -1,0 +1,4 @@
+C:\Users\preethu\source\repos\Multithreading\Exception\obj\Debug\Exceptionexample.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Multithreading\Exception\obj\Debug\Exceptionexample.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Multithreading\Exception\obj\Debug\Exception.exe
+C:\Users\preethu\source\repos\Multithreading\Exception\obj\Debug\Exception.pdb

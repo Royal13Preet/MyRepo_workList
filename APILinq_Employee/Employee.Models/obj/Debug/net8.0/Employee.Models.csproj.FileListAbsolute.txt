@@ -1,0 +1,11 @@
+C:\Users\preethu\source\repos\Employee\Employee.Models\bin\Debug\net8.0\Employee.Models.deps.json
+C:\Users\preethu\source\repos\Employee\Employee.Models\bin\Debug\net8.0\Employee.Models.dll
+C:\Users\preethu\source\repos\Employee\Employee.Models\bin\Debug\net8.0\Employee.Models.pdb
+C:\Users\preethu\source\repos\Employee\Employee.Models\obj\Debug\net8.0\Employee.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\preethu\source\repos\Employee\Employee.Models\obj\Debug\net8.0\Employee.Models.AssemblyInfoInputs.cache
+C:\Users\preethu\source\repos\Employee\Employee.Models\obj\Debug\net8.0\Employee.Models.AssemblyInfo.cs
+C:\Users\preethu\source\repos\Employee\Employee.Models\obj\Debug\net8.0\Employee.Models.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Employee\Employee.Models\obj\Debug\net8.0\Employee.Models.dll
+C:\Users\preethu\source\repos\Employee\Employee.Models\obj\Debug\net8.0\refint\Employee.Models.dll
+C:\Users\preethu\source\repos\Employee\Employee.Models\obj\Debug\net8.0\Employee.Models.pdb
+C:\Users\preethu\source\repos\Employee\Employee.Models\obj\Debug\net8.0\ref\Employee.Models.dll

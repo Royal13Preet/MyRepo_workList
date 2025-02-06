@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\preethu\\source\\repos\\Emp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F724B38-B6B4-4BF3-8C98-E704D1C8AA23}|Emp\\Emp.DataAcess.csproj|c:\\users\\preethu\\source\\repos\\emp\\emp\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F724B38-B6B4-4BF3-8C98-E704D1C8AA23}|Emp\\Emp.DataAcess.csproj|solutionrelative:emp\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9706E1B-4726-48D9-B01A-A224AA8C5DF4}|Emp.APi\\Emp.APi.csproj|c:\\users\\preethu\\source\\repos\\emp\\emp.api\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9706E1B-4726-48D9-B01A-A224AA8C5DF4}|Emp.APi\\Emp.APi.csproj|solutionrelative:emp.api\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6604DB-720D-4353-BDC9-4DB8629AF1FD}|Emp.Service\\Emp.Service.csproj|c:\\users\\preethu\\source\\repos\\emp\\emp.service\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE6604DB-720D-4353-BDC9-4DB8629AF1FD}|Emp.Service\\Emp.Service.csproj|solutionrelative:emp.service\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6604DB-720D-4353-BDC9-4DB8629AF1FD}|Emp.Service\\Emp.Service.csproj|c:\\users\\preethu\\source\\repos\\emp\\emp.service\\logger\\adminrolefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE6604DB-720D-4353-BDC9-4DB8629AF1FD}|Emp.Service\\Emp.Service.csproj|solutionrelative:emp.service\\logger\\adminrolefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6604DB-720D-4353-BDC9-4DB8629AF1FD}|Emp.Service\\Emp.Service.csproj|c:\\users\\preethu\\source\\repos\\emp\\emp.service\\logger\\loggingfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE6604DB-720D-4353-BDC9-4DB8629AF1FD}|Emp.Service\\Emp.Service.csproj|solutionrelative:emp.service\\logger\\loggingfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9706E1B-4726-48D9-B01A-A224AA8C5DF4}|Emp.APi\\Emp.APi.csproj|c:\\users\\preethu\\source\\repos\\emp\\emp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9706E1B-4726-48D9-B01A-A224AA8C5DF4}|Emp.APi\\Emp.APi.csproj|solutionrelative:emp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 210,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Emp\\Emp\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "Emp\\Model\\Employee.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Emp\\Emp\\Model\\Employee.cs",
+              "RelativeToolTip": "Emp\\Model\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T05:03:30.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Emp\\Emp.Service\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "Emp.Service\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Emp\\Emp.Service\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "Emp.Service\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA5wCUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T04:50:54.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminRolefilter.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Emp\\Emp.Service\\Logger\\AdminRolefilter.cs",
+              "RelativeDocumentMoniker": "Emp.Service\\Logger\\AdminRolefilter.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Emp\\Emp.Service\\Logger\\AdminRolefilter.cs",
+              "RelativeToolTip": "Emp.Service\\Logger\\AdminRolefilter.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T04:50:08.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoggingFilter.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Emp\\Emp.Service\\Logger\\LoggingFilter.cs",
+              "RelativeDocumentMoniker": "Emp.Service\\Logger\\LoggingFilter.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Emp\\Emp.Service\\Logger\\LoggingFilter.cs",
+              "RelativeToolTip": "Emp.Service\\Logger\\LoggingFilter.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T04:49:36.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmpController.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Emp\\Emp.APi\\Controllers\\EmpController.cs",
+              "RelativeDocumentMoniker": "Emp.APi\\Controllers\\EmpController.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Emp\\Emp.APi\\Controllers\\EmpController.cs",
+              "RelativeToolTip": "Emp.APi\\Controllers\\EmpController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwBQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T04:42:43.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Emp\\Emp.APi\\Program.cs",
+              "RelativeDocumentMoniker": "Emp.APi\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Emp\\Emp.APi\\Program.cs",
+              "RelativeToolTip": "Emp.APi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T04:42:26.759Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 89,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

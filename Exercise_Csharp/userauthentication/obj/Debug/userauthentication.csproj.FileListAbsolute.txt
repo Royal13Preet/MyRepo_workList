@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\Exercise\userauthentication\bin\Debug\userauthentication.exe.config
+C:\Users\preethu\source\repos\Exercise\userauthentication\bin\Debug\userauthentication.exe
+C:\Users\preethu\source\repos\Exercise\userauthentication\bin\Debug\userauthentication.pdb
+C:\Users\preethu\source\repos\Exercise\userauthentication\obj\Debug\userauthentication.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Exercise\userauthentication\obj\Debug\userauthentication.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Exercise\userauthentication\obj\Debug\userauthentication.exe
+C:\Users\preethu\source\repos\Exercise\userauthentication\obj\Debug\userauthentication.pdb

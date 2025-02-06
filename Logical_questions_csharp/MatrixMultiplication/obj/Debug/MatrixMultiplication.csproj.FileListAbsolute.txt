@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\Saturdaywork\MatrixMultiplication\bin\Debug\MatrixMultiplication.exe.config
+C:\Users\preethu\source\repos\Saturdaywork\MatrixMultiplication\bin\Debug\MatrixMultiplication.exe
+C:\Users\preethu\source\repos\Saturdaywork\MatrixMultiplication\bin\Debug\MatrixMultiplication.pdb
+C:\Users\preethu\source\repos\Saturdaywork\MatrixMultiplication\obj\Debug\MatrixMultiplication.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Saturdaywork\MatrixMultiplication\obj\Debug\MatrixMultiplication.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Saturdaywork\MatrixMultiplication\obj\Debug\MatrixMultiplication.exe
+C:\Users\preethu\source\repos\Saturdaywork\MatrixMultiplication\obj\Debug\MatrixMultiplication.pdb

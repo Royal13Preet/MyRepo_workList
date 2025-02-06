@@ -1,0 +1,12 @@
+C:\Users\preethu\source\repos\Movie_fetchMVC\Service_layer\bin\Debug\net8.0\Service_layer.deps.json
+C:\Users\preethu\source\repos\Movie_fetchMVC\Service_layer\bin\Debug\net8.0\Service_layer.dll
+C:\Users\preethu\source\repos\Movie_fetchMVC\Service_layer\bin\Debug\net8.0\Service_layer.pdb
+C:\Users\preethu\source\repos\Movie_fetchMVC\Service_layer\obj\Debug\net8.0\Service_layer.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Movie_fetchMVC\Service_layer\obj\Debug\net8.0\Service_layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\preethu\source\repos\Movie_fetchMVC\Service_layer\obj\Debug\net8.0\Service_layer.AssemblyInfoInputs.cache
+C:\Users\preethu\source\repos\Movie_fetchMVC\Service_layer\obj\Debug\net8.0\Service_layer.AssemblyInfo.cs
+C:\Users\preethu\source\repos\Movie_fetchMVC\Service_layer\obj\Debug\net8.0\Service_layer.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Movie_fetchMVC\Service_layer\obj\Debug\net8.0\Service_layer.dll
+C:\Users\preethu\source\repos\Movie_fetchMVC\Service_layer\obj\Debug\net8.0\refint\Service_layer.dll
+C:\Users\preethu\source\repos\Movie_fetchMVC\Service_layer\obj\Debug\net8.0\Service_layer.pdb
+C:\Users\preethu\source\repos\Movie_fetchMVC\Service_layer\obj\Debug\net8.0\ref\Service_layer.dll

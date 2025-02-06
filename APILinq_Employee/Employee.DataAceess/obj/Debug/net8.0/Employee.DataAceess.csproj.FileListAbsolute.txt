@@ -1,0 +1,17 @@
+C:\Users\preethu\source\repos\Employee\Employee.DataAceess\bin\Debug\net8.0\Employee.DataAceess.deps.json
+C:\Users\preethu\source\repos\Employee\Employee.DataAceess\bin\Debug\net8.0\Employee.DataAceess.runtimeconfig.json
+C:\Users\preethu\source\repos\Employee\Employee.DataAceess\bin\Debug\net8.0\Employee.DataAceess.dll
+C:\Users\preethu\source\repos\Employee\Employee.DataAceess\bin\Debug\net8.0\Employee.DataAceess.pdb
+C:\Users\preethu\source\repos\Employee\Employee.DataAceess\obj\Debug\net8.0\Employee.DataAceess.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Employee\Employee.DataAceess\obj\Debug\net8.0\Employee.DataAceess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\preethu\source\repos\Employee\Employee.DataAceess\obj\Debug\net8.0\Employee.DataAceess.AssemblyInfoInputs.cache
+C:\Users\preethu\source\repos\Employee\Employee.DataAceess\obj\Debug\net8.0\Employee.DataAceess.AssemblyInfo.cs
+C:\Users\preethu\source\repos\Employee\Employee.DataAceess\obj\Debug\net8.0\Employee.DataAceess.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Employee\Employee.DataAceess\obj\Debug\net8.0\Employee.DataAceess.dll
+C:\Users\preethu\source\repos\Employee\Employee.DataAceess\obj\Debug\net8.0\refint\Employee.DataAceess.dll
+C:\Users\preethu\source\repos\Employee\Employee.DataAceess\obj\Debug\net8.0\Employee.DataAceess.pdb
+C:\Users\preethu\source\repos\Employee\Employee.DataAceess\obj\Debug\net8.0\Employee.DataAceess.genruntimeconfig.cache
+C:\Users\preethu\source\repos\Employee\Employee.DataAceess\obj\Debug\net8.0\ref\Employee.DataAceess.dll
+C:\Users\preethu\source\repos\Employee\Employee.DataAceess\bin\Debug\net8.0\Employee.Models.dll
+C:\Users\preethu\source\repos\Employee\Employee.DataAceess\bin\Debug\net8.0\Employee.Models.pdb
+C:\Users\preethu\source\repos\Employee\Employee.DataAceess\obj\Debug\net8.0\Employee.4CBCF6BC.Up2Date

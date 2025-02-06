@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\areaofrect\Abstractclass1\obj\Debug\Abstractclass1.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\areaofrect\Abstractclass1\obj\Debug\Abstractclass1.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\areaofrect\Abstractclass1\bin\Debug\Abstractclass1.exe.config
+C:\Users\preethu\source\repos\areaofrect\Abstractclass1\bin\Debug\Abstractclass1.exe
+C:\Users\preethu\source\repos\areaofrect\Abstractclass1\bin\Debug\Abstractclass1.pdb
+C:\Users\preethu\source\repos\areaofrect\Abstractclass1\obj\Debug\Abstractclass1.exe
+C:\Users\preethu\source\repos\areaofrect\Abstractclass1\obj\Debug\Abstractclass1.pdb

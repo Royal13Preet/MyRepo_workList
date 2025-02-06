@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\Collection\calcidelegate\bin\Debug\calcidelegate.exe.config
+C:\Users\preethu\source\repos\Collection\calcidelegate\bin\Debug\calcidelegate.exe
+C:\Users\preethu\source\repos\Collection\calcidelegate\bin\Debug\calcidelegate.pdb
+C:\Users\preethu\source\repos\Collection\calcidelegate\obj\Debug\calcidelegate.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Collection\calcidelegate\obj\Debug\calcidelegate.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Collection\calcidelegate\obj\Debug\calcidelegate.exe
+C:\Users\preethu\source\repos\Collection\calcidelegate\obj\Debug\calcidelegate.pdb

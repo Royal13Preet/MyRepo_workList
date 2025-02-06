@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\Saturdaywork\reverse\bin\Debug\reverse.exe.config
+C:\Users\preethu\source\repos\Saturdaywork\reverse\bin\Debug\reverse.exe
+C:\Users\preethu\source\repos\Saturdaywork\reverse\bin\Debug\reverse.pdb
+C:\Users\preethu\source\repos\Saturdaywork\reverse\obj\Debug\reverse.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Saturdaywork\reverse\obj\Debug\reverse.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Saturdaywork\reverse\obj\Debug\reverse.exe
+C:\Users\preethu\source\repos\Saturdaywork\reverse\obj\Debug\reverse.pdb

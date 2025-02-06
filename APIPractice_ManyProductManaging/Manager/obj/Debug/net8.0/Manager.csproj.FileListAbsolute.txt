@@ -1,0 +1,11 @@
+C:\Users\preethu\source\repos\Practice_Saturaday\Manager\bin\Debug\net8.0\Manager.deps.json
+C:\Users\preethu\source\repos\Practice_Saturaday\Manager\bin\Debug\net8.0\Manager.dll
+C:\Users\preethu\source\repos\Practice_Saturaday\Manager\bin\Debug\net8.0\Manager.pdb
+C:\Users\preethu\source\repos\Practice_Saturaday\Manager\obj\Debug\net8.0\Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\preethu\source\repos\Practice_Saturaday\Manager\obj\Debug\net8.0\Manager.AssemblyInfoInputs.cache
+C:\Users\preethu\source\repos\Practice_Saturaday\Manager\obj\Debug\net8.0\Manager.AssemblyInfo.cs
+C:\Users\preethu\source\repos\Practice_Saturaday\Manager\obj\Debug\net8.0\Manager.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Practice_Saturaday\Manager\obj\Debug\net8.0\Manager.dll
+C:\Users\preethu\source\repos\Practice_Saturaday\Manager\obj\Debug\net8.0\refint\Manager.dll
+C:\Users\preethu\source\repos\Practice_Saturaday\Manager\obj\Debug\net8.0\Manager.pdb
+C:\Users\preethu\source\repos\Practice_Saturaday\Manager\obj\Debug\net8.0\ref\Manager.dll

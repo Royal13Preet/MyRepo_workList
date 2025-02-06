@@ -1,0 +1,15 @@
+C:\Users\preethu\source\repos\Emp\Emp.Service\obj\Debug\net8.0\Emp.Service.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Emp\Emp.Service\obj\Debug\net8.0\Emp.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\preethu\source\repos\Emp\Emp.Service\obj\Debug\net8.0\Emp.Service.AssemblyInfoInputs.cache
+C:\Users\preethu\source\repos\Emp\Emp.Service\obj\Debug\net8.0\Emp.Service.AssemblyInfo.cs
+C:\Users\preethu\source\repos\Emp\Emp.Service\obj\Debug\net8.0\Emp.Service.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Emp\Emp.Service\bin\Debug\net8.0\Emp.Service.deps.json
+C:\Users\preethu\source\repos\Emp\Emp.Service\bin\Debug\net8.0\Emp.Service.dll
+C:\Users\preethu\source\repos\Emp\Emp.Service\bin\Debug\net8.0\Emp.Service.pdb
+C:\Users\preethu\source\repos\Emp\Emp.Service\bin\Debug\net8.0\Emp.DataAcess.dll
+C:\Users\preethu\source\repos\Emp\Emp.Service\bin\Debug\net8.0\Emp.DataAcess.pdb
+C:\Users\preethu\source\repos\Emp\Emp.Service\obj\Debug\net8.0\Emp.Serv.61CF0BC7.Up2Date
+C:\Users\preethu\source\repos\Emp\Emp.Service\obj\Debug\net8.0\Emp.Service.dll
+C:\Users\preethu\source\repos\Emp\Emp.Service\obj\Debug\net8.0\refint\Emp.Service.dll
+C:\Users\preethu\source\repos\Emp\Emp.Service\obj\Debug\net8.0\Emp.Service.pdb
+C:\Users\preethu\source\repos\Emp\Emp.Service\obj\Debug\net8.0\ref\Emp.Service.dll

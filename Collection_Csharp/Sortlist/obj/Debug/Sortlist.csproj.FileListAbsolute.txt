@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\Collection\Sortlist\bin\Debug\Sortlist.exe.config
+C:\Users\preethu\source\repos\Collection\Sortlist\bin\Debug\Sortlist.exe
+C:\Users\preethu\source\repos\Collection\Sortlist\bin\Debug\Sortlist.pdb
+C:\Users\preethu\source\repos\Collection\Sortlist\obj\Debug\Sortlist.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Collection\Sortlist\obj\Debug\Sortlist.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Collection\Sortlist\obj\Debug\Sortlist.exe
+C:\Users\preethu\source\repos\Collection\Sortlist\obj\Debug\Sortlist.pdb

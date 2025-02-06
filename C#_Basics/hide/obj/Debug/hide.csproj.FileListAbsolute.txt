@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\areaofrect\hide\bin\Debug\hide.exe.config
+C:\Users\preethu\source\repos\areaofrect\hide\bin\Debug\hide.exe
+C:\Users\preethu\source\repos\areaofrect\hide\bin\Debug\hide.pdb
+C:\Users\preethu\source\repos\areaofrect\hide\obj\Debug\hide.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\areaofrect\hide\obj\Debug\hide.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\areaofrect\hide\obj\Debug\hide.exe
+C:\Users\preethu\source\repos\areaofrect\hide\obj\Debug\hide.pdb

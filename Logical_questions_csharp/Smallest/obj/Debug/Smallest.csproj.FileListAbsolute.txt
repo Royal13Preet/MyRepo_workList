@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\Saturdaywork\Smallest\bin\Debug\Smallest.exe.config
+C:\Users\preethu\source\repos\Saturdaywork\Smallest\bin\Debug\Smallest.exe
+C:\Users\preethu\source\repos\Saturdaywork\Smallest\bin\Debug\Smallest.pdb
+C:\Users\preethu\source\repos\Saturdaywork\Smallest\obj\Debug\Smallest.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Saturdaywork\Smallest\obj\Debug\Smallest.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Saturdaywork\Smallest\obj\Debug\Smallest.exe
+C:\Users\preethu\source\repos\Saturdaywork\Smallest\obj\Debug\Smallest.pdb

@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\Saturdaywork\removeduplicate\bin\Debug\removeduplicate.exe.config
+C:\Users\preethu\source\repos\Saturdaywork\removeduplicate\bin\Debug\removeduplicate.exe
+C:\Users\preethu\source\repos\Saturdaywork\removeduplicate\bin\Debug\removeduplicate.pdb
+C:\Users\preethu\source\repos\Saturdaywork\removeduplicate\obj\Debug\removeduplicate.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Saturdaywork\removeduplicate\obj\Debug\removeduplicate.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Saturdaywork\removeduplicate\obj\Debug\removeduplicate.exe
+C:\Users\preethu\source\repos\Saturdaywork\removeduplicate\obj\Debug\removeduplicate.pdb

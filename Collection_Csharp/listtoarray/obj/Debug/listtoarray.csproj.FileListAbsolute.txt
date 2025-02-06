@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\Collection\listtoarray\bin\Debug\listtoarray.exe.config
+C:\Users\preethu\source\repos\Collection\listtoarray\bin\Debug\listtoarray.exe
+C:\Users\preethu\source\repos\Collection\listtoarray\bin\Debug\listtoarray.pdb
+C:\Users\preethu\source\repos\Collection\listtoarray\obj\Debug\listtoarray.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Collection\listtoarray\obj\Debug\listtoarray.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Collection\listtoarray\obj\Debug\listtoarray.exe
+C:\Users\preethu\source\repos\Collection\listtoarray\obj\Debug\listtoarray.pdb

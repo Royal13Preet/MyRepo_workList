@@ -1,0 +1,15 @@
+C:\Users\preethu\source\repos\Saturday_ManagingProducts\Saturday_ManagingProducts.Manager\bin\Debug\net8.0\Saturday_ManagingProducts.Manager.deps.json
+C:\Users\preethu\source\repos\Saturday_ManagingProducts\Saturday_ManagingProducts.Manager\bin\Debug\net8.0\Saturday_ManagingProducts.Manager.dll
+C:\Users\preethu\source\repos\Saturday_ManagingProducts\Saturday_ManagingProducts.Manager\bin\Debug\net8.0\Saturday_ManagingProducts.Manager.pdb
+C:\Users\preethu\source\repos\Saturday_ManagingProducts\Saturday_ManagingProducts.Manager\bin\Debug\net8.0\Saturday_ManagingProducts.DataAccess.dll
+C:\Users\preethu\source\repos\Saturday_ManagingProducts\Saturday_ManagingProducts.Manager\bin\Debug\net8.0\Saturday_ManagingProducts.DataAccess.pdb
+C:\Users\preethu\source\repos\Saturday_ManagingProducts\Saturday_ManagingProducts.Manager\obj\Debug\net8.0\Saturday_ManagingProducts.Manager.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Saturday_ManagingProducts\Saturday_ManagingProducts.Manager\obj\Debug\net8.0\Saturday_ManagingProducts.Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\preethu\source\repos\Saturday_ManagingProducts\Saturday_ManagingProducts.Manager\obj\Debug\net8.0\Saturday_ManagingProducts.Manager.AssemblyInfoInputs.cache
+C:\Users\preethu\source\repos\Saturday_ManagingProducts\Saturday_ManagingProducts.Manager\obj\Debug\net8.0\Saturday_ManagingProducts.Manager.AssemblyInfo.cs
+C:\Users\preethu\source\repos\Saturday_ManagingProducts\Saturday_ManagingProducts.Manager\obj\Debug\net8.0\Saturday_ManagingProducts.Manager.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Saturday_ManagingProducts\Saturday_ManagingProducts.Manager\obj\Debug\net8.0\Saturday.B03C4E90.Up2Date
+C:\Users\preethu\source\repos\Saturday_ManagingProducts\Saturday_ManagingProducts.Manager\obj\Debug\net8.0\Saturday_ManagingProducts.Manager.dll
+C:\Users\preethu\source\repos\Saturday_ManagingProducts\Saturday_ManagingProducts.Manager\obj\Debug\net8.0\refint\Saturday_ManagingProducts.Manager.dll
+C:\Users\preethu\source\repos\Saturday_ManagingProducts\Saturday_ManagingProducts.Manager\obj\Debug\net8.0\Saturday_ManagingProducts.Manager.pdb
+C:\Users\preethu\source\repos\Saturday_ManagingProducts\Saturday_ManagingProducts.Manager\obj\Debug\net8.0\ref\Saturday_ManagingProducts.Manager.dll

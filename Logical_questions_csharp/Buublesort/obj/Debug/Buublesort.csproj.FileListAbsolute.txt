@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\Saturdaywork\Buublesort\bin\Debug\Buublesort.exe.config
+C:\Users\preethu\source\repos\Saturdaywork\Buublesort\bin\Debug\Buublesort.exe
+C:\Users\preethu\source\repos\Saturdaywork\Buublesort\bin\Debug\Buublesort.pdb
+C:\Users\preethu\source\repos\Saturdaywork\Buublesort\obj\Debug\Buublesort.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Saturdaywork\Buublesort\obj\Debug\Buublesort.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Saturdaywork\Buublesort\obj\Debug\Buublesort.exe
+C:\Users\preethu\source\repos\Saturdaywork\Buublesort\obj\Debug\Buublesort.pdb

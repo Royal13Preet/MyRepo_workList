@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\practice\hecking\bin\Debug\hecking.exe.config
+C:\Users\preethu\source\repos\practice\hecking\bin\Debug\hecking.exe
+C:\Users\preethu\source\repos\practice\hecking\bin\Debug\hecking.pdb
+C:\Users\preethu\source\repos\practice\hecking\obj\Debug\hecking.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\practice\hecking\obj\Debug\hecking.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\practice\hecking\obj\Debug\hecking.exe
+C:\Users\preethu\source\repos\practice\hecking\obj\Debug\hecking.pdb

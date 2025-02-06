@@ -1,0 +1,16 @@
+C:\Users\preethu\source\repos\calllogma\calllogma\bin\Debug\net8.0-windows\calllogma.exe
+C:\Users\preethu\source\repos\calllogma\calllogma\bin\Debug\net8.0-windows\calllogma.deps.json
+C:\Users\preethu\source\repos\calllogma\calllogma\bin\Debug\net8.0-windows\calllogma.runtimeconfig.json
+C:\Users\preethu\source\repos\calllogma\calllogma\bin\Debug\net8.0-windows\calllogma.dll
+C:\Users\preethu\source\repos\calllogma\calllogma\bin\Debug\net8.0-windows\calllogma.pdb
+C:\Users\preethu\source\repos\calllogma\calllogma\obj\Debug\net8.0-windows\calllogma.Form1.resources
+C:\Users\preethu\source\repos\calllogma\calllogma\obj\Debug\net8.0-windows\calllogma.csproj.GenerateResource.cache
+C:\Users\preethu\source\repos\calllogma\calllogma\obj\Debug\net8.0-windows\calllogma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\preethu\source\repos\calllogma\calllogma\obj\Debug\net8.0-windows\calllogma.AssemblyInfoInputs.cache
+C:\Users\preethu\source\repos\calllogma\calllogma\obj\Debug\net8.0-windows\calllogma.AssemblyInfo.cs
+C:\Users\preethu\source\repos\calllogma\calllogma\obj\Debug\net8.0-windows\calllogma.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\calllogma\calllogma\obj\Debug\net8.0-windows\calllogma.dll
+C:\Users\preethu\source\repos\calllogma\calllogma\obj\Debug\net8.0-windows\refint\calllogma.dll
+C:\Users\preethu\source\repos\calllogma\calllogma\obj\Debug\net8.0-windows\calllogma.pdb
+C:\Users\preethu\source\repos\calllogma\calllogma\obj\Debug\net8.0-windows\calllogma.genruntimeconfig.cache
+C:\Users\preethu\source\repos\calllogma\calllogma\obj\Debug\net8.0-windows\ref\calllogma.dll

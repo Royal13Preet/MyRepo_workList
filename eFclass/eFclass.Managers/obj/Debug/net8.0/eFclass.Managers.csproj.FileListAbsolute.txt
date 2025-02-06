@@ -1,0 +1,17 @@
+C:\Users\preethu\source\repos\eFclass\eFclass.Managers\bin\Debug\net8.0\eFclass.Managers.deps.json
+C:\Users\preethu\source\repos\eFclass\eFclass.Managers\bin\Debug\net8.0\eFclass.Managers.dll
+C:\Users\preethu\source\repos\eFclass\eFclass.Managers\bin\Debug\net8.0\eFclass.Managers.pdb
+C:\Users\preethu\source\repos\eFclass\eFclass.Managers\bin\Debug\net8.0\eFclass.DataAccess.dll
+C:\Users\preethu\source\repos\eFclass\eFclass.Managers\bin\Debug\net8.0\eFclass.Models.dll
+C:\Users\preethu\source\repos\eFclass\eFclass.Managers\bin\Debug\net8.0\eFclass.DataAccess.pdb
+C:\Users\preethu\source\repos\eFclass\eFclass.Managers\bin\Debug\net8.0\eFclass.Models.pdb
+C:\Users\preethu\source\repos\eFclass\eFclass.Managers\obj\Debug\net8.0\eFclass.Managers.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\eFclass\eFclass.Managers\obj\Debug\net8.0\eFclass.Managers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\preethu\source\repos\eFclass\eFclass.Managers\obj\Debug\net8.0\eFclass.Managers.AssemblyInfoInputs.cache
+C:\Users\preethu\source\repos\eFclass\eFclass.Managers\obj\Debug\net8.0\eFclass.Managers.AssemblyInfo.cs
+C:\Users\preethu\source\repos\eFclass\eFclass.Managers\obj\Debug\net8.0\eFclass.Managers.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\eFclass\eFclass.Managers\obj\Debug\net8.0\eFclass..EE9991EB.Up2Date
+C:\Users\preethu\source\repos\eFclass\eFclass.Managers\obj\Debug\net8.0\eFclass.Managers.dll
+C:\Users\preethu\source\repos\eFclass\eFclass.Managers\obj\Debug\net8.0\refint\eFclass.Managers.dll
+C:\Users\preethu\source\repos\eFclass\eFclass.Managers\obj\Debug\net8.0\eFclass.Managers.pdb
+C:\Users\preethu\source\repos\eFclass\eFclass.Managers\obj\Debug\net8.0\ref\eFclass.Managers.dll

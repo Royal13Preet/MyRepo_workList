@@ -1,0 +1,14 @@
+C:\Users\preethu\source\repos\Assisnment\Assisnment\bin\Debug\net8.0\Assisnment.exe
+C:\Users\preethu\source\repos\Assisnment\Assisnment\bin\Debug\net8.0\Assisnment.deps.json
+C:\Users\preethu\source\repos\Assisnment\Assisnment\bin\Debug\net8.0\Assisnment.runtimeconfig.json
+C:\Users\preethu\source\repos\Assisnment\Assisnment\bin\Debug\net8.0\Assisnment.dll
+C:\Users\preethu\source\repos\Assisnment\Assisnment\bin\Debug\net8.0\Assisnment.pdb
+C:\Users\preethu\source\repos\Assisnment\Assisnment\obj\Debug\net8.0\Assisnment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\preethu\source\repos\Assisnment\Assisnment\obj\Debug\net8.0\Assisnment.AssemblyInfoInputs.cache
+C:\Users\preethu\source\repos\Assisnment\Assisnment\obj\Debug\net8.0\Assisnment.AssemblyInfo.cs
+C:\Users\preethu\source\repos\Assisnment\Assisnment\obj\Debug\net8.0\Assisnment.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Assisnment\Assisnment\obj\Debug\net8.0\Assisnment.dll
+C:\Users\preethu\source\repos\Assisnment\Assisnment\obj\Debug\net8.0\refint\Assisnment.dll
+C:\Users\preethu\source\repos\Assisnment\Assisnment\obj\Debug\net8.0\Assisnment.pdb
+C:\Users\preethu\source\repos\Assisnment\Assisnment\obj\Debug\net8.0\Assisnment.genruntimeconfig.cache
+C:\Users\preethu\source\repos\Assisnment\Assisnment\obj\Debug\net8.0\ref\Assisnment.dll

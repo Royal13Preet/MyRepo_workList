@@ -1,0 +1,11 @@
+@APIwithEFcore_HostAddress = http://localhost:5272
+
+GET {{APIwithEFcore_HostAddress}}/todos/
+Accept: application/json
+
+###
+
+GET {{APIwithEFcore_HostAddress}}/todos/1
+Accept: application/json
+
+###

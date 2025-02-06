@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\Exercise\minimum\bin\Debug\minimum.exe.config
+C:\Users\preethu\source\repos\Exercise\minimum\bin\Debug\minimum.exe
+C:\Users\preethu\source\repos\Exercise\minimum\bin\Debug\minimum.pdb
+C:\Users\preethu\source\repos\Exercise\minimum\obj\Debug\minimum.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Exercise\minimum\obj\Debug\minimum.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Exercise\minimum\obj\Debug\minimum.exe
+C:\Users\preethu\source\repos\Exercise\minimum\obj\Debug\minimum.pdb

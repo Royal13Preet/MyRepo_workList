@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\preethu\\source\\repos\\Logical_questions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{874E1DB8-A690-4CB2-B47C-3AAEACFCA9F2}|matrixmul\\matrixmul.csproj|c:\\users\\preethu\\source\\repos\\logical_questions\\matrixmul\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874E1DB8-A690-4CB2-B47C-3AAEACFCA9F2}|matrixmul\\matrixmul.csproj|solutionrelative:matrixmul\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1A48F3-5F5F-464F-9F77-E9EC26BF829D}|Upper_case\\Upper_case.csproj|c:\\users\\preethu\\source\\repos\\logical_questions\\upper_case\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B1A48F3-5F5F-464F-9F77-E9EC26BF829D}|Upper_case\\Upper_case.csproj|solutionrelative:upper_case\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFB7407-C223-4289-B7ED-EBDC7C9C1C9A}|Sum_of_Column\\Sum_of_Column.csproj|C:\\Users\\preethu\\source\\repos\\Logical_questions\\sum_of_column\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AFB7407-C223-4289-B7ED-EBDC7C9C1C9A}|Sum_of_Column\\Sum_of_Column.csproj|solutionrelative:sum_of_column\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D0A66AF-4C09-47BF-90C3-1D56EB82C0D1}|Identity_matrix\\Identity_matrix.csproj|C:\\Users\\preethu\\source\\repos\\Logical_questions\\identity_matrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D0A66AF-4C09-47BF-90C3-1D56EB82C0D1}|Identity_matrix\\Identity_matrix.csproj|solutionrelative:identity_matrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72802F3B-9992-4C39-8C38-EF71349AD134}|Leap_year\\Leap_year.csproj|C:\\Users\\preethu\\source\\repos\\Logical_questions\\leap_year\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72802F3B-9992-4C39-8C38-EF71349AD134}|Leap_year\\Leap_year.csproj|solutionrelative:leap_year\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F63334-C5FE-4951-99AD-C4077BD2DCC8}|Bitwise\\Bitwise.csproj|C:\\Users\\preethu\\source\\repos\\Logical_questions\\bitwise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22F63334-C5FE-4951-99AD-C4077BD2DCC8}|Bitwise\\Bitwise.csproj|solutionrelative:bitwise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F64E912-121B-4739-A8C5-A1DA356FE018}|Anagram\\Anagram.csproj|C:\\Users\\preethu\\source\\repos\\Logical_questions\\anagram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F64E912-121B-4739-A8C5-A1DA356FE018}|Anagram\\Anagram.csproj|solutionrelative:anagram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC05023E-E502-4E8F-86D1-D15380242D89}|Saturdaywork\\Saturdaywork.csproj|C:\\Users\\preethu\\source\\repos\\Logical_questions\\saturdaywork\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC05023E-E502-4E8F-86D1-D15380242D89}|Saturdaywork\\Saturdaywork.csproj|solutionrelative:saturdaywork\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44E9185B-FC43-45F5-BD2A-BC55A10793F2}|ReverseEntire\\ReverseEntire.csproj|C:\\Users\\preethu\\source\\repos\\Logical_questions\\reverseentire\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44E9185B-FC43-45F5-BD2A-BC55A10793F2}|ReverseEntire\\ReverseEntire.csproj|solutionrelative:reverseentire\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8152052-72F9-4E61-B062-B74C10C8A4F9}|subtractionmat\\subtractionmat.csproj|C:\\Users\\preethu\\source\\repos\\Logical_questions\\subtractionmat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8152052-72F9-4E61-B062-B74C10C8A4F9}|subtractionmat\\subtractionmat.csproj|solutionrelative:subtractionmat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2883777-A43D-439F-A111-3F7C6A9553D8}|StringCompConcat\\StringCompConcat.csproj|C:\\Users\\preethu\\source\\repos\\Logical_questions\\stringcompconcat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2883777-A43D-439F-A111-3F7C6A9553D8}|StringCompConcat\\StringCompConcat.csproj|solutionrelative:stringcompconcat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA07E71-149C-4CF3-B84D-DB258522D2B0}|secondlargest\\secondlargest.csproj|C:\\Users\\preethu\\source\\repos\\Logical_questions\\secondlargest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEA07E71-149C-4CF3-B84D-DB258522D2B0}|secondlargest\\secondlargest.csproj|solutionrelative:secondlargest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Logical_questions\\matrixmul\\Program.cs",
+              "RelativeDocumentMoniker": "matrixmul\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Logical_questions\\matrixmul\\Program.cs",
+              "RelativeToolTip": "matrixmul\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T10:38:24.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Logical_questions\\Upper_case\\Program.cs",
+              "RelativeDocumentMoniker": "Upper_case\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Logical_questions\\Upper_case\\Program.cs",
+              "RelativeToolTip": "Upper_case\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwBsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T10:36:42.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Logical_questions\\Sum_of_Column\\Program.cs",
+              "RelativeDocumentMoniker": "Sum_of_Column\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Logical_questions\\Sum_of_Column\\Program.cs",
+              "RelativeToolTip": "Sum_of_Column\\Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T10:35:59.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Logical_questions\\Identity_matrix\\Program.cs",
+              "RelativeDocumentMoniker": "Identity_matrix\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Logical_questions\\Identity_matrix\\Program.cs",
+              "RelativeToolTip": "Identity_matrix\\Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T10:35:28.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Logical_questions\\Leap_year\\Program.cs",
+              "RelativeDocumentMoniker": "Leap_year\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Logical_questions\\Leap_year\\Program.cs",
+              "RelativeToolTip": "Leap_year\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwBUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T10:34:15.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Logical_questions\\Bitwise\\Program.cs",
+              "RelativeDocumentMoniker": "Bitwise\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Logical_questions\\Bitwise\\Program.cs",
+              "RelativeToolTip": "Bitwise\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T10:33:46.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Logical_questions\\Anagram\\Program.cs",
+              "RelativeDocumentMoniker": "Anagram\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Logical_questions\\Anagram\\Program.cs",
+              "RelativeToolTip": "Anagram\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T10:33:30.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Logical_questions\\Saturdaywork\\Program.cs",
+              "RelativeDocumentMoniker": "Saturdaywork\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Logical_questions\\Saturdaywork\\Program.cs",
+              "RelativeToolTip": "Saturdaywork\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T10:33:21.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Logical_questions\\subtractionmat\\Program.cs",
+              "RelativeDocumentMoniker": "subtractionmat\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Logical_questions\\subtractionmat\\Program.cs",
+              "RelativeToolTip": "subtractionmat\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T12:08:54.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Logical_questions\\StringCompConcat\\Program.cs",
+              "RelativeDocumentMoniker": "StringCompConcat\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Logical_questions\\StringCompConcat\\Program.cs",
+              "RelativeToolTip": "StringCompConcat\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T12:08:19.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Logical_questions\\ReverseEntire\\Program.cs",
+              "RelativeDocumentMoniker": "ReverseEntire\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Logical_questions\\ReverseEntire\\Program.cs",
+              "RelativeToolTip": "ReverseEntire\\Program.cs",
+              "ViewState": "AgIAALoAAAAAAAAAAAAAAMYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T06:22:19.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Logical_questions\\secondlargest\\Program.cs",
+              "RelativeDocumentMoniker": "secondlargest\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Logical_questions\\secondlargest\\Program.cs",
+              "RelativeToolTip": "secondlargest\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T04:33:31.65Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

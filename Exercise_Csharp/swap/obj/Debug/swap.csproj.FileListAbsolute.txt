@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\Exercise\swap\bin\Debug\swap.exe.config
+C:\Users\preethu\source\repos\Exercise\swap\bin\Debug\swap.exe
+C:\Users\preethu\source\repos\Exercise\swap\bin\Debug\swap.pdb
+C:\Users\preethu\source\repos\Exercise\swap\obj\Debug\swap.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Exercise\swap\obj\Debug\swap.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Exercise\swap\obj\Debug\swap.exe
+C:\Users\preethu\source\repos\Exercise\swap\obj\Debug\swap.pdb

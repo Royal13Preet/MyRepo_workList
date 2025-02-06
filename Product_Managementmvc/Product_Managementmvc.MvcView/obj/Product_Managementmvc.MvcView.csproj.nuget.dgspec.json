@@ -1,0 +1,297 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.MvcView\\Product_Managementmvc.MvcView.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.DataAccess\\Product_Managementmvc.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.DataAccess\\Product_Managementmvc.DataAccess.csproj",
+        "projectName": "Product_Managementmvc.DataAccess",
+        "projectPath": "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.DataAccess\\Product_Managementmvc.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\preethu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\preethu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.Managers\\Product_Managementmvc.Managers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.Managers\\Product_Managementmvc.Managers.csproj",
+        "projectName": "Product_Managementmvc.Managers",
+        "projectPath": "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.Managers\\Product_Managementmvc.Managers.csproj",
+        "packagesPath": "C:\\Users\\preethu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.Managers\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\preethu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.DataAccess\\Product_Managementmvc.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.DataAccess\\Product_Managementmvc.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.MvcView\\Product_Managementmvc.MvcView.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.MvcView\\Product_Managementmvc.MvcView.csproj",
+        "projectName": "Product_Managementmvc.MvcView",
+        "projectPath": "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.MvcView\\Product_Managementmvc.MvcView.csproj",
+        "packagesPath": "C:\\Users\\preethu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.MvcView\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\preethu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.Services\\Product_Managementmvc.Services.csproj": {
+                "projectPath": "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.Services\\Product_Managementmvc.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.Services\\Product_Managementmvc.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.Services\\Product_Managementmvc.Services.csproj",
+        "projectName": "Product_Managementmvc.Services",
+        "projectPath": "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.Services\\Product_Managementmvc.Services.csproj",
+        "packagesPath": "C:\\Users\\preethu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\preethu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.Managers\\Product_Managementmvc.Managers.csproj": {
+                "projectPath": "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.Managers\\Product_Managementmvc.Managers.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

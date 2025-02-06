@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\preethu\\source\\repos\\APIwithEFcore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF82E1CB-A109-41ED-AACD-B4EA27CAE802}|APIwithEFcore\\APIwithEFcore.csproj|c:\\users\\preethu\\source\\repos\\apiwithefcore\\apiwithefcore\\context\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF82E1CB-A109-41ED-AACD-B4EA27CAE802}|APIwithEFcore\\APIwithEFcore.csproj|solutionrelative:apiwithefcore\\context\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF82E1CB-A109-41ED-AACD-B4EA27CAE802}|APIwithEFcore\\APIwithEFcore.csproj|c:\\users\\preethu\\source\\repos\\apiwithefcore\\apiwithefcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF82E1CB-A109-41ED-AACD-B4EA27CAE802}|APIwithEFcore\\APIwithEFcore.csproj|solutionrelative:apiwithefcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF82E1CB-A109-41ED-AACD-B4EA27CAE802}|APIwithEFcore\\APIwithEFcore.csproj|c:\\users\\preethu\\source\\repos\\apiwithefcore\\apiwithefcore\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF82E1CB-A109-41ED-AACD-B4EA27CAE802}|APIwithEFcore\\APIwithEFcore.csproj|solutionrelative:apiwithefcore\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF82E1CB-A109-41ED-AACD-B4EA27CAE802}|APIwithEFcore\\APIwithEFcore.csproj|c:\\users\\preethu\\source\\repos\\apiwithefcore\\apiwithefcore\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF82E1CB-A109-41ED-AACD-B4EA27CAE802}|APIwithEFcore\\APIwithEFcore.csproj|solutionrelative:apiwithefcore\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF82E1CB-A109-41ED-AACD-B4EA27CAE802}|APIwithEFcore\\APIwithEFcore.csproj|c:\\users\\preethu\\source\\repos\\apiwithefcore\\apiwithefcore\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF82E1CB-A109-41ED-AACD-B4EA27CAE802}|APIwithEFcore\\APIwithEFcore.csproj|solutionrelative:apiwithefcore\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF82E1CB-A109-41ED-AACD-B4EA27CAE802}|APIwithEFcore\\APIwithEFcore.csproj|c:\\users\\preethu\\source\\repos\\apiwithefcore\\apiwithefcore\\apiwithefcore.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{FF82E1CB-A109-41ED-AACD-B4EA27CAE802}|APIwithEFcore\\APIwithEFcore.csproj|solutionrelative:apiwithefcore\\apiwithefcore.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF82E1CB-A109-41ED-AACD-B4EA27CAE802}|APIwithEFcore\\APIwithEFcore.csproj|c:\\users\\preethu\\source\\repos\\apiwithefcore\\apiwithefcore\\apiwithefcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FF82E1CB-A109-41ED-AACD-B4EA27CAE802}|APIwithEFcore\\APIwithEFcore.csproj|solutionrelative:apiwithefcore\\apiwithefcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF82E1CB-A109-41ED-AACD-B4EA27CAE802}|APIwithEFcore\\APIwithEFcore.csproj|c:\\users\\preethu\\source\\repos\\apiwithefcore\\apiwithefcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FF82E1CB-A109-41ED-AACD-B4EA27CAE802}|APIwithEFcore\\APIwithEFcore.csproj|solutionrelative:apiwithefcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "APIwithEFcore",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APIwithEFcore\\APIwithEFcore\\APIwithEFcore.csproj",
+              "RelativeDocumentMoniker": "APIwithEFcore\\APIwithEFcore.csproj",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APIwithEFcore\\APIwithEFcore\\APIwithEFcore.csproj",
+              "RelativeToolTip": "APIwithEFcore\\APIwithEFcore.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-02T11:07:16.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APIwithEFcore\\APIwithEFcore\\Program.cs",
+              "RelativeDocumentMoniker": "APIwithEFcore\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APIwithEFcore\\APIwithEFcore\\Program.cs",
+              "RelativeToolTip": "APIwithEFcore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T10:52:53.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "APIwithEFcore.csproj",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APIwithEFcore\\APIwithEFcore\\APIwithEFcore.csproj",
+              "RelativeDocumentMoniker": "APIwithEFcore\\APIwithEFcore.csproj",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APIwithEFcore\\APIwithEFcore\\APIwithEFcore.csproj",
+              "RelativeToolTip": "APIwithEFcore\\APIwithEFcore.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-02T10:31:03.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APIwithEFcore\\APIwithEFcore\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "APIwithEFcore\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APIwithEFcore\\APIwithEFcore\\Models\\Student.cs",
+              "RelativeToolTip": "APIwithEFcore\\Models\\Student.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T10:32:12.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APIwithEFcore\\APIwithEFcore\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "APIwithEFcore\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APIwithEFcore\\APIwithEFcore\\Models\\Course.cs",
+              "RelativeToolTip": "APIwithEFcore\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T10:33:53.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APIwithEFcore\\APIwithEFcore\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "APIwithEFcore\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APIwithEFcore\\APIwithEFcore\\Models\\Teacher.cs",
+              "RelativeToolTip": "APIwithEFcore\\Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T10:34:25.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APIwithEFcore\\APIwithEFcore\\Context\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "APIwithEFcore\\Context\\SchoolContext.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APIwithEFcore\\APIwithEFcore\\Context\\SchoolContext.cs",
+              "RelativeToolTip": "APIwithEFcore\\Context\\SchoolContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T10:39:13.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APIwithEFcore\\APIwithEFcore\\appsettings.json",
+              "RelativeDocumentMoniker": "APIwithEFcore\\appsettings.json",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APIwithEFcore\\APIwithEFcore\\appsettings.json",
+              "RelativeToolTip": "APIwithEFcore\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-02T10:40:47.151Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

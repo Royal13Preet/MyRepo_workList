@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\areaofrect\arraysearch\bin\Debug\arraysearch.exe.config
+C:\Users\preethu\source\repos\areaofrect\arraysearch\bin\Debug\arraysearch.exe
+C:\Users\preethu\source\repos\areaofrect\arraysearch\bin\Debug\arraysearch.pdb
+C:\Users\preethu\source\repos\areaofrect\arraysearch\obj\Debug\arraysearch.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\areaofrect\arraysearch\obj\Debug\arraysearch.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\areaofrect\arraysearch\obj\Debug\arraysearch.exe
+C:\Users\preethu\source\repos\areaofrect\arraysearch\obj\Debug\arraysearch.pdb

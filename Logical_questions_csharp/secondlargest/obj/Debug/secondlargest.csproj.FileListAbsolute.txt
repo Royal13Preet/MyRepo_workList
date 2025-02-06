@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\Saturdaywork\secondlargest\bin\Debug\secondlargest.exe.config
+C:\Users\preethu\source\repos\Saturdaywork\secondlargest\bin\Debug\secondlargest.exe
+C:\Users\preethu\source\repos\Saturdaywork\secondlargest\bin\Debug\secondlargest.pdb
+C:\Users\preethu\source\repos\Saturdaywork\secondlargest\obj\Debug\secondlargest.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Saturdaywork\secondlargest\obj\Debug\secondlargest.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Saturdaywork\secondlargest\obj\Debug\secondlargest.exe
+C:\Users\preethu\source\repos\Saturdaywork\secondlargest\obj\Debug\secondlargest.pdb

@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\preethu\\source\\repos\\Linq.Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C325128-8E44-4CA3-84D2-CE05D434B094}|Group_by\\Group_by.csproj|c:\\users\\preethu\\source\\repos\\linq.task\\group_by\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C325128-8E44-4CA3-84D2-CE05D434B094}|Group_by\\Group_by.csproj|solutionrelative:group_by\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC37FB1-85CE-4493-90D2-4743D1AD55BB}|Solution Items{BEC37FB1-85CE-4493-90D2-4743D1AD55BB}|C:\\Users\\preethu\\source\\repos\\Linq.Task\\Linqexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC37FB1-85CE-4493-90D2-4743D1AD55BB}|Solution Items{BEC37FB1-85CE-4493-90D2-4743D1AD55BB}|solutionrelative:Linqexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBAE73DF-1BB9-4021-A856-1322B6A0AB0E}|Linq.Task\\Linq.Task.csproj|C:\\Users\\preethu\\source\\repos\\Linq.Task\\linq.task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBAE73DF-1BB9-4021-A856-1322B6A0AB0E}|Linq.Task\\Linq.Task.csproj|solutionrelative:linq.task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBAE73DF-1BB9-4021-A856-1322B6A0AB0E}|Linq.Task\\Linq.Task.csproj|C:\\Users\\preethu\\source\\repos\\Linq.Task\\linq.task\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DBAE73DF-1BB9-4021-A856-1322B6A0AB0E}|Linq.Task\\Linq.Task.csproj|solutionrelative:linq.task\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC37FB1-85CE-4493-90D2-4743D1AD55BB}|Solution Items{BEC37FB1-85CE-4493-90D2-4743D1AD55BB}|C:\\Users\\preethu\\source\\repos\\Linq.Task\\Linq.int||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BEC37FB1-85CE-4493-90D2-4743D1AD55BB}|Solution Items{BEC37FB1-85CE-4493-90D2-4743D1AD55BB}|solutionrelative:Linq.int||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 215,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Linq.Task\\Group_by\\Program.cs",
+              "RelativeDocumentMoniker": "Group_by\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Linq.Task\\Group_by\\Program.cs",
+              "RelativeToolTip": "Group_by\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwCcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T10:30:13.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Linqexample.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Linq.Task\\Linqexample.cs",
+              "RelativeDocumentMoniker": "Linqexample.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Linq.Task\\Linqexample.cs",
+              "RelativeToolTip": "Linqexample.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T09:05:51.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Linq.Task\\Linq.Task\\App.config",
+              "RelativeDocumentMoniker": "Linq.Task\\App.config",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Linq.Task\\Linq.Task\\App.config",
+              "RelativeToolTip": "Linq.Task\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-22T05:00:40.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Linq.int",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Linq.Task\\Linq.int",
+              "RelativeDocumentMoniker": "Linq.int",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Linq.Task\\Linq.int",
+              "RelativeToolTip": "Linq.int",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-22T05:00:37.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Linq.Task\\Linq.Task\\Program.cs",
+              "RelativeDocumentMoniker": "Linq.Task\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Linq.Task\\Linq.Task\\Program.cs",
+              "RelativeToolTip": "Linq.Task\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T03:40:59.011Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 51,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

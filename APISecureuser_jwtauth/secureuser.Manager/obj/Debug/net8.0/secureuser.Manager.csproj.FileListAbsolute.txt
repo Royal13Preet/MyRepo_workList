@@ -1,0 +1,17 @@
+C:\Users\preethu\source\repos\Secureuser\secureuser.Manager\bin\Debug\net8.0\secureuser.Manager.deps.json
+C:\Users\preethu\source\repos\Secureuser\secureuser.Manager\bin\Debug\net8.0\secureuser.Manager.dll
+C:\Users\preethu\source\repos\Secureuser\secureuser.Manager\bin\Debug\net8.0\secureuser.Manager.pdb
+C:\Users\preethu\source\repos\Secureuser\secureuser.Manager\bin\Debug\net8.0\Secureuser.DataAccess.dll
+C:\Users\preethu\source\repos\Secureuser\secureuser.Manager\bin\Debug\net8.0\Secureuser.Models.dll
+C:\Users\preethu\source\repos\Secureuser\secureuser.Manager\bin\Debug\net8.0\Secureuser.DataAccess.pdb
+C:\Users\preethu\source\repos\Secureuser\secureuser.Manager\bin\Debug\net8.0\Secureuser.Models.pdb
+C:\Users\preethu\source\repos\Secureuser\secureuser.Manager\obj\Debug\net8.0\secureuser.Manager.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Secureuser\secureuser.Manager\obj\Debug\net8.0\secureuser.Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\preethu\source\repos\Secureuser\secureuser.Manager\obj\Debug\net8.0\secureuser.Manager.AssemblyInfoInputs.cache
+C:\Users\preethu\source\repos\Secureuser\secureuser.Manager\obj\Debug\net8.0\secureuser.Manager.AssemblyInfo.cs
+C:\Users\preethu\source\repos\Secureuser\secureuser.Manager\obj\Debug\net8.0\secureuser.Manager.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Secureuser\secureuser.Manager\obj\Debug\net8.0\secureus.95657311.Up2Date
+C:\Users\preethu\source\repos\Secureuser\secureuser.Manager\obj\Debug\net8.0\secureuser.Manager.dll
+C:\Users\preethu\source\repos\Secureuser\secureuser.Manager\obj\Debug\net8.0\refint\secureuser.Manager.dll
+C:\Users\preethu\source\repos\Secureuser\secureuser.Manager\obj\Debug\net8.0\secureuser.Manager.pdb
+C:\Users\preethu\source\repos\Secureuser\secureuser.Manager\obj\Debug\net8.0\ref\secureuser.Manager.dll

@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\Exercise\heloo\bin\Debug\heloo.exe.config
+C:\Users\preethu\source\repos\Exercise\heloo\bin\Debug\heloo.exe
+C:\Users\preethu\source\repos\Exercise\heloo\bin\Debug\heloo.pdb
+C:\Users\preethu\source\repos\Exercise\heloo\obj\Debug\heloo.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Exercise\heloo\obj\Debug\heloo.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Exercise\heloo\obj\Debug\heloo.exe
+C:\Users\preethu\source\repos\Exercise\heloo\obj\Debug\heloo.pdb

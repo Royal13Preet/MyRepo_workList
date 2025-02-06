@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\areaofrect\Multiplication\bin\Debug\Multiplication.exe.config
+C:\Users\preethu\source\repos\areaofrect\Multiplication\bin\Debug\Multiplication.exe
+C:\Users\preethu\source\repos\areaofrect\Multiplication\bin\Debug\Multiplication.pdb
+C:\Users\preethu\source\repos\areaofrect\Multiplication\obj\Debug\Multiplication.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\areaofrect\Multiplication\obj\Debug\Multiplication.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\areaofrect\Multiplication\obj\Debug\Multiplication.exe
+C:\Users\preethu\source\repos\areaofrect\Multiplication\obj\Debug\Multiplication.pdb

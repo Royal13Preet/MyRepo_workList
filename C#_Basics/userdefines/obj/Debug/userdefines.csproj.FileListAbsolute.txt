@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\areaofrect\userdefines\bin\Debug\userdefines.exe.config
+C:\Users\preethu\source\repos\areaofrect\userdefines\bin\Debug\userdefines.exe
+C:\Users\preethu\source\repos\areaofrect\userdefines\bin\Debug\userdefines.pdb
+C:\Users\preethu\source\repos\areaofrect\userdefines\obj\Debug\userdefines.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\areaofrect\userdefines\obj\Debug\userdefines.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\areaofrect\userdefines\obj\Debug\userdefines.exe
+C:\Users\preethu\source\repos\areaofrect\userdefines\obj\Debug\userdefines.pdb

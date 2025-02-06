@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\areaofrect\single level\obj\Debug\single level.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\areaofrect\single level\obj\Debug\single level.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\areaofrect\single level\bin\Debug\single level.exe.config
+C:\Users\preethu\source\repos\areaofrect\single level\bin\Debug\single level.exe
+C:\Users\preethu\source\repos\areaofrect\single level\bin\Debug\single level.pdb
+C:\Users\preethu\source\repos\areaofrect\single level\obj\Debug\single level.exe
+C:\Users\preethu\source\repos\areaofrect\single level\obj\Debug\single level.pdb

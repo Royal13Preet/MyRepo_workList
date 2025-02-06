@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\areaofrect\defaultconst\bin\Debug\defaultconst.exe.config
+C:\Users\preethu\source\repos\areaofrect\defaultconst\bin\Debug\defaultconst.exe
+C:\Users\preethu\source\repos\areaofrect\defaultconst\bin\Debug\defaultconst.pdb
+C:\Users\preethu\source\repos\areaofrect\defaultconst\obj\Debug\defaultconst.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\areaofrect\defaultconst\obj\Debug\defaultconst.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\areaofrect\defaultconst\obj\Debug\defaultconst.exe
+C:\Users\preethu\source\repos\areaofrect\defaultconst\obj\Debug\defaultconst.pdb

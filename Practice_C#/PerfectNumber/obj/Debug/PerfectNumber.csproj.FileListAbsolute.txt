@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\practice\PerfectNumber\bin\Debug\PerfectNumber.exe.config
+C:\Users\preethu\source\repos\practice\PerfectNumber\bin\Debug\PerfectNumber.exe
+C:\Users\preethu\source\repos\practice\PerfectNumber\bin\Debug\PerfectNumber.pdb
+C:\Users\preethu\source\repos\practice\PerfectNumber\obj\Debug\PerfectNumber.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\practice\PerfectNumber\obj\Debug\PerfectNumber.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\practice\PerfectNumber\obj\Debug\PerfectNumber.exe
+C:\Users\preethu\source\repos\practice\PerfectNumber\obj\Debug\PerfectNumber.pdb

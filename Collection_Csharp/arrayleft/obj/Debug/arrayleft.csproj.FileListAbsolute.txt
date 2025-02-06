@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\Collection\arrayleft\bin\Debug\arrayleft.exe.config
+C:\Users\preethu\source\repos\Collection\arrayleft\bin\Debug\arrayleft.exe
+C:\Users\preethu\source\repos\Collection\arrayleft\bin\Debug\arrayleft.pdb
+C:\Users\preethu\source\repos\Collection\arrayleft\obj\Debug\arrayleft.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Collection\arrayleft\obj\Debug\arrayleft.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Collection\arrayleft\obj\Debug\arrayleft.exe
+C:\Users\preethu\source\repos\Collection\arrayleft\obj\Debug\arrayleft.pdb

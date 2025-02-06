@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\areaofrect\assignment\obj\Debug\assignment.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\areaofrect\assignment\obj\Debug\assignment.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\areaofrect\assignment\bin\Debug\assignment.exe.config
+C:\Users\preethu\source\repos\areaofrect\assignment\bin\Debug\assignment.exe
+C:\Users\preethu\source\repos\areaofrect\assignment\bin\Debug\assignment.pdb
+C:\Users\preethu\source\repos\areaofrect\assignment\obj\Debug\assignment.exe
+C:\Users\preethu\source\repos\areaofrect\assignment\obj\Debug\assignment.pdb

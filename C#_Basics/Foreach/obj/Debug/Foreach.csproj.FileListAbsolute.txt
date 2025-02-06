@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\areaofrect\Foreach\bin\Debug\Foreach.exe.config
+C:\Users\preethu\source\repos\areaofrect\Foreach\bin\Debug\Foreach.exe
+C:\Users\preethu\source\repos\areaofrect\Foreach\bin\Debug\Foreach.pdb
+C:\Users\preethu\source\repos\areaofrect\Foreach\obj\Debug\Foreach.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\areaofrect\Foreach\obj\Debug\Foreach.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\areaofrect\Foreach\obj\Debug\Foreach.exe
+C:\Users\preethu\source\repos\areaofrect\Foreach\obj\Debug\Foreach.pdb

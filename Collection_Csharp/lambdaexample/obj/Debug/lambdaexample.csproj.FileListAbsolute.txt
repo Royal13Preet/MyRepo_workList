@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\Collection\lambdaexample\bin\Debug\lambdaexample.exe.config
+C:\Users\preethu\source\repos\Collection\lambdaexample\bin\Debug\lambdaexample.exe
+C:\Users\preethu\source\repos\Collection\lambdaexample\bin\Debug\lambdaexample.pdb
+C:\Users\preethu\source\repos\Collection\lambdaexample\obj\Debug\lambdaexample.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Collection\lambdaexample\obj\Debug\lambdaexample.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Collection\lambdaexample\obj\Debug\lambdaexample.exe
+C:\Users\preethu\source\repos\Collection\lambdaexample\obj\Debug\lambdaexample.pdb

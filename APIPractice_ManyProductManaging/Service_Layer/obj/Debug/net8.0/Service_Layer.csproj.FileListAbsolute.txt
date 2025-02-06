@@ -1,0 +1,17 @@
+C:\Users\preethu\source\repos\Practice_Saturaday\Service_Layer\bin\Debug\net8.0\Service_Layer.deps.json
+C:\Users\preethu\source\repos\Practice_Saturaday\Service_Layer\bin\Debug\net8.0\Service_Layer.dll
+C:\Users\preethu\source\repos\Practice_Saturaday\Service_Layer\bin\Debug\net8.0\Service_Layer.pdb
+C:\Users\preethu\source\repos\Practice_Saturaday\Service_Layer\obj\Debug\net8.0\Service_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\preethu\source\repos\Practice_Saturaday\Service_Layer\obj\Debug\net8.0\Service_Layer.AssemblyInfoInputs.cache
+C:\Users\preethu\source\repos\Practice_Saturaday\Service_Layer\obj\Debug\net8.0\Service_Layer.AssemblyInfo.cs
+C:\Users\preethu\source\repos\Practice_Saturaday\Service_Layer\obj\Debug\net8.0\Service_Layer.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Practice_Saturaday\Service_Layer\obj\Debug\net8.0\Service_Layer.dll
+C:\Users\preethu\source\repos\Practice_Saturaday\Service_Layer\obj\Debug\net8.0\refint\Service_Layer.dll
+C:\Users\preethu\source\repos\Practice_Saturaday\Service_Layer\obj\Debug\net8.0\Service_Layer.pdb
+C:\Users\preethu\source\repos\Practice_Saturaday\Service_Layer\obj\Debug\net8.0\ref\Service_Layer.dll
+C:\Users\preethu\source\repos\Practice_Saturaday\Service_Layer\bin\Debug\net8.0\DataAccess.dll
+C:\Users\preethu\source\repos\Practice_Saturaday\Service_Layer\bin\Debug\net8.0\Manager.dll
+C:\Users\preethu\source\repos\Practice_Saturaday\Service_Layer\bin\Debug\net8.0\Manager.pdb
+C:\Users\preethu\source\repos\Practice_Saturaday\Service_Layer\bin\Debug\net8.0\DataAccess.pdb
+C:\Users\preethu\source\repos\Practice_Saturaday\Service_Layer\obj\Debug\net8.0\Service_Layer.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Practice_Saturaday\Service_Layer\obj\Debug\net8.0\Service_.01D60310.Up2Date

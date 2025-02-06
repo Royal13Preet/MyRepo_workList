@@ -1,0 +1,380 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\preethu\\source\\repos\\Secureuser\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6230FB27-852C-4DCA-85F2-C431DD050925}|Secureuser.Models\\Secureuser.Models.csproj|c:\\users\\preethu\\source\\repos\\secureuser\\secureuser.models\\loggingactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6230FB27-852C-4DCA-85F2-C431DD050925}|Secureuser.Models\\Secureuser.Models.csproj|solutionrelative:secureuser.models\\loggingactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C008D7B-59F6-4665-A379-28329A4CAF59}|Secureuser.DataAccess\\Secureuser.DataAccess.csproj|c:\\users\\preethu\\source\\repos\\secureuser\\secureuser.dataaccess\\projectdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C008D7B-59F6-4665-A379-28329A4CAF59}|Secureuser.DataAccess\\Secureuser.DataAccess.csproj|solutionrelative:secureuser.dataaccess\\projectdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EDC6F0B-35D2-4890-B606-775E4F95222A}|Secureuser.UserProject\\Secureuser.UserProject.csproj|c:\\users\\preethu\\source\\repos\\secureuser\\secureuser.userproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EDC6F0B-35D2-4890-B606-775E4F95222A}|Secureuser.UserProject\\Secureuser.UserProject.csproj|solutionrelative:secureuser.userproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABDE5EBF-212F-45E1-8D46-5D4AA1289DCD}|secureuser.Manager\\secureuser.Manager.csproj|c:\\users\\preethu\\source\\repos\\secureuser\\secureuser.manager\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABDE5EBF-212F-45E1-8D46-5D4AA1289DCD}|secureuser.Manager\\secureuser.Manager.csproj|solutionrelative:secureuser.manager\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EDC6F0B-35D2-4890-B606-775E4F95222A}|Secureuser.UserProject\\Secureuser.UserProject.csproj|c:\\users\\preethu\\source\\repos\\secureuser\\secureuser.userproject\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EDC6F0B-35D2-4890-B606-775E4F95222A}|Secureuser.UserProject\\Secureuser.UserProject.csproj|solutionrelative:secureuser.userproject\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EDC6F0B-35D2-4890-B606-775E4F95222A}|Secureuser.UserProject\\Secureuser.UserProject.csproj|c:\\users\\preethu\\source\\repos\\secureuser\\secureuser.userproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9EDC6F0B-35D2-4890-B606-775E4F95222A}|Secureuser.UserProject\\Secureuser.UserProject.csproj|solutionrelative:secureuser.userproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D94A9EF-2ADB-4565-ACF0-1A71031954A1}|Secureuser.Services\\Secureuser.Services.csproj|c:\\users\\preethu\\source\\repos\\secureuser\\secureuser.services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D94A9EF-2ADB-4565-ACF0-1A71031954A1}|Secureuser.Services\\Secureuser.Services.csproj|solutionrelative:secureuser.services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EDC6F0B-35D2-4890-B606-775E4F95222A}|Secureuser.UserProject\\Secureuser.UserProject.csproj|c:\\users\\preethu\\source\\repos\\secureuser\\secureuser.userproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EDC6F0B-35D2-4890-B606-775E4F95222A}|Secureuser.UserProject\\Secureuser.UserProject.csproj|solutionrelative:secureuser.userproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D94A9EF-2ADB-4565-ACF0-1A71031954A1}|Secureuser.Services\\Secureuser.Services.csproj|c:\\users\\preethu\\source\\repos\\secureuser\\secureuser.services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D94A9EF-2ADB-4565-ACF0-1A71031954A1}|Secureuser.Services\\Secureuser.Services.csproj|solutionrelative:secureuser.services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EDC6F0B-35D2-4890-B606-775E4F95222A}|Secureuser.UserProject\\Secureuser.UserProject.csproj|c:\\users\\preethu\\source\\repos\\secureuser\\secureuser.userproject\\mymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EDC6F0B-35D2-4890-B606-775E4F95222A}|Secureuser.UserProject\\Secureuser.UserProject.csproj|solutionrelative:secureuser.userproject\\mymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6230FB27-852C-4DCA-85F2-C431DD050925}|Secureuser.Models\\Secureuser.Models.csproj|c:\\users\\preethu\\source\\repos\\secureuser\\secureuser.models\\errorhandlerfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6230FB27-852C-4DCA-85F2-C431DD050925}|Secureuser.Models\\Secureuser.Models.csproj|solutionrelative:secureuser.models\\errorhandlerfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C008D7B-59F6-4665-A379-28329A4CAF59}|Secureuser.DataAccess\\Secureuser.DataAccess.csproj|c:\\users\\preethu\\source\\repos\\secureuser\\secureuser.dataaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C008D7B-59F6-4665-A379-28329A4CAF59}|Secureuser.DataAccess\\Secureuser.DataAccess.csproj|solutionrelative:secureuser.dataaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6230FB27-852C-4DCA-85F2-C431DD050925}|Secureuser.Models\\Secureuser.Models.csproj|c:\\users\\preethu\\source\\repos\\secureuser\\secureuser.models\\viewmodel\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6230FB27-852C-4DCA-85F2-C431DD050925}|Secureuser.Models\\Secureuser.Models.csproj|solutionrelative:secureuser.models\\viewmodel\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABDE5EBF-212F-45E1-8D46-5D4AA1289DCD}|secureuser.Manager\\secureuser.Manager.csproj|c:\\users\\preethu\\source\\repos\\secureuser\\secureuser.manager\\iusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABDE5EBF-212F-45E1-8D46-5D4AA1289DCD}|secureuser.Manager\\secureuser.Manager.csproj|solutionrelative:secureuser.manager\\iusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C008D7B-59F6-4665-A379-28329A4CAF59}|Secureuser.DataAccess\\Secureuser.DataAccess.csproj|c:\\users\\preethu\\source\\repos\\secureuser\\secureuser.dataaccess\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C008D7B-59F6-4665-A379-28329A4CAF59}|Secureuser.DataAccess\\Secureuser.DataAccess.csproj|solutionrelative:secureuser.dataaccess\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C008D7B-59F6-4665-A379-28329A4CAF59}|Secureuser.DataAccess\\Secureuser.DataAccess.csproj|c:\\users\\preethu\\source\\repos\\secureuser\\secureuser.dataaccess\\migrations\\20241212111311_first-one.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C008D7B-59F6-4665-A379-28329A4CAF59}|Secureuser.DataAccess\\Secureuser.DataAccess.csproj|solutionrelative:secureuser.dataaccess\\migrations\\20241212111311_first-one.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\preethu\\AppData\\Local\\Temp\\9ee0bbe6-4694-4374-b9ad-010a0cfaf4f6_movies.zip.4f6\\movies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6230FB27-852C-4DCA-85F2-C431DD050925}|Secureuser.Models\\Secureuser.Models.csproj|c:\\users\\preethu\\source\\repos\\secureuser\\secureuser.models\\viewmodel\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6230FB27-852C-4DCA-85F2-C431DD050925}|Secureuser.Models\\Secureuser.Models.csproj|solutionrelative:secureuser.models\\viewmodel\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EDC6F0B-35D2-4890-B606-775E4F95222A}|Secureuser.UserProject\\Secureuser.UserProject.csproj|c:\\users\\preethu\\source\\repos\\secureuser\\secureuser.userproject\\secureuser.userproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9EDC6F0B-35D2-4890-B606-775E4F95222A}|Secureuser.UserProject\\Secureuser.UserProject.csproj|solutionrelative:secureuser.userproject\\secureuser.userproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EDC6F0B-35D2-4890-B606-775E4F95222A}|Secureuser.UserProject\\Secureuser.UserProject.csproj|c:\\users\\preethu\\source\\repos\\secureuser\\secureuser.userproject\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EDC6F0B-35D2-4890-B606-775E4F95222A}|Secureuser.UserProject\\Secureuser.UserProject.csproj|solutionrelative:secureuser.userproject\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C008D7B-59F6-4665-A379-28329A4CAF59}|Secureuser.DataAccess\\Secureuser.DataAccess.csproj|c:\\users\\preethu\\source\\repos\\secureuser\\secureuser.dataaccess\\migrations\\20250109123223_password_incorrect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C008D7B-59F6-4665-A379-28329A4CAF59}|Secureuser.DataAccess\\Secureuser.DataAccess.csproj|solutionrelative:secureuser.dataaccess\\migrations\\20250109123223_password_incorrect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 215,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoggingActionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.Models\\LoggingActionFilter.cs",
+              "RelativeDocumentMoniker": "Secureuser.Models\\LoggingActionFilter.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.Models\\LoggingActionFilter.cs",
+              "RelativeToolTip": "Secureuser.Models\\LoggingActionFilter.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAASwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T05:12:28.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Mymappingprofile.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.UserProject\\Mymappingprofile.cs",
+              "RelativeDocumentMoniker": "Secureuser.UserProject\\Mymappingprofile.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.UserProject\\Mymappingprofile.cs",
+              "RelativeToolTip": "Secureuser.UserProject\\Mymappingprofile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T11:39:05.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Secureuser\\secureuser.Manager\\UserManager.cs",
+              "RelativeDocumentMoniker": "secureuser.Manager\\UserManager.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Secureuser\\secureuser.Manager\\UserManager.cs",
+              "RelativeToolTip": "secureuser.Manager\\UserManager.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAASwEIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T05:49:17.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.UserProject\\Program.cs",
+              "RelativeDocumentMoniker": "Secureuser.UserProject\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.UserProject\\Program.cs",
+              "RelativeToolTip": "Secureuser.UserProject\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T03:59:47.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Secureuser.Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.Services\\AuthService.cs",
+              "RelativeToolTip": "Secureuser.Services\\AuthService.cs",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAqwNMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T05:51:59.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProjectDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.DataAccess\\ProjectDbContext.cs",
+              "RelativeDocumentMoniker": "Secureuser.DataAccess\\ProjectDbContext.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.DataAccess\\ProjectDbContext.cs",
+              "RelativeToolTip": "Secureuser.DataAccess\\ProjectDbContext.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwCUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T10:50:58.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RequestLoggingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.UserProject\\RequestLoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "Secureuser.UserProject\\RequestLoggingMiddleware.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.UserProject\\RequestLoggingMiddleware.cs",
+              "RelativeToolTip": "Secureuser.UserProject\\RequestLoggingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T10:21:04.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Secureuser.Services\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.Services\\IAuthService.cs",
+              "RelativeToolTip": "Secureuser.Services\\IAuthService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T05:47:41.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.UserProject\\appsettings.json",
+              "RelativeDocumentMoniker": "Secureuser.UserProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.UserProject\\appsettings.json",
+              "RelativeToolTip": "Secureuser.UserProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-06T06:35:03.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.UserProject\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Secureuser.UserProject\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.UserProject\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Secureuser.UserProject\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAD4vxoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T06:18:46.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ErrorHandlerFilterAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.Models\\ErrorHandlerFilterAttribute.cs",
+              "RelativeDocumentMoniker": "Secureuser.Models\\ErrorHandlerFilterAttribute.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.Models\\ErrorHandlerFilterAttribute.cs",
+              "RelativeToolTip": "Secureuser.Models\\ErrorHandlerFilterAttribute.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T05:51:11.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.DataAccess\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Secureuser.DataAccess\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.DataAccess\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Secureuser.DataAccess\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T04:55:36.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserCreatedto.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.Models\\ViewModel\\UserCreatedto.cs",
+              "RelativeDocumentMoniker": "Secureuser.Models\\ViewModel\\UserCreatedto.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.Models\\ViewModel\\UserCreatedto.cs",
+              "RelativeToolTip": "Secureuser.Models\\ViewModel\\UserCreatedto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T06:16:32.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IUserManager.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Secureuser\\secureuser.Manager\\IUserManager.cs",
+              "RelativeDocumentMoniker": "secureuser.Manager\\IUserManager.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Secureuser\\secureuser.Manager\\IUserManager.cs",
+              "RelativeToolTip": "secureuser.Manager\\IUserManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T03:53:22.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.DataAccess\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Secureuser.DataAccess\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.DataAccess\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "Secureuser.DataAccess\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T04:04:06.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250109123223_Password_incorrect.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.DataAccess\\Migrations\\20250109123223_Password_incorrect.cs",
+              "RelativeDocumentMoniker": "Secureuser.DataAccess\\Migrations\\20250109123223_Password_incorrect.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.DataAccess\\Migrations\\20250109123223_Password_incorrect.cs",
+              "RelativeToolTip": "Secureuser.DataAccess\\Migrations\\20250109123223_Password_incorrect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T12:32:23.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20241212111311_First-one.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.DataAccess\\Migrations\\20241212111311_First-one.cs",
+              "RelativeDocumentMoniker": "Secureuser.DataAccess\\Migrations\\20241212111311_First-one.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.DataAccess\\Migrations\\20241212111311_First-one.cs",
+              "RelativeToolTip": "Secureuser.DataAccess\\Migrations\\20241212111311_First-one.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T11:48:47.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "movies.json",
+              "DocumentMoniker": "C:\\Users\\preethu\\AppData\\Local\\Temp\\9ee0bbe6-4694-4374-b9ad-010a0cfaf4f6_movies.zip.4f6\\movies.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\9ee0bbe6-4694-4374-b9ad-010a0cfaf4f6_movies.zip.4f6\\movies.json",
+              "ToolTip": "C:\\Users\\preethu\\AppData\\Local\\Temp\\9ee0bbe6-4694-4374-b9ad-010a0cfaf4f6_movies.zip.4f6\\movies.json [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\9ee0bbe6-4694-4374-b9ad-010a0cfaf4f6_movies.zip.4f6\\movies.json [Read Only]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-04T08:29:52.894Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Loginuserdto.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.Models\\ViewModel\\Loginuserdto.cs",
+              "RelativeDocumentMoniker": "Secureuser.Models\\ViewModel\\Loginuserdto.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.Models\\ViewModel\\Loginuserdto.cs",
+              "RelativeToolTip": "Secureuser.Models\\ViewModel\\Loginuserdto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T11:37:17.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Secureuser.UserProject.csproj",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.UserProject\\Secureuser.UserProject.csproj",
+              "RelativeDocumentMoniker": "Secureuser.UserProject\\Secureuser.UserProject.csproj",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.UserProject\\Secureuser.UserProject.csproj",
+              "RelativeToolTip": "Secureuser.UserProject\\Secureuser.UserProject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-03T10:37:40.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.UserProject\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Secureuser.UserProject\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.UserProject\\WeatherForecast.cs",
+              "RelativeToolTip": "Secureuser.UserProject\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T03:59:49.442Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 51,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

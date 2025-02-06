@@ -1,0 +1,17 @@
+C:\Users\preethu\source\repos\Product_Managementmvc\Product_Managementmvc.Services\bin\Debug\net8.0\Product_Managementmvc.Services.deps.json
+C:\Users\preethu\source\repos\Product_Managementmvc\Product_Managementmvc.Services\bin\Debug\net8.0\Product_Managementmvc.Services.dll
+C:\Users\preethu\source\repos\Product_Managementmvc\Product_Managementmvc.Services\bin\Debug\net8.0\Product_Managementmvc.Services.pdb
+C:\Users\preethu\source\repos\Product_Managementmvc\Product_Managementmvc.Services\bin\Debug\net8.0\Product_Managementmvc.DataAccess.dll
+C:\Users\preethu\source\repos\Product_Managementmvc\Product_Managementmvc.Services\bin\Debug\net8.0\Product_Managementmvc.Managers.dll
+C:\Users\preethu\source\repos\Product_Managementmvc\Product_Managementmvc.Services\bin\Debug\net8.0\Product_Managementmvc.Managers.pdb
+C:\Users\preethu\source\repos\Product_Managementmvc\Product_Managementmvc.Services\bin\Debug\net8.0\Product_Managementmvc.DataAccess.pdb
+C:\Users\preethu\source\repos\Product_Managementmvc\Product_Managementmvc.Services\obj\Debug\net8.0\Product_Managementmvc.Services.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Product_Managementmvc\Product_Managementmvc.Services\obj\Debug\net8.0\Product_Managementmvc.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\preethu\source\repos\Product_Managementmvc\Product_Managementmvc.Services\obj\Debug\net8.0\Product_Managementmvc.Services.AssemblyInfoInputs.cache
+C:\Users\preethu\source\repos\Product_Managementmvc\Product_Managementmvc.Services\obj\Debug\net8.0\Product_Managementmvc.Services.AssemblyInfo.cs
+C:\Users\preethu\source\repos\Product_Managementmvc\Product_Managementmvc.Services\obj\Debug\net8.0\Product_Managementmvc.Services.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Product_Managementmvc\Product_Managementmvc.Services\obj\Debug\net8.0\Product_.1A1EE61F.Up2Date
+C:\Users\preethu\source\repos\Product_Managementmvc\Product_Managementmvc.Services\obj\Debug\net8.0\Product_Managementmvc.Services.dll
+C:\Users\preethu\source\repos\Product_Managementmvc\Product_Managementmvc.Services\obj\Debug\net8.0\refint\Product_Managementmvc.Services.dll
+C:\Users\preethu\source\repos\Product_Managementmvc\Product_Managementmvc.Services\obj\Debug\net8.0\Product_Managementmvc.Services.pdb
+C:\Users\preethu\source\repos\Product_Managementmvc\Product_Managementmvc.Services\obj\Debug\net8.0\ref\Product_Managementmvc.Services.dll

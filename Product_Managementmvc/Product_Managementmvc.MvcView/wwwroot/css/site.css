@@ -1,0 +1,100 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+
+
+
+body {
+    background-color: #f5e6cc; /* Light skin-colored background */
+    color: #333; /* Darker text for contrast */
+    font-family: Arial, sans-serif;
+}
+
+table {
+    background-color: #fff; /* White background for table */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Light shadow for depth */
+    overflow: hidden;
+    margin: 20px auto; /* Center the table */
+    width: 50%; /* Reduce the table width */
+    max-width: 800px; /* Optional: limit maximum size for smaller screens */
+}
+
+
+th {
+    background-color: #f2f2f2; /* Light gray header */
+    color: #333; /* Darker text for headers */
+    padding: 10px;
+    text-align: left;
+}
+
+td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd; /* Subtle border between rows */
+}
+
+tr:nth-child(even) {
+    background-color: #f9f9f9; /* Alternating row color */
+}
+
+a.btn {
+    margin-right: 5px;
+}
+
+.btn {
+    border-radius: 4px; /* Rounded buttons */
+    padding: 5px 10px;
+    font-size: 14px;
+}
+
+.btn-warning {
+    background-color: #ffcc00;
+    color: #333;
+    border: none;
+}
+
+    .btn-warning:hover {
+        background-color: #ffb700;
+    }
+
+.btn-danger {
+    background-color: #e74c3c;
+    color: #fff;
+    border: none;
+}
+
+    .btn-danger:hover {
+        background-color: #c0392b;
+    }
+
+.btn-primary {
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+}
+
+    .btn-primary:hover {
+        background-color: #2980b9;
+    }
+

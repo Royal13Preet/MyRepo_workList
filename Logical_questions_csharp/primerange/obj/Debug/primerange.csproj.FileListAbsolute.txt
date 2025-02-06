@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\Saturdaywork\primerange\bin\Debug\primerange.exe.config
+C:\Users\preethu\source\repos\Saturdaywork\primerange\bin\Debug\primerange.exe
+C:\Users\preethu\source\repos\Saturdaywork\primerange\bin\Debug\primerange.pdb
+C:\Users\preethu\source\repos\Saturdaywork\primerange\obj\Debug\primerange.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Saturdaywork\primerange\obj\Debug\primerange.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Saturdaywork\primerange\obj\Debug\primerange.exe
+C:\Users\preethu\source\repos\Saturdaywork\primerange\obj\Debug\primerange.pdb

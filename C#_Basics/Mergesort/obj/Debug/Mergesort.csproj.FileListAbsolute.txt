@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\areaofrect\Mergesort\bin\Debug\Mergesort.exe.config
+C:\Users\preethu\source\repos\areaofrect\Mergesort\bin\Debug\Mergesort.exe
+C:\Users\preethu\source\repos\areaofrect\Mergesort\bin\Debug\Mergesort.pdb
+C:\Users\preethu\source\repos\areaofrect\Mergesort\obj\Debug\Mergesort.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\areaofrect\Mergesort\obj\Debug\Mergesort.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\areaofrect\Mergesort\obj\Debug\Mergesort.exe
+C:\Users\preethu\source\repos\areaofrect\Mergesort\obj\Debug\Mergesort.pdb

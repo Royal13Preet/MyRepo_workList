@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\areaofrect\Multidimension\bin\Debug\Multidimension.exe.config
+C:\Users\preethu\source\repos\areaofrect\Multidimension\bin\Debug\Multidimension.exe
+C:\Users\preethu\source\repos\areaofrect\Multidimension\bin\Debug\Multidimension.pdb
+C:\Users\preethu\source\repos\areaofrect\Multidimension\obj\Debug\Multidimension.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\areaofrect\Multidimension\obj\Debug\Multidimension.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\areaofrect\Multidimension\obj\Debug\Multidimension.exe
+C:\Users\preethu\source\repos\areaofrect\Multidimension\obj\Debug\Multidimension.pdb

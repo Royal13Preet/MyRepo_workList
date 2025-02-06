@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\areaofrect\diaglonal\bin\Debug\diaglonal.exe.config
+C:\Users\preethu\source\repos\areaofrect\diaglonal\bin\Debug\diaglonal.exe
+C:\Users\preethu\source\repos\areaofrect\diaglonal\bin\Debug\diaglonal.pdb
+C:\Users\preethu\source\repos\areaofrect\diaglonal\obj\Debug\diaglonal.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\areaofrect\diaglonal\obj\Debug\diaglonal.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\areaofrect\diaglonal\obj\Debug\diaglonal.exe
+C:\Users\preethu\source\repos\areaofrect\diaglonal\obj\Debug\diaglonal.pdb

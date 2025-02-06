@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Saturday_ManagingProducts.props" />
+</Project>

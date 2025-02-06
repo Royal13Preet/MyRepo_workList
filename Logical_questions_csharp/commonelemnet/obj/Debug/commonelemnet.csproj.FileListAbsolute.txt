@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\Saturdaywork\commonelemnet\bin\Debug\commonelemnet.exe.config
+C:\Users\preethu\source\repos\Saturdaywork\commonelemnet\bin\Debug\commonelemnet.exe
+C:\Users\preethu\source\repos\Saturdaywork\commonelemnet\bin\Debug\commonelemnet.pdb
+C:\Users\preethu\source\repos\Saturdaywork\commonelemnet\obj\Debug\commonelemnet.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Saturdaywork\commonelemnet\obj\Debug\commonelemnet.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Saturdaywork\commonelemnet\obj\Debug\commonelemnet.exe
+C:\Users\preethu\source\repos\Saturdaywork\commonelemnet\obj\Debug\commonelemnet.pdb

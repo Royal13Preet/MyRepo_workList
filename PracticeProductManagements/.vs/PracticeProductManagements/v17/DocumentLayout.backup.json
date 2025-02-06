@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\preethu\\source\\repos\\PracticeProductManagements\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8664948E-566F-4862-9B2B-1834F356C3A5}|PracticeProductManagements.eCommerceBuild\\PracticeProductManagements.eCommerceBuild.csproj|c:\\users\\preethu\\source\\repos\\practiceproductmanagements\\practiceproductmanagements.ecommercebuild\\controllers\\productmangementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8664948E-566F-4862-9B2B-1834F356C3A5}|PracticeProductManagements.eCommerceBuild\\PracticeProductManagements.eCommerceBuild.csproj|solutionrelative:practiceproductmanagements.ecommercebuild\\controllers\\productmangementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B35E2BC6-9870-407F-BF8F-928AF37867FE}|PracticeProductMangements.Services\\PracticeProductMangements.Services.csproj|c:\\users\\preethu\\source\\repos\\practiceproductmanagements\\practiceproductmangements.services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B35E2BC6-9870-407F-BF8F-928AF37867FE}|PracticeProductMangements.Services\\PracticeProductMangements.Services.csproj|solutionrelative:practiceproductmangements.services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CF92ED-49C6-4D9D-80A4-2F2E2D477680}|PracticeProductManagements.DataAccess\\PracticeProductManagements.DataAccess.csproj|c:\\users\\preethu\\source\\repos\\practiceproductmanagements\\practiceproductmanagements.dataaccess\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CF92ED-49C6-4D9D-80A4-2F2E2D477680}|PracticeProductManagements.DataAccess\\PracticeProductManagements.DataAccess.csproj|solutionrelative:practiceproductmanagements.dataaccess\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8664948E-566F-4862-9B2B-1834F356C3A5}|PracticeProductManagements.eCommerceBuild\\PracticeProductManagements.eCommerceBuild.csproj|c:\\users\\preethu\\source\\repos\\practiceproductmanagements\\practiceproductmanagements.ecommercebuild\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8664948E-566F-4862-9B2B-1834F356C3A5}|PracticeProductManagements.eCommerceBuild\\PracticeProductManagements.eCommerceBuild.csproj|solutionrelative:practiceproductmanagements.ecommercebuild\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D75D8551-4F2A-4D40-B3DB-91D714814C1E}|PracticeProductManagements.Manager\\PracticeProductManagements.Manager.csproj|c:\\users\\preethu\\source\\repos\\practiceproductmanagements\\practiceproductmanagements.manager\\productmanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D75D8551-4F2A-4D40-B3DB-91D714814C1E}|PracticeProductManagements.Manager\\PracticeProductManagements.Manager.csproj|solutionrelative:practiceproductmanagements.manager\\productmanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8664948E-566F-4862-9B2B-1834F356C3A5}|PracticeProductManagements.eCommerceBuild\\PracticeProductManagements.eCommerceBuild.csproj|c:\\users\\preethu\\source\\repos\\practiceproductmanagements\\practiceproductmanagements.ecommercebuild\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8664948E-566F-4862-9B2B-1834F356C3A5}|PracticeProductManagements.eCommerceBuild\\PracticeProductManagements.eCommerceBuild.csproj|solutionrelative:practiceproductmanagements.ecommercebuild\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\preethu\\AppData\\Local\\Temp\\387e0737-7d54-4a2d-8275-98b72aef1af0_aspnetMiddleware.zip.af0\\webApi\\Startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 210,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\PracticeProductManagements\\PracticeProductManagements.eCommerceBuild\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "PracticeProductManagements.eCommerceBuild\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\PracticeProductManagements\\PracticeProductManagements.eCommerceBuild\\MappingProfile.cs",
+              "RelativeToolTip": "PracticeProductManagements.eCommerceBuild\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T10:23:03.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\PracticeProductManagements\\PracticeProductManagements.DataAccess\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "PracticeProductManagements.DataAccess\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\PracticeProductManagements\\PracticeProductManagements.DataAccess\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "PracticeProductManagements.DataAccess\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T04:39:19.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductMangementController.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\PracticeProductManagements\\PracticeProductManagements.eCommerceBuild\\Controllers\\ProductMangementController.cs",
+              "RelativeDocumentMoniker": "PracticeProductManagements.eCommerceBuild\\Controllers\\ProductMangementController.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\PracticeProductManagements\\PracticeProductManagements.eCommerceBuild\\Controllers\\ProductMangementController.cs",
+              "RelativeToolTip": "PracticeProductManagements.eCommerceBuild\\Controllers\\ProductMangementController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T04:38:19.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductServices.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\PracticeProductManagements\\PracticeProductMangements.Services\\ProductServices.cs",
+              "RelativeDocumentMoniker": "PracticeProductMangements.Services\\ProductServices.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\PracticeProductManagements\\PracticeProductMangements.Services\\ProductServices.cs",
+              "RelativeToolTip": "PracticeProductMangements.Services\\ProductServices.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T07:10:33.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductManger.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\PracticeProductManagements\\PracticeProductManagements.Manager\\ProductManger.cs",
+              "RelativeDocumentMoniker": "PracticeProductManagements.Manager\\ProductManger.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\PracticeProductManagements\\PracticeProductManagements.Manager\\ProductManger.cs",
+              "RelativeToolTip": "PracticeProductManagements.Manager\\ProductManger.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAIMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T07:09:55.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\PracticeProductManagements\\PracticeProductManagements.eCommerceBuild\\appsettings.json",
+              "RelativeDocumentMoniker": "PracticeProductManagements.eCommerceBuild\\appsettings.json",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\PracticeProductManagements\\PracticeProductManagements.eCommerceBuild\\appsettings.json",
+              "RelativeToolTip": "PracticeProductManagements.eCommerceBuild\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-04T10:23:17.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\AppData\\Local\\Temp\\387e0737-7d54-4a2d-8275-98b72aef1af0_aspnetMiddleware.zip.af0\\webApi\\Startup.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\387e0737-7d54-4a2d-8275-98b72aef1af0_aspnetMiddleware.zip.af0\\webApi\\Startup.cs",
+              "ToolTip": "C:\\Users\\preethu\\AppData\\Local\\Temp\\387e0737-7d54-4a2d-8275-98b72aef1af0_aspnetMiddleware.zip.af0\\webApi\\Startup.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\387e0737-7d54-4a2d-8275-98b72aef1af0_aspnetMiddleware.zip.af0\\webApi\\Startup.cs [Read Only]",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T09:51:41.367Z",
+              "EditorCaption": " [Read Only]"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 89,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

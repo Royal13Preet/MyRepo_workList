@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\Saturdaywork\titilecase\bin\Debug\titilecase.exe.config
+C:\Users\preethu\source\repos\Saturdaywork\titilecase\bin\Debug\titilecase.exe
+C:\Users\preethu\source\repos\Saturdaywork\titilecase\bin\Debug\titilecase.pdb
+C:\Users\preethu\source\repos\Saturdaywork\titilecase\obj\Debug\titilecase.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Saturdaywork\titilecase\obj\Debug\titilecase.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Saturdaywork\titilecase\obj\Debug\titilecase.exe
+C:\Users\preethu\source\repos\Saturdaywork\titilecase\obj\Debug\titilecase.pdb

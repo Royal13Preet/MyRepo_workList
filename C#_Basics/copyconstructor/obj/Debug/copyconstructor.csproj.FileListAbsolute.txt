@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\areaofrect\copyconstructor\bin\Debug\copyconstructor.exe.config
+C:\Users\preethu\source\repos\areaofrect\copyconstructor\bin\Debug\copyconstructor.exe
+C:\Users\preethu\source\repos\areaofrect\copyconstructor\bin\Debug\copyconstructor.pdb
+C:\Users\preethu\source\repos\areaofrect\copyconstructor\obj\Debug\copyconstructor.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\areaofrect\copyconstructor\obj\Debug\copyconstructor.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\areaofrect\copyconstructor\obj\Debug\copyconstructor.exe
+C:\Users\preethu\source\repos\areaofrect\copyconstructor\obj\Debug\copyconstructor.pdb

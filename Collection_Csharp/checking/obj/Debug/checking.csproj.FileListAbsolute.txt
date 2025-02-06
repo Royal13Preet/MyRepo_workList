@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\Collection\checking\bin\Debug\checking.exe.config
+C:\Users\preethu\source\repos\Collection\checking\bin\Debug\checking.exe
+C:\Users\preethu\source\repos\Collection\checking\bin\Debug\checking.pdb
+C:\Users\preethu\source\repos\Collection\checking\obj\Debug\checking.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Collection\checking\obj\Debug\checking.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Collection\checking\obj\Debug\checking.exe
+C:\Users\preethu\source\repos\Collection\checking\obj\Debug\checking.pdb

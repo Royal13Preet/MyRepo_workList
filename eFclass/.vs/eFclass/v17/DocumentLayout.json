@@ -1,0 +1,493 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\preethu\\source\\repos\\eFclass\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C717A783-E92F-45E6-AAD6-ED5E0B99EABB}|eFclass.DataAccess\\eFclass.DataAccess.csproj|c:\\users\\preethu\\source\\repos\\efclass\\efclass.dataaccess\\bookcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C717A783-E92F-45E6-AAD6-ED5E0B99EABB}|eFclass.DataAccess\\eFclass.DataAccess.csproj|solutionrelative:efclass.dataaccess\\bookcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9375D355-70ED-4A64-93AA-BF8FD895A905}|eFclass.BookAPI\\eFclass.BookAPI.csproj|c:\\users\\preethu\\source\\repos\\efclass\\efclass.bookapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9375D355-70ED-4A64-93AA-BF8FD895A905}|eFclass.BookAPI\\eFclass.BookAPI.csproj|solutionrelative:efclass.bookapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9375D355-70ED-4A64-93AA-BF8FD895A905}|eFclass.BookAPI\\eFclass.BookAPI.csproj|c:\\users\\preethu\\source\\repos\\efclass\\efclass.bookapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9375D355-70ED-4A64-93AA-BF8FD895A905}|eFclass.BookAPI\\eFclass.BookAPI.csproj|solutionrelative:efclass.bookapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C717A783-E92F-45E6-AAD6-ED5E0B99EABB}|eFclass.DataAccess\\eFclass.DataAccess.csproj|c:\\users\\preethu\\source\\repos\\efclass\\efclass.dataaccess\\sqllitebookdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C717A783-E92F-45E6-AAD6-ED5E0B99EABB}|eFclass.DataAccess\\eFclass.DataAccess.csproj|solutionrelative:efclass.dataaccess\\sqllitebookdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C717A783-E92F-45E6-AAD6-ED5E0B99EABB}|eFclass.DataAccess\\eFclass.DataAccess.csproj|c:\\users\\preethu\\source\\repos\\efclass\\efclass.dataaccess\\repository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C717A783-E92F-45E6-AAD6-ED5E0B99EABB}|eFclass.DataAccess\\eFclass.DataAccess.csproj|solutionrelative:efclass.dataaccess\\repository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9375D355-70ED-4A64-93AA-BF8FD895A905}|eFclass.BookAPI\\eFclass.BookAPI.csproj|c:\\users\\preethu\\source\\repos\\efclass\\efclass.bookapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9375D355-70ED-4A64-93AA-BF8FD895A905}|eFclass.BookAPI\\eFclass.BookAPI.csproj|solutionrelative:efclass.bookapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9375D355-70ED-4A64-93AA-BF8FD895A905}|eFclass.BookAPI\\eFclass.BookAPI.csproj|c:\\users\\preethu\\source\\repos\\efclass\\efclass.bookapi\\controllers\\getbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9375D355-70ED-4A64-93AA-BF8FD895A905}|eFclass.BookAPI\\eFclass.BookAPI.csproj|solutionrelative:efclass.bookapi\\controllers\\getbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7797B8-EEB5-4C83-916F-F381D483A7CA}|eFclass.Services\\eFclass.Services.csproj|c:\\users\\preethu\\source\\repos\\efclass\\efclass.services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D7797B8-EEB5-4C83-916F-F381D483A7CA}|eFclass.Services\\eFclass.Services.csproj|solutionrelative:efclass.services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7797B8-EEB5-4C83-916F-F381D483A7CA}|eFclass.Services\\eFclass.Services.csproj|c:\\users\\preethu\\source\\repos\\efclass\\efclass.services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D7797B8-EEB5-4C83-916F-F381D483A7CA}|eFclass.Services\\eFclass.Services.csproj|solutionrelative:efclass.services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7797B8-EEB5-4C83-916F-F381D483A7CA}|eFclass.Services\\eFclass.Services.csproj|c:\\users\\preethu\\source\\repos\\efclass\\efclass.services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D7797B8-EEB5-4C83-916F-F381D483A7CA}|eFclass.Services\\eFclass.Services.csproj|solutionrelative:efclass.services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7797B8-EEB5-4C83-916F-F381D483A7CA}|eFclass.Services\\eFclass.Services.csproj|c:\\users\\preethu\\source\\repos\\efclass\\efclass.services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D7797B8-EEB5-4C83-916F-F381D483A7CA}|eFclass.Services\\eFclass.Services.csproj|solutionrelative:efclass.services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7797B8-EEB5-4C83-916F-F381D483A7CA}|eFclass.Services\\eFclass.Services.csproj|c:\\users\\preethu\\source\\repos\\efclass\\efclass.services\\efclass.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5D7797B8-EEB5-4C83-916F-F381D483A7CA}|eFclass.Services\\eFclass.Services.csproj|solutionrelative:efclass.services\\efclass.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F3B1C3-C5D6-4A54-BBF2-80D61BFB0E06}|eFclass.Models\\eFclass.Models.csproj|c:\\users\\preethu\\source\\repos\\efclass\\efclass.models\\viewmodels\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7F3B1C3-C5D6-4A54-BBF2-80D61BFB0E06}|eFclass.Models\\eFclass.Models.csproj|solutionrelative:efclass.models\\viewmodels\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F3B1C3-C5D6-4A54-BBF2-80D61BFB0E06}|eFclass.Models\\eFclass.Models.csproj|c:\\users\\preethu\\source\\repos\\efclass\\efclass.models\\dbmodels\\bookcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7F3B1C3-C5D6-4A54-BBF2-80D61BFB0E06}|eFclass.Models\\eFclass.Models.csproj|solutionrelative:efclass.models\\dbmodels\\bookcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97D45775-37A2-4BDA-A2B6-6DF0DE0A98F7}|eFclass.Managers\\eFclass.Managers.csproj|c:\\users\\preethu\\source\\repos\\efclass\\efclass.managers\\efclass.managers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{97D45775-37A2-4BDA-A2B6-6DF0DE0A98F7}|eFclass.Managers\\eFclass.Managers.csproj|solutionrelative:efclass.managers\\efclass.managers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97D45775-37A2-4BDA-A2B6-6DF0DE0A98F7}|eFclass.Managers\\eFclass.Managers.csproj|c:\\users\\preethu\\source\\repos\\efclass\\efclass.managers\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97D45775-37A2-4BDA-A2B6-6DF0DE0A98F7}|eFclass.Managers\\eFclass.Managers.csproj|solutionrelative:efclass.managers\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97D45775-37A2-4BDA-A2B6-6DF0DE0A98F7}|eFclass.Managers\\eFclass.Managers.csproj|c:\\users\\preethu\\source\\repos\\efclass\\efclass.managers\\ibookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97D45775-37A2-4BDA-A2B6-6DF0DE0A98F7}|eFclass.Managers\\eFclass.Managers.csproj|solutionrelative:efclass.managers\\ibookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97D45775-37A2-4BDA-A2B6-6DF0DE0A98F7}|eFclass.Managers\\eFclass.Managers.csproj|c:\\users\\preethu\\source\\repos\\efclass\\efclass.managers\\iusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97D45775-37A2-4BDA-A2B6-6DF0DE0A98F7}|eFclass.Managers\\eFclass.Managers.csproj|solutionrelative:efclass.managers\\iusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97D45775-37A2-4BDA-A2B6-6DF0DE0A98F7}|eFclass.Managers\\eFclass.Managers.csproj|c:\\users\\preethu\\source\\repos\\efclass\\efclass.managers\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97D45775-37A2-4BDA-A2B6-6DF0DE0A98F7}|eFclass.Managers\\eFclass.Managers.csproj|solutionrelative:efclass.managers\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C717A783-E92F-45E6-AAD6-ED5E0B99EABB}|eFclass.DataAccess\\eFclass.DataAccess.csproj|c:\\users\\preethu\\source\\repos\\efclass\\efclass.dataaccess\\repository\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C717A783-E92F-45E6-AAD6-ED5E0B99EABB}|eFclass.DataAccess\\eFclass.DataAccess.csproj|solutionrelative:efclass.dataaccess\\repository\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9375D355-70ED-4A64-93AA-BF8FD895A905}|eFclass.BookAPI\\eFclass.BookAPI.csproj|c:\\users\\preethu\\source\\repos\\efclass\\efclass.bookapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9375D355-70ED-4A64-93AA-BF8FD895A905}|eFclass.BookAPI\\eFclass.BookAPI.csproj|solutionrelative:efclass.bookapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C717A783-E92F-45E6-AAD6-ED5E0B99EABB}|eFclass.DataAccess\\eFclass.DataAccess.csproj|c:\\users\\preethu\\source\\repos\\efclass\\efclass.dataaccess\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C717A783-E92F-45E6-AAD6-ED5E0B99EABB}|eFclass.DataAccess\\eFclass.DataAccess.csproj|solutionrelative:efclass.dataaccess\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C717A783-E92F-45E6-AAD6-ED5E0B99EABB}|eFclass.DataAccess\\eFclass.DataAccess.csproj|c:\\users\\preethu\\source\\repos\\efclass\\efclass.dataaccess\\repository\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C717A783-E92F-45E6-AAD6-ED5E0B99EABB}|eFclass.DataAccess\\eFclass.DataAccess.csproj|solutionrelative:efclass.dataaccess\\repository\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C717A783-E92F-45E6-AAD6-ED5E0B99EABB}|eFclass.DataAccess\\eFclass.DataAccess.csproj|c:\\users\\preethu\\source\\repos\\efclass\\efclass.dataaccess\\repository\\bookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C717A783-E92F-45E6-AAD6-ED5E0B99EABB}|eFclass.DataAccess\\eFclass.DataAccess.csproj|solutionrelative:efclass.dataaccess\\repository\\bookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F3B1C3-C5D6-4A54-BBF2-80D61BFB0E06}|eFclass.Models\\eFclass.Models.csproj|c:\\users\\preethu\\source\\repos\\efclass\\efclass.models\\dbmodels\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7F3B1C3-C5D6-4A54-BBF2-80D61BFB0E06}|eFclass.Models\\eFclass.Models.csproj|solutionrelative:efclass.models\\dbmodels\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9375D355-70ED-4A64-93AA-BF8FD895A905}|eFclass.BookAPI\\eFclass.BookAPI.csproj|c:\\users\\preethu\\source\\repos\\efclass\\efclass.bookapi\\mymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9375D355-70ED-4A64-93AA-BF8FD895A905}|eFclass.BookAPI\\eFclass.BookAPI.csproj|solutionrelative:efclass.bookapi\\mymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F3B1C3-C5D6-4A54-BBF2-80D61BFB0E06}|eFclass.Models\\eFclass.Models.csproj|c:\\users\\preethu\\source\\repos\\efclass\\efclass.models\\viewmodels\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7F3B1C3-C5D6-4A54-BBF2-80D61BFB0E06}|eFclass.Models\\eFclass.Models.csproj|solutionrelative:efclass.models\\viewmodels\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F3B1C3-C5D6-4A54-BBF2-80D61BFB0E06}|eFclass.Models\\eFclass.Models.csproj|c:\\users\\preethu\\source\\repos\\efclass\\efclass.models\\dbmodels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7F3B1C3-C5D6-4A54-BBF2-80D61BFB0E06}|eFclass.Models\\eFclass.Models.csproj|solutionrelative:efclass.models\\dbmodels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BookManager.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\eFclass\\eFclass.Managers\\BookManager.cs",
+              "RelativeDocumentMoniker": "eFclass.Managers\\BookManager.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\eFclass\\eFclass.Managers\\BookManager.cs",
+              "RelativeToolTip": "eFclass.Managers\\BookManager.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwDUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T12:15:41.808Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\eFclass\\eFclass.BookAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "eFclass.BookAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\eFclass\\eFclass.BookAPI\\appsettings.json",
+              "RelativeToolTip": "eFclass.BookAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-03T09:04:12.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\eFclass\\eFclass.BookAPI\\Program.cs",
+              "RelativeDocumentMoniker": "eFclass.BookAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\eFclass\\eFclass.BookAPI\\Program.cs",
+              "RelativeToolTip": "eFclass.BookAPI\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T11:10:22.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\eFclass\\eFclass.DataAccess\\Repository\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "eFclass.DataAccess\\Repository\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\eFclass\\eFclass.DataAccess\\Repository\\BaseRepository.cs",
+              "RelativeToolTip": "eFclass.DataAccess\\Repository\\BaseRepository.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T11:15:14.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookContext.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\eFclass\\eFclass.DataAccess\\BookContext.cs",
+              "RelativeDocumentMoniker": "eFclass.DataAccess\\BookContext.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\eFclass\\eFclass.DataAccess\\BookContext.cs",
+              "RelativeToolTip": "eFclass.DataAccess\\BookContext.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCYAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T06:02:43.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SqlLiteBookDataContext.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\eFclass\\eFclass.DataAccess\\SqlLiteBookDataContext.cs",
+              "RelativeDocumentMoniker": "eFclass.DataAccess\\SqlLiteBookDataContext.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\eFclass\\eFclass.DataAccess\\SqlLiteBookDataContext.cs",
+              "RelativeToolTip": "eFclass.DataAccess\\SqlLiteBookDataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T09:28:53.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\eFclass\\eFclass.BookAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "eFclass.BookAPI\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\eFclass\\eFclass.BookAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "eFclass.BookAPI\\Controllers\\UserController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwCMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:56:17.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetBookController.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\eFclass\\eFclass.BookAPI\\Controllers\\GetBookController.cs",
+              "RelativeDocumentMoniker": "eFclass.BookAPI\\Controllers\\GetBookController.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\eFclass\\eFclass.BookAPI\\Controllers\\GetBookController.cs",
+              "RelativeToolTip": "eFclass.BookAPI\\Controllers\\GetBookController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T04:41:44.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\eFclass\\eFclass.Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "eFclass.Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\eFclass\\eFclass.Services\\IUserService.cs",
+              "RelativeToolTip": "eFclass.Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:50:16.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\eFclass\\eFclass.Services\\UserService.cs",
+              "RelativeDocumentMoniker": "eFclass.Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\eFclass\\eFclass.Services\\UserService.cs",
+              "RelativeToolTip": "eFclass.Services\\UserService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:52:12.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\eFclass\\eFclass.Services\\IBookService.cs",
+              "RelativeDocumentMoniker": "eFclass.Services\\IBookService.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\eFclass\\eFclass.Services\\IBookService.cs",
+              "RelativeToolTip": "eFclass.Services\\IBookService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAiwAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T06:22:19.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\eFclass\\eFclass.Services\\BookService.cs",
+              "RelativeDocumentMoniker": "eFclass.Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\eFclass\\eFclass.Services\\BookService.cs",
+              "RelativeToolTip": "eFclass.Services\\BookService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T11:17:21.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "eFclass.Services.csproj",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\eFclass\\eFclass.Services\\eFclass.Services.csproj",
+              "RelativeDocumentMoniker": "eFclass.Services\\eFclass.Services.csproj",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\eFclass\\eFclass.Services\\eFclass.Services.csproj",
+              "RelativeToolTip": "eFclass.Services\\eFclass.Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-03T12:42:51.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BookCategory.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\eFclass\\eFclass.Models\\DBModels\\BookCategory.cs",
+              "RelativeDocumentMoniker": "eFclass.Models\\DBModels\\BookCategory.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\eFclass\\eFclass.Models\\DBModels\\BookCategory.cs",
+              "RelativeToolTip": "eFclass.Models\\DBModels\\BookCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T12:42:48.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "eFclass.Managers.csproj",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\eFclass\\eFclass.Managers\\eFclass.Managers.csproj",
+              "RelativeDocumentMoniker": "eFclass.Managers\\eFclass.Managers.csproj",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\eFclass\\eFclass.Managers\\eFclass.Managers.csproj",
+              "RelativeToolTip": "eFclass.Managers\\eFclass.Managers.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-03T12:42:43.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\eFclass\\eFclass.Managers\\UserManager.cs",
+              "RelativeDocumentMoniker": "eFclass.Managers\\UserManager.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\eFclass\\eFclass.Managers\\UserManager.cs",
+              "RelativeToolTip": "eFclass.Managers\\UserManager.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAASwBkAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T08:39:38.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IBook.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\eFclass\\eFclass.DataAccess\\Repository\\IBook.cs",
+              "RelativeDocumentMoniker": "eFclass.DataAccess\\Repository\\IBook.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\eFclass\\eFclass.DataAccess\\Repository\\IBook.cs",
+              "RelativeToolTip": "eFclass.DataAccess\\Repository\\IBook.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T06:02:52.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IUserManager.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\eFclass\\eFclass.Managers\\IUserManager.cs",
+              "RelativeDocumentMoniker": "eFclass.Managers\\IUserManager.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\eFclass\\eFclass.Managers\\IUserManager.cs",
+              "RelativeToolTip": "eFclass.Managers\\IUserManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T08:35:47.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookDto.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\eFclass\\eFclass.Models\\ViewModels\\BookDto.cs",
+              "RelativeDocumentMoniker": "eFclass.Models\\ViewModels\\BookDto.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\eFclass\\eFclass.Models\\ViewModels\\BookDto.cs",
+              "RelativeToolTip": "eFclass.Models\\ViewModels\\BookDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:50:57.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IBookManager.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\eFclass\\eFclass.Managers\\IBookManager.cs",
+              "RelativeDocumentMoniker": "eFclass.Managers\\IBookManager.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\eFclass\\eFclass.Managers\\IBookManager.cs",
+              "RelativeToolTip": "eFclass.Managers\\IBookManager.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T06:26:55.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\eFclass\\eFclass.BookAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "eFclass.BookAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\eFclass\\eFclass.BookAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "eFclass.BookAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T12:42:25.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\eFclass\\eFclass.DataAccess\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "eFclass.DataAccess\\Repository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\eFclass\\eFclass.DataAccess\\Repository\\IRepository.cs",
+              "RelativeToolTip": "eFclass.DataAccess\\Repository\\IRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T06:27:10.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\eFclass\\eFclass.DataAccess\\Repository\\UserRepo.cs",
+              "RelativeDocumentMoniker": "eFclass.DataAccess\\Repository\\UserRepo.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\eFclass\\eFclass.DataAccess\\Repository\\UserRepo.cs",
+              "RelativeToolTip": "eFclass.DataAccess\\Repository\\UserRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T08:36:43.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BookRepo.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\eFclass\\eFclass.DataAccess\\Repository\\BookRepo.cs",
+              "RelativeDocumentMoniker": "eFclass.DataAccess\\Repository\\BookRepo.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\eFclass\\eFclass.DataAccess\\Repository\\BookRepo.cs",
+              "RelativeToolTip": "eFclass.DataAccess\\Repository\\BookRepo.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowDEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T06:02:48.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\eFclass\\eFclass.Models\\DBModels\\Book.cs",
+              "RelativeDocumentMoniker": "eFclass.Models\\DBModels\\Book.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\eFclass\\eFclass.Models\\DBModels\\Book.cs",
+              "RelativeToolTip": "eFclass.Models\\DBModels\\Book.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:51:01.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Mymappingprofile.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\eFclass\\eFclass.BookAPI\\Mymappingprofile.cs",
+              "RelativeDocumentMoniker": "eFclass.BookAPI\\Mymappingprofile.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\eFclass\\eFclass.BookAPI\\Mymappingprofile.cs",
+              "RelativeToolTip": "eFclass.BookAPI\\Mymappingprofile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T11:20:51.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\eFclass\\eFclass.Models\\DBModels\\User.cs",
+              "RelativeDocumentMoniker": "eFclass.Models\\DBModels\\User.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\eFclass\\eFclass.Models\\DBModels\\User.cs",
+              "RelativeToolTip": "eFclass.Models\\DBModels\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T08:36:30.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\eFclass\\eFclass.Models\\ViewModels\\UserDto.cs",
+              "RelativeDocumentMoniker": "eFclass.Models\\ViewModels\\UserDto.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\eFclass\\eFclass.Models\\ViewModels\\UserDto.cs",
+              "RelativeToolTip": "eFclass.Models\\ViewModels\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T08:36:23.859Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

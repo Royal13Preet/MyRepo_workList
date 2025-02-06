@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\areaofrect\parameterized\bin\Debug\parameterized.exe.config
+C:\Users\preethu\source\repos\areaofrect\parameterized\bin\Debug\parameterized.exe
+C:\Users\preethu\source\repos\areaofrect\parameterized\bin\Debug\parameterized.pdb
+C:\Users\preethu\source\repos\areaofrect\parameterized\obj\Debug\parameterized.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\areaofrect\parameterized\obj\Debug\parameterized.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\areaofrect\parameterized\obj\Debug\parameterized.exe
+C:\Users\preethu\source\repos\areaofrect\parameterized\obj\Debug\parameterized.pdb

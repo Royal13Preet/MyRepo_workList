@@ -1,0 +1,17 @@
+C:\Users\preethu\source\repos\eFclass\eFclass.DataAccess\bin\Debug\net8.0\eFclass.DataAccess.deps.json
+C:\Users\preethu\source\repos\eFclass\eFclass.DataAccess\bin\Debug\net8.0\eFclass.DataAccess.runtimeconfig.json
+C:\Users\preethu\source\repos\eFclass\eFclass.DataAccess\bin\Debug\net8.0\eFclass.DataAccess.dll
+C:\Users\preethu\source\repos\eFclass\eFclass.DataAccess\bin\Debug\net8.0\eFclass.DataAccess.pdb
+C:\Users\preethu\source\repos\eFclass\eFclass.DataAccess\bin\Debug\net8.0\eFclass.Models.dll
+C:\Users\preethu\source\repos\eFclass\eFclass.DataAccess\bin\Debug\net8.0\eFclass.Models.pdb
+C:\Users\preethu\source\repos\eFclass\eFclass.DataAccess\obj\Debug\net8.0\eFclass.DataAccess.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\eFclass\eFclass.DataAccess\obj\Debug\net8.0\eFclass.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\preethu\source\repos\eFclass\eFclass.DataAccess\obj\Debug\net8.0\eFclass.DataAccess.AssemblyInfoInputs.cache
+C:\Users\preethu\source\repos\eFclass\eFclass.DataAccess\obj\Debug\net8.0\eFclass.DataAccess.AssemblyInfo.cs
+C:\Users\preethu\source\repos\eFclass\eFclass.DataAccess\obj\Debug\net8.0\eFclass.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\eFclass\eFclass.DataAccess\obj\Debug\net8.0\eFclass..1E26942D.Up2Date
+C:\Users\preethu\source\repos\eFclass\eFclass.DataAccess\obj\Debug\net8.0\eFclass.DataAccess.dll
+C:\Users\preethu\source\repos\eFclass\eFclass.DataAccess\obj\Debug\net8.0\refint\eFclass.DataAccess.dll
+C:\Users\preethu\source\repos\eFclass\eFclass.DataAccess\obj\Debug\net8.0\eFclass.DataAccess.pdb
+C:\Users\preethu\source\repos\eFclass\eFclass.DataAccess\obj\Debug\net8.0\eFclass.DataAccess.genruntimeconfig.cache
+C:\Users\preethu\source\repos\eFclass\eFclass.DataAccess\obj\Debug\net8.0\ref\eFclass.DataAccess.dll

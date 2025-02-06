@@ -1,0 +1,15 @@
+C:\Users\preethu\source\repos\Product_Managementmvc\Product_Managementmvc.Managers\bin\Debug\net8.0\Product_Managementmvc.Managers.deps.json
+C:\Users\preethu\source\repos\Product_Managementmvc\Product_Managementmvc.Managers\bin\Debug\net8.0\Product_Managementmvc.Managers.dll
+C:\Users\preethu\source\repos\Product_Managementmvc\Product_Managementmvc.Managers\bin\Debug\net8.0\Product_Managementmvc.Managers.pdb
+C:\Users\preethu\source\repos\Product_Managementmvc\Product_Managementmvc.Managers\bin\Debug\net8.0\Product_Managementmvc.DataAccess.dll
+C:\Users\preethu\source\repos\Product_Managementmvc\Product_Managementmvc.Managers\bin\Debug\net8.0\Product_Managementmvc.DataAccess.pdb
+C:\Users\preethu\source\repos\Product_Managementmvc\Product_Managementmvc.Managers\obj\Debug\net8.0\Product_Managementmvc.Managers.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Product_Managementmvc\Product_Managementmvc.Managers\obj\Debug\net8.0\Product_Managementmvc.Managers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\preethu\source\repos\Product_Managementmvc\Product_Managementmvc.Managers\obj\Debug\net8.0\Product_Managementmvc.Managers.AssemblyInfoInputs.cache
+C:\Users\preethu\source\repos\Product_Managementmvc\Product_Managementmvc.Managers\obj\Debug\net8.0\Product_Managementmvc.Managers.AssemblyInfo.cs
+C:\Users\preethu\source\repos\Product_Managementmvc\Product_Managementmvc.Managers\obj\Debug\net8.0\Product_Managementmvc.Managers.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Product_Managementmvc\Product_Managementmvc.Managers\obj\Debug\net8.0\Product_.89FD8230.Up2Date
+C:\Users\preethu\source\repos\Product_Managementmvc\Product_Managementmvc.Managers\obj\Debug\net8.0\Product_Managementmvc.Managers.dll
+C:\Users\preethu\source\repos\Product_Managementmvc\Product_Managementmvc.Managers\obj\Debug\net8.0\refint\Product_Managementmvc.Managers.dll
+C:\Users\preethu\source\repos\Product_Managementmvc\Product_Managementmvc.Managers\obj\Debug\net8.0\Product_Managementmvc.Managers.pdb
+C:\Users\preethu\source\repos\Product_Managementmvc\Product_Managementmvc.Managers\obj\Debug\net8.0\ref\Product_Managementmvc.Managers.dll

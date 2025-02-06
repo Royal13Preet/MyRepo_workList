@@ -1,0 +1,97 @@
+[
+  {
+    "ContainingType": "PracticeProductManagements.eCommerceBuild.Controllers.ProductMangementController",
+    "Method": "CreateProduct",
+    "RelativePath": "api/ProductMangement/Create-new-product",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productDto",
+        "Type": "PracticeProductManagements.Models.Dtos.ProductDetailsDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PracticeProductManagements.eCommerceBuild.Controllers.ProductMangementController",
+    "Method": "DeleteProduct",
+    "RelativePath": "api/ProductMangement/Delete-existing-product-ById",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PracticeProductManagements.eCommerceBuild.Controllers.ProductMangementController",
+    "Method": "GetProductById",
+    "RelativePath": "api/ProductMangement/get-product-id",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PracticeProductManagements.eCommerceBuild.Controllers.ProductMangementController",
+    "Method": "GetProducts",
+    "RelativePath": "api/ProductMangement/get-products",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "page",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PracticeProductManagements.eCommerceBuild.Controllers.ProductMangementController",
+    "Method": "UpdateProduct",
+    "RelativePath": "api/ProductMangement/Update-Exsting-Product-ById",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      },
+      {
+        "Name": "productDto",
+        "Type": "PracticeProductManagements.Models.Dtos.ProductDetailsDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

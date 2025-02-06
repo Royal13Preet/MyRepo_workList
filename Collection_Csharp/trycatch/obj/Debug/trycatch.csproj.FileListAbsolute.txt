@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\Collection\trycatch\bin\Debug\trycatch.exe.config
+C:\Users\preethu\source\repos\Collection\trycatch\bin\Debug\trycatch.exe
+C:\Users\preethu\source\repos\Collection\trycatch\bin\Debug\trycatch.pdb
+C:\Users\preethu\source\repos\Collection\trycatch\obj\Debug\trycatch.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Collection\trycatch\obj\Debug\trycatch.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Collection\trycatch\obj\Debug\trycatch.exe
+C:\Users\preethu\source\repos\Collection\trycatch\obj\Debug\trycatch.pdb

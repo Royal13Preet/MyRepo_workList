@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\practice\Constandraed\obj\Debug\Constandraed.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\practice\Constandraed\obj\Debug\Constandraed.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\practice\Constandraed\bin\Debug\Constandraed.exe.config
+C:\Users\preethu\source\repos\practice\Constandraed\bin\Debug\Constandraed.exe
+C:\Users\preethu\source\repos\practice\Constandraed\bin\Debug\Constandraed.pdb
+C:\Users\preethu\source\repos\practice\Constandraed\obj\Debug\Constandraed.exe
+C:\Users\preethu\source\repos\practice\Constandraed\obj\Debug\Constandraed.pdb

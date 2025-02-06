@@ -1,0 +1,14 @@
+C:\Users\preethu\source\repos\PracticeProductManagements\PracticeProductManagements.DataAccess\obj\Debug\net8.0\PracticeProductManagements.DataAccess.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\PracticeProductManagements\PracticeProductManagements.DataAccess\obj\Debug\net8.0\PracticeProductManagements.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\preethu\source\repos\PracticeProductManagements\PracticeProductManagements.DataAccess\obj\Debug\net8.0\PracticeProductManagements.DataAccess.AssemblyInfoInputs.cache
+C:\Users\preethu\source\repos\PracticeProductManagements\PracticeProductManagements.DataAccess\obj\Debug\net8.0\PracticeProductManagements.DataAccess.AssemblyInfo.cs
+C:\Users\preethu\source\repos\PracticeProductManagements\PracticeProductManagements.DataAccess\obj\Debug\net8.0\PracticeProductManagements.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\PracticeProductManagements\PracticeProductManagements.DataAccess\bin\Debug\net8.0\PracticeProductManagements.DataAccess.deps.json
+C:\Users\preethu\source\repos\PracticeProductManagements\PracticeProductManagements.DataAccess\bin\Debug\net8.0\PracticeProductManagements.DataAccess.runtimeconfig.json
+C:\Users\preethu\source\repos\PracticeProductManagements\PracticeProductManagements.DataAccess\bin\Debug\net8.0\PracticeProductManagements.DataAccess.dll
+C:\Users\preethu\source\repos\PracticeProductManagements\PracticeProductManagements.DataAccess\bin\Debug\net8.0\PracticeProductManagements.DataAccess.pdb
+C:\Users\preethu\source\repos\PracticeProductManagements\PracticeProductManagements.DataAccess\obj\Debug\net8.0\PracticeProductManagements.DataAccess.dll
+C:\Users\preethu\source\repos\PracticeProductManagements\PracticeProductManagements.DataAccess\obj\Debug\net8.0\refint\PracticeProductManagements.DataAccess.dll
+C:\Users\preethu\source\repos\PracticeProductManagements\PracticeProductManagements.DataAccess\obj\Debug\net8.0\PracticeProductManagements.DataAccess.pdb
+C:\Users\preethu\source\repos\PracticeProductManagements\PracticeProductManagements.DataAccess\obj\Debug\net8.0\PracticeProductManagements.DataAccess.genruntimeconfig.cache
+C:\Users\preethu\source\repos\PracticeProductManagements\PracticeProductManagements.DataAccess\obj\Debug\net8.0\ref\PracticeProductManagements.DataAccess.dll

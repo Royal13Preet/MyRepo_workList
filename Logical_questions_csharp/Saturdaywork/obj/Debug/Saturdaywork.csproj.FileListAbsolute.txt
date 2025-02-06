@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\Saturdaywork\Saturdaywork\bin\Debug\Saturdaywork.exe.config
+C:\Users\preethu\source\repos\Saturdaywork\Saturdaywork\bin\Debug\Saturdaywork.exe
+C:\Users\preethu\source\repos\Saturdaywork\Saturdaywork\bin\Debug\Saturdaywork.pdb
+C:\Users\preethu\source\repos\Saturdaywork\Saturdaywork\obj\Debug\Saturdaywork.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Saturdaywork\Saturdaywork\obj\Debug\Saturdaywork.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Saturdaywork\Saturdaywork\obj\Debug\Saturdaywork.exe
+C:\Users\preethu\source\repos\Saturdaywork\Saturdaywork\obj\Debug\Saturdaywork.pdb

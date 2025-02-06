@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\areaofrect\areaofrect\bin\Debug\areaofrect.exe.config
+C:\Users\preethu\source\repos\areaofrect\areaofrect\bin\Debug\areaofrect.exe
+C:\Users\preethu\source\repos\areaofrect\areaofrect\bin\Debug\areaofrect.pdb
+C:\Users\preethu\source\repos\areaofrect\areaofrect\obj\Debug\areaofrect.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\areaofrect\areaofrect\obj\Debug\areaofrect.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\areaofrect\areaofrect\obj\Debug\areaofrect.exe
+C:\Users\preethu\source\repos\areaofrect\areaofrect\obj\Debug\areaofrect.pdb

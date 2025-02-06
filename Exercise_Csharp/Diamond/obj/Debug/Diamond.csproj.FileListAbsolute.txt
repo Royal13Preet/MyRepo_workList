@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\Exercise\Diamond\bin\Debug\Diamond.exe.config
+C:\Users\preethu\source\repos\Exercise\Diamond\bin\Debug\Diamond.exe
+C:\Users\preethu\source\repos\Exercise\Diamond\bin\Debug\Diamond.pdb
+C:\Users\preethu\source\repos\Exercise\Diamond\obj\Debug\Diamond.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Exercise\Diamond\obj\Debug\Diamond.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Exercise\Diamond\obj\Debug\Diamond.exe
+C:\Users\preethu\source\repos\Exercise\Diamond\obj\Debug\Diamond.pdb

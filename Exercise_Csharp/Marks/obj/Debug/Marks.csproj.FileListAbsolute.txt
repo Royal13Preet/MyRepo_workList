@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\Exercise\Marks\bin\Debug\Marks.exe.config
+C:\Users\preethu\source\repos\Exercise\Marks\bin\Debug\Marks.exe
+C:\Users\preethu\source\repos\Exercise\Marks\bin\Debug\Marks.pdb
+C:\Users\preethu\source\repos\Exercise\Marks\obj\Debug\Marks.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Exercise\Marks\obj\Debug\Marks.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Exercise\Marks\obj\Debug\Marks.exe
+C:\Users\preethu\source\repos\Exercise\Marks\obj\Debug\Marks.pdb

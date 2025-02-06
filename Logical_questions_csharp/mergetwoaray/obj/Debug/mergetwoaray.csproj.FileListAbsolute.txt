@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\Saturdaywork\mergetwoaray\bin\Debug\mergetwoaray.exe.config
+C:\Users\preethu\source\repos\Saturdaywork\mergetwoaray\bin\Debug\mergetwoaray.exe
+C:\Users\preethu\source\repos\Saturdaywork\mergetwoaray\bin\Debug\mergetwoaray.pdb
+C:\Users\preethu\source\repos\Saturdaywork\mergetwoaray\obj\Debug\mergetwoaray.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Saturdaywork\mergetwoaray\obj\Debug\mergetwoaray.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Saturdaywork\mergetwoaray\obj\Debug\mergetwoaray.exe
+C:\Users\preethu\source\repos\Saturdaywork\mergetwoaray\obj\Debug\mergetwoaray.pdb

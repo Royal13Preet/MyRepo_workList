@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\Exercise\ATMtransaction\obj\Debug\ATMtransaction.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Exercise\ATMtransaction\obj\Debug\ATMtransaction.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Exercise\ATMtransaction\bin\Debug\ATMtransaction.exe.config
+C:\Users\preethu\source\repos\Exercise\ATMtransaction\bin\Debug\ATMtransaction.exe
+C:\Users\preethu\source\repos\Exercise\ATMtransaction\bin\Debug\ATMtransaction.pdb
+C:\Users\preethu\source\repos\Exercise\ATMtransaction\obj\Debug\ATMtransaction.exe
+C:\Users\preethu\source\repos\Exercise\ATMtransaction\obj\Debug\ATMtransaction.pdb

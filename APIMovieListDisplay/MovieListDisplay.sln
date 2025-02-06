@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieListDisplay.Services", "MovieListDisplay.Services\MovieListDisplay.Services.csproj", "{97D5C82E-2A5D-4F44-B7E6-E6481FED0EF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieListDisplay.Webapi", "MovieListDisplay.Webapi\MovieListDisplay.Webapi.csproj", "{ECA3F40A-F74F-47CD-AB0E-D67693BCEF06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97D5C82E-2A5D-4F44-B7E6-E6481FED0EF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97D5C82E-2A5D-4F44-B7E6-E6481FED0EF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97D5C82E-2A5D-4F44-B7E6-E6481FED0EF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97D5C82E-2A5D-4F44-B7E6-E6481FED0EF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECA3F40A-F74F-47CD-AB0E-D67693BCEF06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECA3F40A-F74F-47CD-AB0E-D67693BCEF06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECA3F40A-F74F-47CD-AB0E-D67693BCEF06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECA3F40A-F74F-47CD-AB0E-D67693BCEF06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {384F31C4-AEBE-4D2E-A791-E3E39A10FBB0}
+	EndGlobalSection
+EndGlobal

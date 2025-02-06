@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\Saturdaywork\Fibnocci\bin\Debug\Fibnocci.exe.config
+C:\Users\preethu\source\repos\Saturdaywork\Fibnocci\bin\Debug\Fibnocci.exe
+C:\Users\preethu\source\repos\Saturdaywork\Fibnocci\bin\Debug\Fibnocci.pdb
+C:\Users\preethu\source\repos\Saturdaywork\Fibnocci\obj\Debug\Fibnocci.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Saturdaywork\Fibnocci\obj\Debug\Fibnocci.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Saturdaywork\Fibnocci\obj\Debug\Fibnocci.exe
+C:\Users\preethu\source\repos\Saturdaywork\Fibnocci\obj\Debug\Fibnocci.pdb

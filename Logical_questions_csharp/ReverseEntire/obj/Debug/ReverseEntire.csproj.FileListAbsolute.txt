@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\Saturdaywork\ReverseEntire\bin\Debug\ReverseEntire.exe.config
+C:\Users\preethu\source\repos\Saturdaywork\ReverseEntire\bin\Debug\ReverseEntire.exe
+C:\Users\preethu\source\repos\Saturdaywork\ReverseEntire\bin\Debug\ReverseEntire.pdb
+C:\Users\preethu\source\repos\Saturdaywork\ReverseEntire\obj\Debug\ReverseEntire.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Saturdaywork\ReverseEntire\obj\Debug\ReverseEntire.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Saturdaywork\ReverseEntire\obj\Debug\ReverseEntire.exe
+C:\Users\preethu\source\repos\Saturdaywork\ReverseEntire\obj\Debug\ReverseEntire.pdb

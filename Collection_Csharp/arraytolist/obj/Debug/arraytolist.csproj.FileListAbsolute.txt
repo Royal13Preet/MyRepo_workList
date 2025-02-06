@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\Collection\arraytolist\bin\Debug\arraytolist.exe.config
+C:\Users\preethu\source\repos\Collection\arraytolist\bin\Debug\arraytolist.exe
+C:\Users\preethu\source\repos\Collection\arraytolist\bin\Debug\arraytolist.pdb
+C:\Users\preethu\source\repos\Collection\arraytolist\obj\Debug\arraytolist.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Collection\arraytolist\obj\Debug\arraytolist.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Collection\arraytolist\obj\Debug\arraytolist.exe
+C:\Users\preethu\source\repos\Collection\arraytolist\obj\Debug\arraytolist.pdb

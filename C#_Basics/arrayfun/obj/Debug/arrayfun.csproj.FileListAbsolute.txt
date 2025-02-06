@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\areaofrect\arrayfun\obj\Debug\arrayfun.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\areaofrect\arrayfun\obj\Debug\arrayfun.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\areaofrect\arrayfun\bin\Debug\arrayfun.exe.config
+C:\Users\preethu\source\repos\areaofrect\arrayfun\bin\Debug\arrayfun.exe
+C:\Users\preethu\source\repos\areaofrect\arrayfun\bin\Debug\arrayfun.pdb
+C:\Users\preethu\source\repos\areaofrect\arrayfun\obj\Debug\arrayfun.exe
+C:\Users\preethu\source\repos\areaofrect\arrayfun\obj\Debug\arrayfun.pdb

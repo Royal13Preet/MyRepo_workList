@@ -1,0 +1,302 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\preethu\\source\\repos\\DataBase_ApprochMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6993F70-C063-434E-9F92-7BAFABFF0081}|DataBase_ApprochMVC\\DataBase_ApprochMVC.csproj|c:\\users\\preethu\\source\\repos\\database_approchmvc\\database_approchmvc\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6993F70-C063-434E-9F92-7BAFABFF0081}|DataBase_ApprochMVC\\DataBase_ApprochMVC.csproj|solutionrelative:database_approchmvc\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6993F70-C063-434E-9F92-7BAFABFF0081}|DataBase_ApprochMVC\\DataBase_ApprochMVC.csproj|c:\\users\\preethu\\source\\repos\\database_approchmvc\\database_approchmvc\\views\\brands\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6993F70-C063-434E-9F92-7BAFABFF0081}|DataBase_ApprochMVC\\DataBase_ApprochMVC.csproj|solutionrelative:database_approchmvc\\views\\brands\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6993F70-C063-434E-9F92-7BAFABFF0081}|DataBase_ApprochMVC\\DataBase_ApprochMVC.csproj|c:\\users\\preethu\\source\\repos\\database_approchmvc\\database_approchmvc\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6993F70-C063-434E-9F92-7BAFABFF0081}|DataBase_ApprochMVC\\DataBase_ApprochMVC.csproj|solutionrelative:database_approchmvc\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6993F70-C063-434E-9F92-7BAFABFF0081}|DataBase_ApprochMVC\\DataBase_ApprochMVC.csproj|c:\\users\\preethu\\source\\repos\\database_approchmvc\\database_approchmvc\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6993F70-C063-434E-9F92-7BAFABFF0081}|DataBase_ApprochMVC\\DataBase_ApprochMVC.csproj|solutionrelative:database_approchmvc\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6993F70-C063-434E-9F92-7BAFABFF0081}|DataBase_ApprochMVC\\DataBase_ApprochMVC.csproj|c:\\users\\preethu\\source\\repos\\database_approchmvc\\database_approchmvc\\views\\brands\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6993F70-C063-434E-9F92-7BAFABFF0081}|DataBase_ApprochMVC\\DataBase_ApprochMVC.csproj|solutionrelative:database_approchmvc\\views\\brands\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6993F70-C063-434E-9F92-7BAFABFF0081}|DataBase_ApprochMVC\\DataBase_ApprochMVC.csproj|c:\\users\\preethu\\source\\repos\\database_approchmvc\\database_approchmvc\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6993F70-C063-434E-9F92-7BAFABFF0081}|DataBase_ApprochMVC\\DataBase_ApprochMVC.csproj|solutionrelative:database_approchmvc\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6993F70-C063-434E-9F92-7BAFABFF0081}|DataBase_ApprochMVC\\DataBase_ApprochMVC.csproj|c:\\users\\preethu\\source\\repos\\database_approchmvc\\database_approchmvc\\models\\dataofmvccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6993F70-C063-434E-9F92-7BAFABFF0081}|DataBase_ApprochMVC\\DataBase_ApprochMVC.csproj|solutionrelative:database_approchmvc\\models\\dataofmvccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6993F70-C063-434E-9F92-7BAFABFF0081}|DataBase_ApprochMVC\\DataBase_ApprochMVC.csproj|c:\\users\\preethu\\source\\repos\\database_approchmvc\\database_approchmvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6993F70-C063-434E-9F92-7BAFABFF0081}|DataBase_ApprochMVC\\DataBase_ApprochMVC.csproj|solutionrelative:database_approchmvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6993F70-C063-434E-9F92-7BAFABFF0081}|DataBase_ApprochMVC\\DataBase_ApprochMVC.csproj|c:\\users\\preethu\\source\\repos\\database_approchmvc\\database_approchmvc\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6993F70-C063-434E-9F92-7BAFABFF0081}|DataBase_ApprochMVC\\DataBase_ApprochMVC.csproj|solutionrelative:database_approchmvc\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6993F70-C063-434E-9F92-7BAFABFF0081}|DataBase_ApprochMVC\\DataBase_ApprochMVC.csproj|c:\\users\\preethu\\source\\repos\\database_approchmvc\\database_approchmvc\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6993F70-C063-434E-9F92-7BAFABFF0081}|DataBase_ApprochMVC\\DataBase_ApprochMVC.csproj|solutionrelative:database_approchmvc\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6993F70-C063-434E-9F92-7BAFABFF0081}|DataBase_ApprochMVC\\DataBase_ApprochMVC.csproj|c:\\users\\preethu\\source\\repos\\database_approchmvc\\database_approchmvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6993F70-C063-434E-9F92-7BAFABFF0081}|DataBase_ApprochMVC\\DataBase_ApprochMVC.csproj|solutionrelative:database_approchmvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6993F70-C063-434E-9F92-7BAFABFF0081}|DataBase_ApprochMVC\\DataBase_ApprochMVC.csproj|c:\\users\\preethu\\source\\repos\\database_approchmvc\\database_approchmvc\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6993F70-C063-434E-9F92-7BAFABFF0081}|DataBase_ApprochMVC\\DataBase_ApprochMVC.csproj|solutionrelative:database_approchmvc\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6993F70-C063-434E-9F92-7BAFABFF0081}|DataBase_ApprochMVC\\DataBase_ApprochMVC.csproj|c:\\users\\preethu\\source\\repos\\database_approchmvc\\database_approchmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6993F70-C063-434E-9F92-7BAFABFF0081}|DataBase_ApprochMVC\\DataBase_ApprochMVC.csproj|solutionrelative:database_approchmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6993F70-C063-434E-9F92-7BAFABFF0081}|DataBase_ApprochMVC\\DataBase_ApprochMVC.csproj|c:\\users\\preethu\\source\\repos\\database_approchmvc\\database_approchmvc\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6993F70-C063-434E-9F92-7BAFABFF0081}|DataBase_ApprochMVC\\DataBase_ApprochMVC.csproj|solutionrelative:database_approchmvc\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6993F70-C063-434E-9F92-7BAFABFF0081}|DataBase_ApprochMVC\\DataBase_ApprochMVC.csproj|c:\\users\\preethu\\source\\repos\\database_approchmvc\\database_approchmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6993F70-C063-434E-9F92-7BAFABFF0081}|DataBase_ApprochMVC\\DataBase_ApprochMVC.csproj|solutionrelative:database_approchmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6993F70-C063-434E-9F92-7BAFABFF0081}|DataBase_ApprochMVC\\DataBase_ApprochMVC.csproj|c:\\users\\preethu\\source\\repos\\database_approchmvc\\database_approchmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6993F70-C063-434E-9F92-7BAFABFF0081}|DataBase_ApprochMVC\\DataBase_ApprochMVC.csproj|solutionrelative:database_approchmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 215,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\DataBase_ApprochMVC\\DataBase_ApprochMVC\\Views\\Brands\\Index.cshtml",
+              "RelativeDocumentMoniker": "DataBase_ApprochMVC\\Views\\Brands\\Index.cshtml",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\DataBase_ApprochMVC\\DataBase_ApprochMVC\\Views\\Brands\\Index.cshtml",
+              "RelativeToolTip": "DataBase_ApprochMVC\\Views\\Brands\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T03:57:22.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BrandsController.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\DataBase_ApprochMVC\\DataBase_ApprochMVC\\Controllers\\BrandsController.cs",
+              "RelativeDocumentMoniker": "DataBase_ApprochMVC\\Controllers\\BrandsController.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\DataBase_ApprochMVC\\DataBase_ApprochMVC\\Controllers\\BrandsController.cs",
+              "RelativeToolTip": "DataBase_ApprochMVC\\Controllers\\BrandsController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T08:59:20.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataOfMvcContext.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\DataBase_ApprochMVC\\DataBase_ApprochMVC\\Models\\DataOfMvcContext.cs",
+              "RelativeDocumentMoniker": "DataBase_ApprochMVC\\Models\\DataOfMvcContext.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\DataBase_ApprochMVC\\DataBase_ApprochMVC\\Models\\DataOfMvcContext.cs",
+              "RelativeToolTip": "DataBase_ApprochMVC\\Models\\DataOfMvcContext.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAACAAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T08:57:16.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\DataBase_ApprochMVC\\DataBase_ApprochMVC\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "DataBase_ApprochMVC\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\DataBase_ApprochMVC\\DataBase_ApprochMVC\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "DataBase_ApprochMVC\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAUwC0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T09:27:04.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\DataBase_ApprochMVC\\DataBase_ApprochMVC\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "DataBase_ApprochMVC\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\DataBase_ApprochMVC\\DataBase_ApprochMVC\\Models\\Product.cs",
+              "RelativeToolTip": "DataBase_ApprochMVC\\Models\\Product.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T09:07:06.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\DataBase_ApprochMVC\\DataBase_ApprochMVC\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "DataBase_ApprochMVC\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\DataBase_ApprochMVC\\DataBase_ApprochMVC\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "DataBase_ApprochMVC\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAjwEoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T09:00:19.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\DataBase_ApprochMVC\\DataBase_ApprochMVC\\Views\\Brands\\Create.cshtml",
+              "RelativeDocumentMoniker": "DataBase_ApprochMVC\\Views\\Brands\\Create.cshtml",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\DataBase_ApprochMVC\\DataBase_ApprochMVC\\Views\\Brands\\Create.cshtml",
+              "RelativeToolTip": "DataBase_ApprochMVC\\Views\\Brands\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T09:07:10.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\DataBase_ApprochMVC\\DataBase_ApprochMVC\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "DataBase_ApprochMVC\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\DataBase_ApprochMVC\\DataBase_ApprochMVC\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "DataBase_ApprochMVC\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T08:59:53.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\DataBase_ApprochMVC\\DataBase_ApprochMVC\\Models\\Brand.cs",
+              "RelativeDocumentMoniker": "DataBase_ApprochMVC\\Models\\Brand.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\DataBase_ApprochMVC\\DataBase_ApprochMVC\\Models\\Brand.cs",
+              "RelativeToolTip": "DataBase_ApprochMVC\\Models\\Brand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T09:06:55.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\DataBase_ApprochMVC\\DataBase_ApprochMVC\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "DataBase_ApprochMVC\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\DataBase_ApprochMVC\\DataBase_ApprochMVC\\Models\\Category.cs",
+              "RelativeToolTip": "DataBase_ApprochMVC\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T09:06:57.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\DataBase_ApprochMVC\\DataBase_ApprochMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DataBase_ApprochMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\DataBase_ApprochMVC\\DataBase_ApprochMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DataBase_ApprochMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T09:18:29.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\DataBase_ApprochMVC\\DataBase_ApprochMVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "DataBase_ApprochMVC\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\DataBase_ApprochMVC\\DataBase_ApprochMVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "DataBase_ApprochMVC\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T09:07:03.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\DataBase_ApprochMVC\\DataBase_ApprochMVC\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "DataBase_ApprochMVC\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\DataBase_ApprochMVC\\DataBase_ApprochMVC\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "DataBase_ApprochMVC\\Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T09:21:38.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\DataBase_ApprochMVC\\DataBase_ApprochMVC\\Views\\Products\\Delete.cshtml",
+              "RelativeDocumentMoniker": "DataBase_ApprochMVC\\Views\\Products\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\DataBase_ApprochMVC\\DataBase_ApprochMVC\\Views\\Products\\Delete.cshtml",
+              "RelativeToolTip": "DataBase_ApprochMVC\\Views\\Products\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T09:26:54.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\DataBase_ApprochMVC\\DataBase_ApprochMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DataBase_ApprochMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\DataBase_ApprochMVC\\DataBase_ApprochMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DataBase_ApprochMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T09:00:51.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\DataBase_ApprochMVC\\DataBase_ApprochMVC\\Program.cs",
+              "RelativeDocumentMoniker": "DataBase_ApprochMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\DataBase_ApprochMVC\\DataBase_ApprochMVC\\Program.cs",
+              "RelativeToolTip": "DataBase_ApprochMVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T08:57:37.77Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 51,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

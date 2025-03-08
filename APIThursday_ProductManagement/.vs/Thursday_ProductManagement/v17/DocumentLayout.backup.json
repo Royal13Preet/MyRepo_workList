@@ -73,8 +73,7 @@
               "RelativeToolTip": "Thursday_productManagementTesting\\ProductControlTest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T05:12:15.846Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T05:12:15.846Z"
             },
             {
               "$type": "Document",
@@ -98,8 +97,7 @@
               "RelativeToolTip": "Thursday_productManagementTesting\\ProductRepoTest.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAwwCgAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T11:40:03.295Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T11:40:03.295Z"
             },
             {
               "$type": "Document",
@@ -136,7 +134,8 @@
               "RelativeToolTip": "Thursday_ProductManagement.Managers\\Thursday_ProductManagement.Managers.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-26T11:34:14.06Z"
+              "WhenOpened": "2025-02-26T11:34:14.06Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -172,7 +171,8 @@
               "RelativeToolTip": "Thursday_ProductManagement.WebApi\\Thursday_ProductManagement.WebApi.csproj",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAByAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-26T11:31:37.953Z"
+              "WhenOpened": "2025-02-26T11:31:37.953Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

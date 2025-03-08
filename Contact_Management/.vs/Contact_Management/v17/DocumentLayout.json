@@ -95,8 +95,7 @@
               "RelativeToolTip": "Contact.DataAccess\\ContactDbContext.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T07:04:42.946Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T07:04:42.946Z"
             },
             {
               "$type": "Document",
@@ -108,8 +107,7 @@
               "RelativeToolTip": "Contact.DataAccess\\Model\\Contact.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T03:35:14.998Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-06T03:35:14.998Z"
             },
             {
               "$type": "Document",
@@ -121,8 +119,7 @@
               "RelativeToolTip": "Contact_Management.WebApi\\Controllers\\ContactController.cs",
               "ViewState": "AgIAADgAAAAAAAAAAAAIwEUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T09:35:59.504Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T09:35:59.504Z"
             },
             {
               "$type": "Document",
@@ -134,8 +131,7 @@
               "RelativeToolTip": "Contact_Management.WebApi\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwBgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T09:11:28.455Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T09:11:28.455Z"
             },
             {
               "$type": "Document",
@@ -147,8 +143,7 @@
               "RelativeToolTip": "Contact_Management.WebApi\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T10:15:52.558Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T10:15:52.558Z"
             }
           ]
         },

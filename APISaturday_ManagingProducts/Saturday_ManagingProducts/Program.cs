@@ -17,7 +17,6 @@ builder.Services.AddScoped<IProductRepository, ProductRepository>();
 builder.Services.AddScoped(typeof(IProductService), typeof(ProductService));
 
 
-
 // Add services to the container.
 //builder.Services.AddDbContext<>();
 builder.Services.AddControllers();

@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.WebApi\\Thursday_ProductManagement.WebApi.csproj": {}
+    "C:\\Users\\preethu\\source\\repos\\APIThursday_ProductManagement\\Thursday_ProductManagement.WebApi\\Thursday_ProductManagement.WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.DataAccess\\Thursday_ProductManagement.DataAccess.csproj": {
+    "C:\\Users\\preethu\\source\\repos\\APIThursday_ProductManagement\\Thursday_ProductManagement.DataAccess\\Thursday_ProductManagement.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.DataAccess\\Thursday_ProductManagement.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\preethu\\source\\repos\\APIThursday_ProductManagement\\Thursday_ProductManagement.DataAccess\\Thursday_ProductManagement.DataAccess.csproj",
         "projectName": "Thursday_ProductManagement.DataAccess",
-        "projectPath": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.DataAccess\\Thursday_ProductManagement.DataAccess.csproj",
+        "projectPath": "C:\\Users\\preethu\\source\\repos\\APIThursday_ProductManagement\\Thursday_ProductManagement.DataAccess\\Thursday_ProductManagement.DataAccess.csproj",
         "packagesPath": "C:\\Users\\preethu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\preethu\\source\\repos\\APIThursday_ProductManagement\\Thursday_ProductManagement.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\preethu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,7 +43,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -76,21 +81,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.Filters\\Thursday_ProductManagement.Filters.csproj": {
+    "C:\\Users\\preethu\\source\\repos\\APIThursday_ProductManagement\\Thursday_ProductManagement.Filters\\Thursday_ProductManagement.Filters.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.Filters\\Thursday_ProductManagement.Filters.csproj",
+        "projectUniqueName": "C:\\Users\\preethu\\source\\repos\\APIThursday_ProductManagement\\Thursday_ProductManagement.Filters\\Thursday_ProductManagement.Filters.csproj",
         "projectName": "Thursday_ProductManagement.Filters",
-        "projectPath": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.Filters\\Thursday_ProductManagement.Filters.csproj",
+        "projectPath": "C:\\Users\\preethu\\source\\repos\\APIThursday_ProductManagement\\Thursday_ProductManagement.Filters\\Thursday_ProductManagement.Filters.csproj",
         "packagesPath": "C:\\Users\\preethu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.Filters\\obj\\",
+        "outputPath": "C:\\Users\\preethu\\source\\repos\\APIThursday_ProductManagement\\Thursday_ProductManagement.Filters\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\preethu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -115,7 +124,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -142,21 +152,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.Managers\\Thursday_ProductManagement.Managers.csproj": {
+    "C:\\Users\\preethu\\source\\repos\\APIThursday_ProductManagement\\Thursday_ProductManagement.Managers\\Thursday_ProductManagement.Managers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.Managers\\Thursday_ProductManagement.Managers.csproj",
+        "projectUniqueName": "C:\\Users\\preethu\\source\\repos\\APIThursday_ProductManagement\\Thursday_ProductManagement.Managers\\Thursday_ProductManagement.Managers.csproj",
         "projectName": "Thursday_ProductManagement.Managers",
-        "projectPath": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.Managers\\Thursday_ProductManagement.Managers.csproj",
+        "projectPath": "C:\\Users\\preethu\\source\\repos\\APIThursday_ProductManagement\\Thursday_ProductManagement.Managers\\Thursday_ProductManagement.Managers.csproj",
         "packagesPath": "C:\\Users\\preethu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.Managers\\obj\\",
+        "outputPath": "C:\\Users\\preethu\\source\\repos\\APIThursday_ProductManagement\\Thursday_ProductManagement.Managers\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\preethu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -170,8 +184,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.DataAccess\\Thursday_ProductManagement.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.DataAccess\\Thursday_ProductManagement.DataAccess.csproj"
+              "C:\\Users\\preethu\\source\\repos\\APIThursday_ProductManagement\\Thursday_ProductManagement.DataAccess\\Thursday_ProductManagement.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\preethu\\source\\repos\\APIThursday_ProductManagement\\Thursday_ProductManagement.DataAccess\\Thursday_ProductManagement.DataAccess.csproj"
               }
             }
           }
@@ -185,7 +199,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -212,21 +227,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.Services\\Thursday_ProductManagement.Services.csproj": {
+    "C:\\Users\\preethu\\source\\repos\\APIThursday_ProductManagement\\Thursday_ProductManagement.Services\\Thursday_ProductManagement.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.Services\\Thursday_ProductManagement.Services.csproj",
+        "projectUniqueName": "C:\\Users\\preethu\\source\\repos\\APIThursday_ProductManagement\\Thursday_ProductManagement.Services\\Thursday_ProductManagement.Services.csproj",
         "projectName": "Thursday_ProductManagement.Services",
-        "projectPath": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.Services\\Thursday_ProductManagement.Services.csproj",
+        "projectPath": "C:\\Users\\preethu\\source\\repos\\APIThursday_ProductManagement\\Thursday_ProductManagement.Services\\Thursday_ProductManagement.Services.csproj",
         "packagesPath": "C:\\Users\\preethu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.Services\\obj\\",
+        "outputPath": "C:\\Users\\preethu\\source\\repos\\APIThursday_ProductManagement\\Thursday_ProductManagement.Services\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\preethu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -240,11 +259,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.DataAccess\\Thursday_ProductManagement.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.DataAccess\\Thursday_ProductManagement.DataAccess.csproj"
+              "C:\\Users\\preethu\\source\\repos\\APIThursday_ProductManagement\\Thursday_ProductManagement.DataAccess\\Thursday_ProductManagement.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\preethu\\source\\repos\\APIThursday_ProductManagement\\Thursday_ProductManagement.DataAccess\\Thursday_ProductManagement.DataAccess.csproj"
               },
-              "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.Managers\\Thursday_ProductManagement.Managers.csproj": {
-                "projectPath": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.Managers\\Thursday_ProductManagement.Managers.csproj"
+              "C:\\Users\\preethu\\source\\repos\\APIThursday_ProductManagement\\Thursday_ProductManagement.Managers\\Thursday_ProductManagement.Managers.csproj": {
+                "projectPath": "C:\\Users\\preethu\\source\\repos\\APIThursday_ProductManagement\\Thursday_ProductManagement.Managers\\Thursday_ProductManagement.Managers.csproj"
               }
             }
           }
@@ -258,7 +277,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -279,21 +299,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.WebApi\\Thursday_ProductManagement.WebApi.csproj": {
+    "C:\\Users\\preethu\\source\\repos\\APIThursday_ProductManagement\\Thursday_ProductManagement.WebApi\\Thursday_ProductManagement.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.WebApi\\Thursday_ProductManagement.WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\preethu\\source\\repos\\APIThursday_ProductManagement\\Thursday_ProductManagement.WebApi\\Thursday_ProductManagement.WebApi.csproj",
         "projectName": "Thursday_ProductManagement.WebApi",
-        "projectPath": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.WebApi\\Thursday_ProductManagement.WebApi.csproj",
+        "projectPath": "C:\\Users\\preethu\\source\\repos\\APIThursday_ProductManagement\\Thursday_ProductManagement.WebApi\\Thursday_ProductManagement.WebApi.csproj",
         "packagesPath": "C:\\Users\\preethu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.WebApi\\obj\\",
+        "outputPath": "C:\\Users\\preethu\\source\\repos\\APIThursday_ProductManagement\\Thursday_ProductManagement.WebApi\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\preethu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -307,11 +331,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.Filters\\Thursday_ProductManagement.Filters.csproj": {
-                "projectPath": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.Filters\\Thursday_ProductManagement.Filters.csproj"
+              "C:\\Users\\preethu\\source\\repos\\APIThursday_ProductManagement\\Thursday_ProductManagement.Filters\\Thursday_ProductManagement.Filters.csproj": {
+                "projectPath": "C:\\Users\\preethu\\source\\repos\\APIThursday_ProductManagement\\Thursday_ProductManagement.Filters\\Thursday_ProductManagement.Filters.csproj"
               },
-              "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.Services\\Thursday_ProductManagement.Services.csproj": {
-                "projectPath": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.Services\\Thursday_ProductManagement.Services.csproj"
+              "C:\\Users\\preethu\\source\\repos\\APIThursday_ProductManagement\\Thursday_ProductManagement.Services\\Thursday_ProductManagement.Services.csproj": {
+                "projectPath": "C:\\Users\\preethu\\source\\repos\\APIThursday_ProductManagement\\Thursday_ProductManagement.Services\\Thursday_ProductManagement.Services.csproj"
               }
             }
           }
@@ -325,7 +349,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -375,7 +400,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

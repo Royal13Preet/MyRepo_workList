@@ -33,10 +33,10 @@ namespace Thursday_ProductManagement.Managers
             return _mapper.Map<IEnumerable<Product>>(entities);
         }
 
-        public ProductDto GetById(int id)
+        public Product GetById(int id)
         {
-            var entity = _repository.GetById(id);
-            return _mapper.Map<ProductDto>(entity);
+            return _repository.GetById(id);
+            
         }
 
         public bool Update(int id, ProductDto dto)

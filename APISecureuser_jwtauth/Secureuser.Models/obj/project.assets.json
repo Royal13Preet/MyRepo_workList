@@ -4132,11 +4132,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.Models\\Secureuser.Models.csproj",
+      "projectUniqueName": "C:\\Users\\preethu\\source\\repos\\APISecureuser_jwtauth\\Secureuser.Models\\Secureuser.Models.csproj",
       "projectName": "Secureuser.Models",
-      "projectPath": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.Models\\Secureuser.Models.csproj",
+      "projectPath": "C:\\Users\\preethu\\source\\repos\\APISecureuser_jwtauth\\Secureuser.Models\\Secureuser.Models.csproj",
       "packagesPath": "C:\\Users\\preethu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.Models\\obj\\",
+      "outputPath": "C:\\Users\\preethu\\source\\repos\\APISecureuser_jwtauth\\Secureuser.Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\preethu\\AppData\\Roaming\\NuGet\\NuGet.Config",

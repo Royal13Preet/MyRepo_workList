@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\preethu\\source\\repos\\PracticeProductManagements\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F6CF92ED-49C6-4D9D-80A4-2F2E2D477680}|PracticeProductManagements.DataAccess\\PracticeProductManagements.DataAccess.csproj|c:\\users\\preethu\\source\\repos\\practiceproductmanagements\\practiceproductmanagements.dataaccess\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CF92ED-49C6-4D9D-80A4-2F2E2D477680}|PracticeProductManagements.DataAccess\\PracticeProductManagements.DataAccess.csproj|solutionrelative:practiceproductmanagements.dataaccess\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CF92ED-49C6-4D9D-80A4-2F2E2D477680}|PracticeProductManagements.DataAccess\\PracticeProductManagements.DataAccess.csproj|c:\\users\\preethu\\source\\repos\\practiceproductmanagements\\practiceproductmanagements.dataaccess\\dbmodel\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CF92ED-49C6-4D9D-80A4-2F2E2D477680}|PracticeProductManagements.DataAccess\\PracticeProductManagements.DataAccess.csproj|solutionrelative:practiceproductmanagements.dataaccess\\dbmodel\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8664948E-566F-4862-9B2B-1834F356C3A5}|PracticeProductManagements.eCommerceBuild\\PracticeProductManagements.eCommerceBuild.csproj|c:\\users\\preethu\\source\\repos\\practiceproductmanagements\\practiceproductmanagements.ecommercebuild\\controllers\\productmangementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8664948E-566F-4862-9B2B-1834F356C3A5}|PracticeProductManagements.eCommerceBuild\\PracticeProductManagements.eCommerceBuild.csproj|solutionrelative:practiceproductmanagements.ecommercebuild\\controllers\\productmangementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -37,7 +45,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 210,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -45,7 +53,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\PracticeProductManagements\\PracticeProductManagements.DataAccess\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "PracticeProductManagements.DataAccess\\ProductDbContext.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\PracticeProductManagements\\PracticeProductManagements.DataAccess\\ProductDbContext.cs",
+              "RelativeToolTip": "PracticeProductManagements.DataAccess\\ProductDbContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T10:50:23.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\PracticeProductManagements\\PracticeProductManagements.DataAccess\\DBModel\\Product.cs",
+              "RelativeDocumentMoniker": "PracticeProductManagements.DataAccess\\DBModel\\Product.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\PracticeProductManagements\\PracticeProductManagements.DataAccess\\DBModel\\Product.cs",
+              "RelativeToolTip": "PracticeProductManagements.DataAccess\\DBModel\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T10:50:19.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "MappingProfile.cs",
               "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\PracticeProductManagements\\PracticeProductManagements.eCommerceBuild\\MappingProfile.cs",
               "RelativeDocumentMoniker": "PracticeProductManagements.eCommerceBuild\\MappingProfile.cs",
@@ -57,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\PracticeProductManagements\\PracticeProductManagements.DataAccess\\Repositories\\ProductRepository.cs",
               "RelativeDocumentMoniker": "PracticeProductManagements.DataAccess\\Repositories\\ProductRepository.cs",
@@ -65,12 +99,11 @@
               "RelativeToolTip": "PracticeProductManagements.DataAccess\\Repositories\\ProductRepository.cs",
               "ViewState": "AgIAAEIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T04:39:19.428Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T04:39:19.428Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ProductMangementController.cs",
               "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\PracticeProductManagements\\PracticeProductManagements.eCommerceBuild\\Controllers\\ProductMangementController.cs",
               "RelativeDocumentMoniker": "PracticeProductManagements.eCommerceBuild\\Controllers\\ProductMangementController.cs",
@@ -83,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ProductServices.cs",
               "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\PracticeProductManagements\\PracticeProductMangements.Services\\ProductServices.cs",
               "RelativeDocumentMoniker": "PracticeProductMangements.Services\\ProductServices.cs",
@@ -91,12 +124,11 @@
               "RelativeToolTip": "PracticeProductMangements.Services\\ProductServices.cs",
               "ViewState": "AgIAADAAAAAAAAAAAAAAAEkAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T07:10:33.721Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T07:10:33.721Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "ProductManger.cs",
               "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\PracticeProductManagements\\PracticeProductManagements.Manager\\ProductManger.cs",
               "RelativeDocumentMoniker": "PracticeProductManagements.Manager\\ProductManger.cs",
@@ -108,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\PracticeProductManagements\\PracticeProductManagements.eCommerceBuild\\appsettings.json",
               "RelativeDocumentMoniker": "PracticeProductManagements.eCommerceBuild\\appsettings.json",
@@ -120,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Startup.cs",
               "DocumentMoniker": "C:\\Users\\preethu\\AppData\\Local\\Temp\\387e0737-7d54-4a2d-8275-98b72aef1af0_aspnetMiddleware.zip.af0\\webApi\\Startup.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\387e0737-7d54-4a2d-8275-98b72aef1af0_aspnetMiddleware.zip.af0\\webApi\\Startup.cs",

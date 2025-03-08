@@ -24,7 +24,7 @@ namespace bubble
                         vary[j + 1] = vary[j];
                         vary[j] = temp;                                                      //0 1  2 3 4  5  6   7
                     }
-    
+                    
                 }
             }                                                                                   
             foreach(int i in vary)

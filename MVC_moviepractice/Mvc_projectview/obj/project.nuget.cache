@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uf2mtv4pPks=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\preethu\\source\\repos\\MVC_moviepractice\\Mvc_projectview\\Mvc_projectview.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\preethu\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

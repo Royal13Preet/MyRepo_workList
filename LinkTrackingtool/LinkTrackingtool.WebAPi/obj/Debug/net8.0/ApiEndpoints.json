@@ -1,0 +1,59 @@
+[
+  {
+    "ContainingType": "LinkTrackingtool.WebAPi.Controllers.LinkController",
+    "Method": "Delete",
+    "RelativePath": "api/Link",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LinkTrackingtool.WebAPi.Controllers.LinkController",
+    "Method": "CreateLink",
+    "RelativePath": "api/Link/create-link",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "url",
+        "Type": "Manager_Layer.Dto_s.CreateShortUrl",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LinkTrackingtool.WebAPi.Controllers.LinkController",
+    "Method": "GetAll",
+    "RelativePath": "api/Link/Get-all-the-list",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LinkTrackingtool.WebAPi.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[LinkTrackingtool.WebAPi.WeatherForecast, LinkTrackingtool.WebAPi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

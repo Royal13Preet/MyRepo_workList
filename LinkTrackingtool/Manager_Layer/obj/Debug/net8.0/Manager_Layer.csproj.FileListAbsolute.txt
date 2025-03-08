@@ -1,0 +1,16 @@
+C:\Users\preethu\source\repos\LinkTrackingtool\Manager_Layer\bin\Debug\net8.0\Manager_Layer.deps.json
+C:\Users\preethu\source\repos\LinkTrackingtool\Manager_Layer\bin\Debug\net8.0\Manager_Layer.dll
+C:\Users\preethu\source\repos\LinkTrackingtool\Manager_Layer\bin\Debug\net8.0\Manager_Layer.pdb
+C:\Users\preethu\source\repos\LinkTrackingtool\Manager_Layer\bin\Debug\net8.0\LinkTrackingTool.DataAccess.dll
+C:\Users\preethu\source\repos\LinkTrackingtool\Manager_Layer\bin\Debug\net8.0\LinkTrackingTool.DataAccess.pdb
+C:\Users\preethu\source\repos\LinkTrackingtool\Manager_Layer\obj\Debug\net8.0\Manager_Layer.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\LinkTrackingtool\Manager_Layer\obj\Debug\net8.0\Manager_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\preethu\source\repos\LinkTrackingtool\Manager_Layer\obj\Debug\net8.0\Manager_Layer.AssemblyInfoInputs.cache
+C:\Users\preethu\source\repos\LinkTrackingtool\Manager_Layer\obj\Debug\net8.0\Manager_Layer.AssemblyInfo.cs
+C:\Users\preethu\source\repos\LinkTrackingtool\Manager_Layer\obj\Debug\net8.0\Manager_Layer.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\LinkTrackingtool\Manager_Layer\obj\Debug\net8.0\Manager_Layer.sourcelink.json
+C:\Users\preethu\source\repos\LinkTrackingtool\Manager_Layer\obj\Debug\net8.0\Manager_.D799810B.Up2Date
+C:\Users\preethu\source\repos\LinkTrackingtool\Manager_Layer\obj\Debug\net8.0\Manager_Layer.dll
+C:\Users\preethu\source\repos\LinkTrackingtool\Manager_Layer\obj\Debug\net8.0\refint\Manager_Layer.dll
+C:\Users\preethu\source\repos\LinkTrackingtool\Manager_Layer\obj\Debug\net8.0\Manager_Layer.pdb
+C:\Users\preethu\source\repos\LinkTrackingtool\Manager_Layer\obj\Debug\net8.0\ref\Manager_Layer.dll

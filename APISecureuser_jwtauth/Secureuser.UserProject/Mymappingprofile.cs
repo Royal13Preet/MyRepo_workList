@@ -1,21 +1,18 @@
 ﻿using AutoMapper;
-using Microsoft.EntityFrameworkCore;
-using Secureuser.Models.ViewModel;
-using static System.Runtime.InteropServices.JavaScript.JSType;
-using System.Collections.Generic;
-using System;
 using Secureuser.DataAccess.DBModels;
+using Secureuser.Models.ViewModel;
 
 namespace Secureuser.UserProject
 {
     public class Mymappingprofile : Profile
     {
-        public Mymappingprofile() {
+        public Mymappingprofile()
+        {
 
             CreateMap<User, UserCreatedto>().ReverseMap();
-            }
         }
     }
+}
 
 
 
@@ -23,4 +20,3 @@ namespace Secureuser.UserProject
 
 
 
-         

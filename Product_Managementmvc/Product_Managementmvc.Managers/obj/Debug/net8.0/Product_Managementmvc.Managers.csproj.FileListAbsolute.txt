@@ -13,3 +13,4 @@ C:\Users\preethu\source\repos\Product_Managementmvc\Product_Managementmvc.Manage
 C:\Users\preethu\source\repos\Product_Managementmvc\Product_Managementmvc.Managers\obj\Debug\net8.0\refint\Product_Managementmvc.Managers.dll
 C:\Users\preethu\source\repos\Product_Managementmvc\Product_Managementmvc.Managers\obj\Debug\net8.0\Product_Managementmvc.Managers.pdb
 C:\Users\preethu\source\repos\Product_Managementmvc\Product_Managementmvc.Managers\obj\Debug\net8.0\ref\Product_Managementmvc.Managers.dll
+C:\Users\preethu\source\repos\Product_Managementmvc\Product_Managementmvc.Managers\obj\Debug\net8.0\Product_Managementmvc.Managers.sourcelink.json

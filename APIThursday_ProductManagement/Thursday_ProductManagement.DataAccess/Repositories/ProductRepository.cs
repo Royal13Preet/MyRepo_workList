@@ -12,7 +12,8 @@ namespace Thursday_ProductManagement.DataAccess.Repositories
     {
 
         public ProductRepository(ProductDbContext context, ILogger<ProductRepository> logger) : base(context, logger) { }
-
+        
+       
     }
 }
 

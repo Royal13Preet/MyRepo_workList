@@ -5462,11 +5462,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.DataAccess\\Secureuser.DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\preethu\\source\\repos\\APISecureuser_jwtauth\\Secureuser.DataAccess\\Secureuser.DataAccess.csproj",
       "projectName": "Secureuser.DataAccess",
-      "projectPath": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.DataAccess\\Secureuser.DataAccess.csproj",
+      "projectPath": "C:\\Users\\preethu\\source\\repos\\APISecureuser_jwtauth\\Secureuser.DataAccess\\Secureuser.DataAccess.csproj",
       "packagesPath": "C:\\Users\\preethu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\preethu\\source\\repos\\APISecureuser_jwtauth\\Secureuser.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\preethu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5483,8 +5483,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.Models\\Secureuser.Models.csproj": {
-              "projectPath": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.Models\\Secureuser.Models.csproj"
+            "C:\\Users\\preethu\\source\\repos\\APISecureuser_jwtauth\\Secureuser.Models\\Secureuser.Models.csproj": {
+              "projectPath": "C:\\Users\\preethu\\source\\repos\\APISecureuser_jwtauth\\Secureuser.Models\\Secureuser.Models.csproj"
             }
           }
         }

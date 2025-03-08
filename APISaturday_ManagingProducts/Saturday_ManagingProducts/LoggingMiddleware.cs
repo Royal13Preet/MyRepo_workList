@@ -15,11 +15,11 @@
             {
                 
                 _logger.LogInformation($"Incoming Request: {context.Request.Path}, {context.Request.Method}");
-
-
+                
+                
                 await _requestDelegate(context);
 
-               
+                
                 _logger.LogInformation($"Outgoing Response: {context.Response.StatusCode}");
             }
         

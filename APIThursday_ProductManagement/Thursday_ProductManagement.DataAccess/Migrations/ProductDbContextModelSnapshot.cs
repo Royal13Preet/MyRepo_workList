@@ -40,14 +40,6 @@ namespace Thursday_ProductManagement.DataAccess.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Products");
-
-                    b.HasData(
-                        new
-                        {
-                            Id = 40,
-                            Name = "HHH",
-                            Price = 987m
-                        });
                 });
 #pragma warning restore 612, 618
         }

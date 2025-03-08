@@ -12,3 +12,4 @@ C:\Users\preethu\source\repos\Product_Managementmvc\Product_Managementmvc.DataAc
 C:\Users\preethu\source\repos\Product_Managementmvc\Product_Managementmvc.DataAccess\obj\Debug\net8.0\ref\Product_Managementmvc.DataAccess.dll
 C:\Users\preethu\source\repos\Product_Managementmvc\Product_Managementmvc.DataAccess\bin\Debug\net8.0\Product_Managementmvc.DataAccess.runtimeconfig.json
 C:\Users\preethu\source\repos\Product_Managementmvc\Product_Managementmvc.DataAccess\obj\Debug\net8.0\Product_Managementmvc.DataAccess.genruntimeconfig.cache
+C:\Users\preethu\source\repos\Product_Managementmvc\Product_Managementmvc.DataAccess\obj\Debug\net8.0\Product_Managementmvc.DataAccess.sourcelink.json

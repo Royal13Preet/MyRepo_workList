@@ -59,7 +59,6 @@ namespace Service_layer
                 throw new FileNotFoundException($"JSON file not found: {_jsonFilePath}");
             }
 
-
             using (var reader = new StreamReader(_jsonFilePath))
             {
                 var jsonContent = await reader.ReadToEndAsync();

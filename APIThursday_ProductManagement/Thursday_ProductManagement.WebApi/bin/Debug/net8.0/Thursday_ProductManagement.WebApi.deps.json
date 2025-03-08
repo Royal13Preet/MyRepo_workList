@@ -1278,7 +1278,7 @@
         },
         "runtime": {
           "Thursday_ProductManagement.DataAccess.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -1289,7 +1289,7 @@
         },
         "runtime": {
           "Thursday_ProductManagement.Filters.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -1301,7 +1301,7 @@
         },
         "runtime": {
           "Thursday_ProductManagement.Managers.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -1313,7 +1313,7 @@
         },
         "runtime": {
           "Thursday_ProductManagement.Services.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }

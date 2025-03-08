@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mXhfTjXX4z4=",
+  "dgSpecHash": "3wTMkEiGe1Y=",
   "success": true,
-  "projectFilePath": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.Models\\Secureuser.Models.csproj",
+  "projectFilePath": "C:\\Users\\preethu\\source\\repos\\APISecureuser_jwtauth\\Secureuser.Models\\Secureuser.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\preethu\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\preethu\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",

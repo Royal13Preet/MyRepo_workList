@@ -44,7 +44,7 @@ namespace Saturday_ManagingProducts.Service
                     CategoryName = pc.Category.Name
                 }).ToList()
             };
-            
+          
 
             return productDto;
         }

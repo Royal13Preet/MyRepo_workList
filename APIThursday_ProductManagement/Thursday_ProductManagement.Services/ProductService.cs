@@ -39,7 +39,7 @@ namespace Thursday_ProductManagement.Services
 
       
 
-        public ProductDto GetSingleProductById(int id)
+        public Product GetSingleProductById(int id)
         {
             try
             {

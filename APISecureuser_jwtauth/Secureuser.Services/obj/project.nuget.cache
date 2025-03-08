@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FE5zaXjHZ0s=",
+  "dgSpecHash": "ITZ5TgC+rvY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.Services\\Secureuser.Services.csproj",
+  "projectFilePath": "C:\\Users\\preethu\\source\\repos\\APISecureuser_jwtauth\\Secureuser.Services\\Secureuser.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\preethu\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\preethu\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",

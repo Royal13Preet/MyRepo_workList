@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.MvcView\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Product_Managementmvc.MvcView.bundle.scp.css",
-      "PackagePath": "staticwebassets\\Product_Managementmvc.MvcView.bundle.scp.css"
+      "PackagePath": "staticwebassets\\Product_Managementmvc.MvcView.glqzh4957y.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.MvcView\\wwwroot\\css\\site.css",
@@ -243,6 +243,10 @@
     {
       "Id": "C:\\Users\\preethu\\source\\repos\\Product_Managementmvc\\Product_Managementmvc.MvcView\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Product_Managementmvc.MvcView.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Product_Managementmvc.MvcView.Microsoft.AspNetCore.StaticWebAssets.props",

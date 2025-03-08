@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\preethu\\source\\repos\\PracticeEf\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6F489691-9A9C-42B7-A8F9-872FA9D70BC7}|PracticeEf\\PracticeEf.csproj|c:\\users\\preethu\\source\\repos\\practiceef\\practiceef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F489691-9A9C-42B7-A8F9-872FA9D70BC7}|PracticeEf\\PracticeEf.csproj|solutionrelative:practiceef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F489691-9A9C-42B7-A8F9-872FA9D70BC7}|PracticeEf\\PracticeEf.csproj|c:\\users\\preethu\\source\\repos\\practiceef\\practiceef\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F489691-9A9C-42B7-A8F9-872FA9D70BC7}|PracticeEf\\PracticeEf.csproj|solutionrelative:practiceef\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6F489691-9A9C-42B7-A8F9-872FA9D70BC7}|PracticeEf\\PracticeEf.csproj|c:\\users\\preethu\\source\\repos\\practiceef\\practiceef\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F489691-9A9C-42B7-A8F9-872FA9D70BC7}|PracticeEf\\PracticeEf.csproj|solutionrelative:practiceef\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,6 +13,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{6F489691-9A9C-42B7-A8F9-872FA9D70BC7}|PracticeEf\\PracticeEf.csproj|c:\\users\\preethu\\source\\repos\\practiceef\\practiceef\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F489691-9A9C-42B7-A8F9-872FA9D70BC7}|PracticeEf\\PracticeEf.csproj|solutionrelative:practiceef\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F489691-9A9C-42B7-A8F9-872FA9D70BC7}|PracticeEf\\PracticeEf.csproj|c:\\users\\preethu\\source\\repos\\practiceef\\practiceef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F489691-9A9C-42B7-A8F9-872FA9D70BC7}|PracticeEf\\PracticeEf.csproj|solutionrelative:practiceef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F489691-9A9C-42B7-A8F9-872FA9D70BC7}|PracticeEf\\PracticeEf.csproj|c:\\users\\preethu\\source\\repos\\practiceef\\practiceef\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F489691-9A9C-42B7-A8F9-872FA9D70BC7}|PracticeEf\\PracticeEf.csproj|solutionrelative:practiceef\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6F489691-9A9C-42B7-A8F9-872FA9D70BC7}|PracticeEf\\PracticeEf.csproj|c:\\users\\preethu\\source\\repos\\practiceef\\practiceef\\migrations\\20241204043209_initial_one.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,20 +54,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Schoolcontext.cs",
               "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\PracticeEf\\PracticeEf\\Schoolcontext.cs",
               "RelativeDocumentMoniker": "PracticeEf\\Schoolcontext.cs",
               "ToolTip": "C:\\Users\\preethu\\source\\repos\\PracticeEf\\PracticeEf\\Schoolcontext.cs",
               "RelativeToolTip": "PracticeEf\\Schoolcontext.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-04T04:02:17.541Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Teacher.cs",
               "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\PracticeEf\\PracticeEf\\Models\\Teacher.cs",
               "RelativeDocumentMoniker": "PracticeEf\\Models\\Teacher.cs",
@@ -80,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Course.cs",
               "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\PracticeEf\\PracticeEf\\Models\\Course.cs",
               "RelativeDocumentMoniker": "PracticeEf\\Models\\Course.cs",
@@ -93,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\PracticeEf\\PracticeEf\\Models\\Student.cs",
               "RelativeDocumentMoniker": "PracticeEf\\Models\\Student.cs",
@@ -106,13 +106,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\PracticeEf\\PracticeEf\\Program.cs",
               "RelativeDocumentMoniker": "PracticeEf\\Program.cs",
               "ToolTip": "C:\\Users\\preethu\\source\\repos\\PracticeEf\\PracticeEf\\Program.cs",
               "RelativeToolTip": "PracticeEf\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-04T04:00:57.333Z",
               "EditorCaption": ""

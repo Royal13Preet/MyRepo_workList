@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "3mxQGH05PFFrgjfItnDjvohGgnra4ja8gxCG38Pn61s=",
+  "Source": "LinkTrackerTool.WebApi",
+  "BasePath": "_content/LinkTrackerTool.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

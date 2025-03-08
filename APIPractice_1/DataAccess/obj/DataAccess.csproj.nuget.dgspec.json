@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\preethu\\source\\repos\\Practice_1\\DataAccess\\DataAccess.csproj": {}
+    "C:\\Users\\preethu\\source\\repos\\APIPractice_1\\DataAccess\\DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\preethu\\source\\repos\\Practice_1\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\preethu\\source\\repos\\APIPractice_1\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\preethu\\source\\repos\\Practice_1\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\preethu\\source\\repos\\APIPractice_1\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\preethu\\source\\repos\\Practice_1\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\preethu\\source\\repos\\APIPractice_1\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\preethu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\preethu\\source\\repos\\Practice_1\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\preethu\\source\\repos\\APIPractice_1\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\preethu\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -31,7 +31,7 @@ namespace Thursday_ProductManagement.Managers
         /// <param name="id"></param>
         /// <returns></returns>
 
-        ProductDto GetById(int id);
+        Product GetById(int id);
 
         /// <summary>
         /// Update a product

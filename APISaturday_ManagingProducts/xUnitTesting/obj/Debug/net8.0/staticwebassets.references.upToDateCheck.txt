@@ -1,0 +1,2 @@
+C:\Users\preethu\source\repos\APISaturday_ManagingProducts\Saturday_ManagingProducts\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\preethu\source\repos\APISaturday_ManagingProducts\Saturday_ManagingProducts\obj\Debug\net8.0\staticwebassets.build.json

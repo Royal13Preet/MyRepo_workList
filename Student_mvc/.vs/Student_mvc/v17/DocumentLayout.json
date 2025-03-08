@@ -1,0 +1,461 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\preethu\\source\\repos\\Student_mvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B11B7B71-3EC5-48E0-8963-9536D8DD175D}|Mvc_controller\\Mvc_controller.csproj|c:\\users\\preethu\\source\\repos\\student_mvc\\mvc_controller\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B11B7B71-3EC5-48E0-8963-9536D8DD175D}|Mvc_controller\\Mvc_controller.csproj|solutionrelative:mvc_controller\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B11B7B71-3EC5-48E0-8963-9536D8DD175D}|Mvc_controller\\Mvc_controller.csproj|c:\\users\\preethu\\source\\repos\\student_mvc\\mvc_controller\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B11B7B71-3EC5-48E0-8963-9536D8DD175D}|Mvc_controller\\Mvc_controller.csproj|solutionrelative:mvc_controller\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B11B7B71-3EC5-48E0-8963-9536D8DD175D}|Mvc_controller\\Mvc_controller.csproj|c:\\users\\preethu\\source\\repos\\student_mvc\\mvc_controller\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B11B7B71-3EC5-48E0-8963-9536D8DD175D}|Mvc_controller\\Mvc_controller.csproj|solutionrelative:mvc_controller\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B11B7B71-3EC5-48E0-8963-9536D8DD175D}|Mvc_controller\\Mvc_controller.csproj|c:\\users\\preethu\\source\\repos\\student_mvc\\mvc_controller\\views\\student\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B11B7B71-3EC5-48E0-8963-9536D8DD175D}|Mvc_controller\\Mvc_controller.csproj|solutionrelative:mvc_controller\\views\\student\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{238BADD4-E934-4FB9-ACEE-74E44C26793C}|Manager_layer\\Manager_layer.csproj|c:\\users\\preethu\\source\\repos\\student_mvc\\manager_layer\\dto\u0027s\\createstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{238BADD4-E934-4FB9-ACEE-74E44C26793C}|Manager_layer\\Manager_layer.csproj|solutionrelative:manager_layer\\dto\u0027s\\createstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B11B7B71-3EC5-48E0-8963-9536D8DD175D}|Mvc_controller\\Mvc_controller.csproj|c:\\users\\preethu\\source\\repos\\student_mvc\\mvc_controller\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B11B7B71-3EC5-48E0-8963-9536D8DD175D}|Mvc_controller\\Mvc_controller.csproj|solutionrelative:mvc_controller\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B11B7B71-3EC5-48E0-8963-9536D8DD175D}|Mvc_controller\\Mvc_controller.csproj|c:\\users\\preethu\\source\\repos\\student_mvc\\mvc_controller\\views\\student\\permanentdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B11B7B71-3EC5-48E0-8963-9536D8DD175D}|Mvc_controller\\Mvc_controller.csproj|solutionrelative:mvc_controller\\views\\student\\permanentdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCE7AE89-86B0-48A7-907C-BEF4C8D583CA}|DataAccess\\DataAccess.csproj|c:\\users\\preethu\\source\\repos\\student_mvc\\dataaccess\\dbmodel\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCE7AE89-86B0-48A7-907C-BEF4C8D583CA}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dbmodel\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCE7AE89-86B0-48A7-907C-BEF4C8D583CA}|DataAccess\\DataAccess.csproj|c:\\users\\preethu\\source\\repos\\student_mvc\\dataaccess\\dbmodel\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCE7AE89-86B0-48A7-907C-BEF4C8D583CA}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dbmodel\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{238BADD4-E934-4FB9-ACEE-74E44C26793C}|Manager_layer\\Manager_layer.csproj|c:\\users\\preethu\\source\\repos\\student_mvc\\manager_layer\\studentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{238BADD4-E934-4FB9-ACEE-74E44C26793C}|Manager_layer\\Manager_layer.csproj|solutionrelative:manager_layer\\studentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCE7AE89-86B0-48A7-907C-BEF4C8D583CA}|DataAccess\\DataAccess.csproj|c:\\users\\preethu\\source\\repos\\student_mvc\\dataaccess\\migrations\\20250213102526_image_text.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCE7AE89-86B0-48A7-907C-BEF4C8D583CA}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\migrations\\20250213102526_image_text.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCE7AE89-86B0-48A7-907C-BEF4C8D583CA}|DataAccess\\DataAccess.csproj|c:\\users\\preethu\\source\\repos\\student_mvc\\dataaccess\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCE7AE89-86B0-48A7-907C-BEF4C8D583CA}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCE7AE89-86B0-48A7-907C-BEF4C8D583CA}|DataAccess\\DataAccess.csproj|c:\\users\\preethu\\source\\repos\\student_mvc\\dataaccess\\repos\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCE7AE89-86B0-48A7-907C-BEF4C8D583CA}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repos\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B11B7B71-3EC5-48E0-8963-9536D8DD175D}|Mvc_controller\\Mvc_controller.csproj|c:\\users\\preethu\\source\\repos\\student_mvc\\mvc_controller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B11B7B71-3EC5-48E0-8963-9536D8DD175D}|Mvc_controller\\Mvc_controller.csproj|solutionrelative:mvc_controller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE3C5BE-E5AD-4BB2-865B-CCC386AECBC5}|Service_layer\\Service_layer.csproj|c:\\users\\preethu\\source\\repos\\student_mvc\\service_layer\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE3C5BE-E5AD-4BB2-865B-CCC386AECBC5}|Service_layer\\Service_layer.csproj|solutionrelative:service_layer\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{238BADD4-E934-4FB9-ACEE-74E44C26793C}|Manager_layer\\Manager_layer.csproj|c:\\users\\preethu\\source\\repos\\student_mvc\\manager_layer\\istudentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{238BADD4-E934-4FB9-ACEE-74E44C26793C}|Manager_layer\\Manager_layer.csproj|solutionrelative:manager_layer\\istudentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE3C5BE-E5AD-4BB2-865B-CCC386AECBC5}|Service_layer\\Service_layer.csproj|c:\\users\\preethu\\source\\repos\\student_mvc\\service_layer\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE3C5BE-E5AD-4BB2-865B-CCC386AECBC5}|Service_layer\\Service_layer.csproj|solutionrelative:service_layer\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCE7AE89-86B0-48A7-907C-BEF4C8D583CA}|DataAccess\\DataAccess.csproj|c:\\users\\preethu\\source\\repos\\student_mvc\\dataaccess\\repos\\istudentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCE7AE89-86B0-48A7-907C-BEF4C8D583CA}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repos\\istudentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B11B7B71-3EC5-48E0-8963-9536D8DD175D}|Mvc_controller\\Mvc_controller.csproj|c:\\users\\preethu\\source\\repos\\student_mvc\\mvc_controller\\mvc_controller.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B11B7B71-3EC5-48E0-8963-9536D8DD175D}|Mvc_controller\\Mvc_controller.csproj|solutionrelative:mvc_controller\\mvc_controller.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B11B7B71-3EC5-48E0-8963-9536D8DD175D}|Mvc_controller\\Mvc_controller.csproj|c:\\users\\preethu\\source\\repos\\student_mvc\\mvc_controller\\mymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B11B7B71-3EC5-48E0-8963-9536D8DD175D}|Mvc_controller\\Mvc_controller.csproj|solutionrelative:mvc_controller\\mymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B11B7B71-3EC5-48E0-8963-9536D8DD175D}|Mvc_controller\\Mvc_controller.csproj|c:\\users\\preethu\\source\\repos\\student_mvc\\mvc_controller\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B11B7B71-3EC5-48E0-8963-9536D8DD175D}|Mvc_controller\\Mvc_controller.csproj|solutionrelative:mvc_controller\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B11B7B71-3EC5-48E0-8963-9536D8DD175D}|Mvc_controller\\Mvc_controller.csproj|c:\\users\\preethu\\source\\repos\\student_mvc\\mvc_controller\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B11B7B71-3EC5-48E0-8963-9536D8DD175D}|Mvc_controller\\Mvc_controller.csproj|solutionrelative:mvc_controller\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B11B7B71-3EC5-48E0-8963-9536D8DD175D}|Mvc_controller\\Mvc_controller.csproj|c:\\users\\preethu\\source\\repos\\student_mvc\\mvc_controller\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B11B7B71-3EC5-48E0-8963-9536D8DD175D}|Mvc_controller\\Mvc_controller.csproj|solutionrelative:mvc_controller\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCE7AE89-86B0-48A7-907C-BEF4C8D583CA}|DataAccess\\DataAccess.csproj|c:\\users\\preethu\\source\\repos\\student_mvc\\dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CCE7AE89-86B0-48A7-907C-BEF4C8D583CA}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE3C5BE-E5AD-4BB2-865B-CCC386AECBC5}|Service_layer\\Service_layer.csproj|c:\\users\\preethu\\source\\repos\\student_mvc\\service_layer\\service_layer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9EE3C5BE-E5AD-4BB2-865B-CCC386AECBC5}|Service_layer\\Service_layer.csproj|solutionrelative:service_layer\\service_layer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{238BADD4-E934-4FB9-ACEE-74E44C26793C}|Manager_layer\\Manager_layer.csproj|c:\\users\\preethu\\source\\repos\\student_mvc\\manager_layer\\manager_layer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{238BADD4-E934-4FB9-ACEE-74E44C26793C}|Manager_layer\\Manager_layer.csproj|solutionrelative:manager_layer\\manager_layer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 215,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Student_mvc\\Mvc_controller\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Mvc_controller\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Student_mvc\\Mvc_controller\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Mvc_controller\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAEYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T05:33:03.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PermanentDelete.cshtml",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Student_mvc\\Mvc_controller\\Views\\Student\\PermanentDelete.cshtml",
+              "RelativeDocumentMoniker": "Mvc_controller\\Views\\Student\\PermanentDelete.cshtml",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Student_mvc\\Mvc_controller\\Views\\Student\\PermanentDelete.cshtml",
+              "RelativeToolTip": "Mvc_controller\\Views\\Student\\PermanentDelete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T10:16:46.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetAll.cshtml",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Student_mvc\\Mvc_controller\\Views\\Student\\GetAll.cshtml",
+              "RelativeDocumentMoniker": "Mvc_controller\\Views\\Student\\GetAll.cshtml",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Student_mvc\\Mvc_controller\\Views\\Student\\GetAll.cshtml",
+              "RelativeToolTip": "Mvc_controller\\Views\\Student\\GetAll.cshtml",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAHUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T03:52:07.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateStudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Student_mvc\\Manager_layer\\Dto\u0027s\\CreateStudentDto.cs",
+              "RelativeDocumentMoniker": "Manager_layer\\Dto\u0027s\\CreateStudentDto.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Student_mvc\\Manager_layer\\Dto\u0027s\\CreateStudentDto.cs",
+              "RelativeToolTip": "Manager_layer\\Dto\u0027s\\CreateStudentDto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAApwA8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T05:02:19.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Student_mvc\\DataAccess\\DBModel\\Student.cs",
+              "RelativeDocumentMoniker": "DataAccess\\DBModel\\Student.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Student_mvc\\DataAccess\\DBModel\\Student.cs",
+              "RelativeToolTip": "DataAccess\\DBModel\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T03:49:58.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Student_mvc\\Mvc_controller\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Mvc_controller\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Student_mvc\\Mvc_controller\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Mvc_controller\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T05:34:03.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Student_mvc\\Mvc_controller\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "Mvc_controller\\Views\\Student\\Create.cshtml",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Student_mvc\\Mvc_controller\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "Mvc_controller\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T03:52:22.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Student_mvc\\Mvc_controller\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Mvc_controller\\Views\\Student\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Student_mvc\\Mvc_controller\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "Mvc_controller\\Views\\Student\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T11:12:44.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Student_mvc\\DataAccess\\DBModel\\User.cs",
+              "RelativeDocumentMoniker": "DataAccess\\DBModel\\User.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Student_mvc\\DataAccess\\DBModel\\User.cs",
+              "RelativeToolTip": "DataAccess\\DBModel\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T04:06:48.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentManager.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Student_mvc\\Manager_layer\\StudentManager.cs",
+              "RelativeDocumentMoniker": "Manager_layer\\StudentManager.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Student_mvc\\Manager_layer\\StudentManager.cs",
+              "RelativeToolTip": "Manager_layer\\StudentManager.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T04:28:29.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250213102526_Image_text.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Student_mvc\\DataAccess\\Migrations\\20250213102526_Image_text.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20250213102526_Image_text.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Student_mvc\\DataAccess\\Migrations\\20250213102526_Image_text.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\20250213102526_Image_text.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T10:25:27.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Student_mvc\\DataAccess\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Student_mvc\\DataAccess\\AppDbContext.cs",
+              "RelativeToolTip": "DataAccess\\AppDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T03:57:31.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Student_mvc\\Mvc_controller\\Program.cs",
+              "RelativeDocumentMoniker": "Mvc_controller\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Student_mvc\\Mvc_controller\\Program.cs",
+              "RelativeToolTip": "Mvc_controller\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T05:34:53.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Student_mvc\\DataAccess\\Repos\\StudentRepo.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repos\\StudentRepo.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Student_mvc\\DataAccess\\Repos\\StudentRepo.cs",
+              "RelativeToolTip": "DataAccess\\Repos\\StudentRepo.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T03:48:41.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Student_mvc\\Service_layer\\StudentService.cs",
+              "RelativeDocumentMoniker": "Service_layer\\StudentService.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Student_mvc\\Service_layer\\StudentService.cs",
+              "RelativeToolTip": "Service_layer\\StudentService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T05:28:20.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IStudentManager.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Student_mvc\\Manager_layer\\IStudentManager.cs",
+              "RelativeDocumentMoniker": "Manager_layer\\IStudentManager.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Student_mvc\\Manager_layer\\IStudentManager.cs",
+              "RelativeToolTip": "Manager_layer\\IStudentManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T04:26:36.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Student_mvc\\Service_layer\\IStudentService.cs",
+              "RelativeDocumentMoniker": "Service_layer\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Student_mvc\\Service_layer\\IStudentService.cs",
+              "RelativeToolTip": "Service_layer\\IStudentService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T05:27:27.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IStudentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Student_mvc\\DataAccess\\Repos\\IStudentRepo.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repos\\IStudentRepo.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Student_mvc\\DataAccess\\Repos\\IStudentRepo.cs",
+              "RelativeToolTip": "DataAccess\\Repos\\IStudentRepo.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T03:48:32.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Mvc_controller.csproj",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Student_mvc\\Mvc_controller\\Mvc_controller.csproj",
+              "RelativeDocumentMoniker": "Mvc_controller\\Mvc_controller.csproj",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Student_mvc\\Mvc_controller\\Mvc_controller.csproj",
+              "RelativeToolTip": "Mvc_controller\\Mvc_controller.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-12T06:04:38.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MyMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Student_mvc\\Mvc_controller\\MyMappingProfile.cs",
+              "RelativeDocumentMoniker": "Mvc_controller\\MyMappingProfile.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Student_mvc\\Mvc_controller\\MyMappingProfile.cs",
+              "RelativeToolTip": "Mvc_controller\\MyMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T07:29:04.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Student_mvc\\Mvc_controller\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Mvc_controller\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Student_mvc\\Mvc_controller\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Mvc_controller\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T07:30:47.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Student_mvc\\Mvc_controller\\appsettings.json",
+              "RelativeDocumentMoniker": "Mvc_controller\\appsettings.json",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Student_mvc\\Mvc_controller\\appsettings.json",
+              "RelativeToolTip": "Mvc_controller\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-12T06:24:26.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Student_mvc\\Mvc_controller\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Mvc_controller\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Student_mvc\\Mvc_controller\\appsettings.Development.json",
+              "RelativeToolTip": "Mvc_controller\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-12T06:24:30.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DataAccess.csproj",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Student_mvc\\DataAccess\\DataAccess.csproj",
+              "RelativeDocumentMoniker": "DataAccess\\DataAccess.csproj",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Student_mvc\\DataAccess\\DataAccess.csproj",
+              "RelativeToolTip": "DataAccess\\DataAccess.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-12T05:58:53.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Service_layer.csproj",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Student_mvc\\Service_layer\\Service_layer.csproj",
+              "RelativeDocumentMoniker": "Service_layer\\Service_layer.csproj",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Student_mvc\\Service_layer\\Service_layer.csproj",
+              "RelativeToolTip": "Service_layer\\Service_layer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-12T05:26:43.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Manager_layer.csproj",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Student_mvc\\Manager_layer\\Manager_layer.csproj",
+              "RelativeDocumentMoniker": "Manager_layer\\Manager_layer.csproj",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Student_mvc\\Manager_layer\\Manager_layer.csproj",
+              "RelativeToolTip": "Manager_layer\\Manager_layer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-12T04:26:16.372Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 51,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

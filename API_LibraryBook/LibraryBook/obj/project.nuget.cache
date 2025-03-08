@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6U+CpJilca8=",
+  "dgSpecHash": "kuz1GQPeBro=",
   "success": true,
-  "projectFilePath": "C:\\Users\\preethu\\source\\repos\\LibraryBook\\LibraryBook\\LibraryBook.csproj",
+  "projectFilePath": "C:\\Users\\preethu\\source\\repos\\API_LibraryBook\\LibraryBook\\LibraryBook.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\preethu\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\preethu\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",

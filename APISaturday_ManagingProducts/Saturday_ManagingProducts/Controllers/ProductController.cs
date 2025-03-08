@@ -32,6 +32,7 @@ namespace Saturday_ManagingProducts.Controllers
         }
 
 
+
         [HttpPut("ProductUpdate/{id}")]
 
         public IActionResult update(int id, [FromBody] ProductCreateRequestDto productDto)

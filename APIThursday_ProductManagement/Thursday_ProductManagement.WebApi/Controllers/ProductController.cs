@@ -19,10 +19,10 @@ namespace Thursday_ProductManagement.WebApi.Controllers
 
         public ProductController(IProductService productService, IMemoryCache memoryCache)
         {
-            _productService = productService;
-            _memoryCache = memoryCache;
+            _productService = productService ?? throw new ArgumentNullException(nameof(productService));
+            _memoryCache = memoryCache ?? throw new ArgumentNullException(nameof(memoryCache));
         }
-
+        
         [HttpGet("Get-All-Products")]
         [BasicAuthorization]
         public IActionResult Get()

@@ -21,7 +21,6 @@ namespace Jaggedarray
                 }
                 Console.WriteLine();
             }
-
         }
     }
 }

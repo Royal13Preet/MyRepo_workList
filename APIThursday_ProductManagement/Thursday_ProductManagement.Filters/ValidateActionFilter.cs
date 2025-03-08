@@ -19,12 +19,12 @@ namespace Thursday_ProductManagement.Filters
             {
                 context.Result = new BadRequestObjectResult(context.ModelState);
             }
-            _logger.LogInformation($"Action: {context.ActionDescriptor.DisplayName} is Executing");
+            _logger.LogInformation("Action: {context.ActionDescriptor.DisplayName} is Executing", context.ActionDescriptor.DisplayName);
             base.OnActionExecuting(context);
         }
         public override void OnActionExecuted(ActionExecutedContext context)
         {
-            _logger.LogInformation($"Response {context.ActionDescriptor.DisplayName} is excuted");
+            _logger.LogInformation("Response {context.ActionDescriptor.DisplayName} is excuted",context.ActionDescriptor.DisplayName);
             base.OnActionExecuted(context);
         }
     }

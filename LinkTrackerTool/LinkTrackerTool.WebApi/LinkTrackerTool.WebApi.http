@@ -1,0 +1,6 @@
+@LinkTrackerTool.WebApi_HostAddress = http://localhost:5058
+
+GET {{LinkTrackerTool.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

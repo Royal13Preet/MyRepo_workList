@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "YLnoEW0NmdxVRZe+1lqIKzpCaXOV8HpYsNgXn33ZHDE=",
+  "Hash": "Bjc1ofXJkrpwdgrvU50xcjTqt7a+bhdrwcDP4Cpoj4c=",
   "Source": "Saturday_ManagingProducts",
   "BasePath": "_content/Saturday_ManagingProducts",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "jo7zQdXTIxmD+owCDYCXUF1xafDeIxLGF1xjoy2CBH4=",
+  "Source": "MicroSoftOfficeAuth",
+  "BasePath": "_content/MicroSoftOfficeAuth",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

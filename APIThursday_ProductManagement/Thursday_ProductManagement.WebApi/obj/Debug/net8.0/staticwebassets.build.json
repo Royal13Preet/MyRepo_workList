@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "GQ5zvGHKJElCUCAC3tx2EzepA4qti6zU1MFgXo0bj/M=",
+  "Hash": "w8saZchKkv0Oszal7D0i/FCrJViodTIqmgDa5paB6YE=",
   "Source": "Thursday_ProductManagement.WebApi",
   "BasePath": "_content/Thursday_ProductManagement.WebApi",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

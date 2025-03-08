@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\preethu\\source\\repos\\Contact_Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7615015-F997-4E6C-B57B-174AE0BEBB37}|Contact_Management.Testing\\Contact_Management.Testing.csproj|c:\\users\\preethu\\source\\repos\\contact_management\\contact_management.testing\\contactcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7615015-F997-4E6C-B57B-174AE0BEBB37}|Contact_Management.Testing\\Contact_Management.Testing.csproj|solutionrelative:contact_management.testing\\contactcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2874D776-3D40-441B-8305-254767DA82B4}|Contact.DataAccess\\Contact_Management.DataAccess.csproj|c:\\users\\preethu\\source\\repos\\contact_management\\contact.dataaccess\\contactdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2874D776-3D40-441B-8305-254767DA82B4}|Contact.DataAccess\\Contact_Management.DataAccess.csproj|solutionrelative:contact.dataaccess\\contactdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2874D776-3D40-441B-8305-254767DA82B4}|Contact.DataAccess\\Contact_Management.DataAccess.csproj|c:\\users\\preethu\\source\\repos\\contact_management\\contact.dataaccess\\model\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2874D776-3D40-441B-8305-254767DA82B4}|Contact.DataAccess\\Contact_Management.DataAccess.csproj|solutionrelative:contact.dataaccess\\model\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACE27F56-8448-4538-AF87-C66887BA9735}|Contact_Management.WebApi\\Contact_Management.WebApi.csproj|c:\\users\\preethu\\source\\repos\\contact_management\\contact_management.webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACE27F56-8448-4538-AF87-C66887BA9735}|Contact_Management.WebApi\\Contact_Management.WebApi.csproj|solutionrelative:contact_management.webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7615015-F997-4E6C-B57B-174AE0BEBB37}|Contact_Management.Testing\\Contact_Management.Testing.csproj|c:\\users\\preethu\\source\\repos\\contact_management\\contact_management.testing\\weathercastcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7615015-F997-4E6C-B57B-174AE0BEBB37}|Contact_Management.Testing\\Contact_Management.Testing.csproj|solutionrelative:contact_management.testing\\weathercastcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACE27F56-8448-4538-AF87-C66887BA9735}|Contact_Management.WebApi\\Contact_Management.WebApi.csproj|c:\\users\\preethu\\source\\repos\\contact_management\\contact_management.webapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACE27F56-8448-4538-AF87-C66887BA9735}|Contact_Management.WebApi\\Contact_Management.WebApi.csproj|solutionrelative:contact_management.webapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACE27F56-8448-4538-AF87-C66887BA9735}|Contact_Management.WebApi\\Contact_Management.WebApi.csproj|c:\\users\\preethu\\source\\repos\\contact_management\\contact_management.webapi\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACE27F56-8448-4538-AF87-C66887BA9735}|Contact_Management.WebApi\\Contact_Management.WebApi.csproj|solutionrelative:contact_management.webapi\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACE27F56-8448-4538-AF87-C66887BA9735}|Contact_Management.WebApi\\Contact_Management.WebApi.csproj|c:\\users\\preethu\\source\\repos\\contact_management\\contact_management.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACE27F56-8448-4538-AF87-C66887BA9735}|Contact_Management.WebApi\\Contact_Management.WebApi.csproj|solutionrelative:contact_management.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 215,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherCastControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Contact_Management\\Contact_Management.Testing\\WeatherCastControllerTest.cs",
+              "RelativeDocumentMoniker": "Contact_Management.Testing\\WeatherCastControllerTest.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Contact_Management\\Contact_Management.Testing\\WeatherCastControllerTest.cs",
+              "RelativeToolTip": "Contact_Management.Testing\\WeatherCastControllerTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T10:14:12.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Contact_Management\\Contact_Management.WebApi\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Contact_Management.WebApi\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Contact_Management\\Contact_Management.WebApi\\WeatherForecast.cs",
+              "RelativeToolTip": "Contact_Management.WebApi\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T10:13:32.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Contact_Management\\Contact_Management.Testing\\ContactControllerTest.cs",
+              "RelativeDocumentMoniker": "Contact_Management.Testing\\ContactControllerTest.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Contact_Management\\Contact_Management.Testing\\ContactControllerTest.cs",
+              "RelativeToolTip": "Contact_Management.Testing\\ContactControllerTest.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAIAwwDkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T07:10:22.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Contact_Management\\Contact.DataAccess\\ContactDbContext.cs",
+              "RelativeDocumentMoniker": "Contact.DataAccess\\ContactDbContext.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Contact_Management\\Contact.DataAccess\\ContactDbContext.cs",
+              "RelativeToolTip": "Contact.DataAccess\\ContactDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T07:04:42.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Contact_Management\\Contact.DataAccess\\Model\\Contact.cs",
+              "RelativeDocumentMoniker": "Contact.DataAccess\\Model\\Contact.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Contact_Management\\Contact.DataAccess\\Model\\Contact.cs",
+              "RelativeToolTip": "Contact.DataAccess\\Model\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T03:35:14.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Contact_Management\\Contact_Management.WebApi\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "Contact_Management.WebApi\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Contact_Management\\Contact_Management.WebApi\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "Contact_Management.WebApi\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAA4wC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T09:35:59.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Contact_Management\\Contact_Management.WebApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Contact_Management.WebApi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Contact_Management\\Contact_Management.WebApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Contact_Management.WebApi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T09:11:28.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Contact_Management\\Contact_Management.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Contact_Management.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Contact_Management\\Contact_Management.WebApi\\Program.cs",
+              "RelativeToolTip": "Contact_Management.WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T10:15:52.558Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 78,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

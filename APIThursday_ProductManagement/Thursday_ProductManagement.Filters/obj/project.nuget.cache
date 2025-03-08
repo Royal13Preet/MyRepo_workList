@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+GCN1lPHXj0=",
+  "dgSpecHash": "AIh0hmoOq0U=",
   "success": true,
-  "projectFilePath": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.Filters\\Thursday_ProductManagement.Filters.csproj",
+  "projectFilePath": "C:\\Users\\preethu\\source\\repos\\APIThursday_ProductManagement\\Thursday_ProductManagement.Filters\\Thursday_ProductManagement.Filters.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\preethu\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.3.0\\microsoft.aspnetcore.authentication.abstractions.2.3.0.nupkg.sha512",
     "C:\\Users\\preethu\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.3.0\\microsoft.aspnetcore.authentication.core.2.3.0.nupkg.sha512",

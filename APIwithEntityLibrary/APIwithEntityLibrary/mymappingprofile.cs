@@ -32,6 +32,8 @@ namespace APIwithEntityLibrary
             .ForMember(x => x.Password, x => x.Ignore());
 
             //VM to DM
+
+
             CreateMap<userDto, User>();
 
            

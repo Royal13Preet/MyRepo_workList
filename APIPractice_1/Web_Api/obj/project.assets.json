@@ -5267,11 +5267,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\preethu\\source\\repos\\Practice_1\\Web_Api\\Web_Api.csproj",
+      "projectUniqueName": "C:\\Users\\preethu\\source\\repos\\APIPractice_1\\Web_Api\\Web_Api.csproj",
       "projectName": "Web_Api",
-      "projectPath": "C:\\Users\\preethu\\source\\repos\\Practice_1\\Web_Api\\Web_Api.csproj",
+      "projectPath": "C:\\Users\\preethu\\source\\repos\\APIPractice_1\\Web_Api\\Web_Api.csproj",
       "packagesPath": "C:\\Users\\preethu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\preethu\\source\\repos\\Practice_1\\Web_Api\\obj\\",
+      "outputPath": "C:\\Users\\preethu\\source\\repos\\APIPractice_1\\Web_Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\preethu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5288,8 +5288,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\preethu\\source\\repos\\Practice_1\\Service\\Service_Layer.csproj": {
-              "projectPath": "C:\\Users\\preethu\\source\\repos\\Practice_1\\Service\\Service_Layer.csproj"
+            "C:\\Users\\preethu\\source\\repos\\APIPractice_1\\Service\\Service_Layer.csproj": {
+              "projectPath": "C:\\Users\\preethu\\source\\repos\\APIPractice_1\\Service\\Service_Layer.csproj"
             }
           }
         }

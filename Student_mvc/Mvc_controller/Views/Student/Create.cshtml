@@ -1,0 +1,42 @@
+﻿@model Manager_layer.Dto_s.CreateStudentDto
+<form asp-action="Create" method="post" enctype="multipart/form-data">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <div class="form-group">
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    
+    <div class="form-group">
+        <label asp-for="Age"></label>
+        <input asp-for="Age" class="form-control" />
+        <span asp-validation-for="Age" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Course"></label>
+        <input asp-for="Course" class="form-control" />
+        <span asp-validation-for="Course" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="ProfileImageFile">Upload Profile Picture</label>
+        <input asp-for="ProfileImageFile" type="file" class="form-control" accept="image/*" />
+    </div>
+   
+    <div class="form-group">
+        <label asp-for="IsActive"></label>
+        <input asp-for="IsActive" type="checkbox" class="form-check-input" />
+    </div>
+    <div class="form-group">
+        <button type="submit" class="btn btn-success">Create</button>
+    </div>
+</form>
+
+
+
+
+
+   
+
+   

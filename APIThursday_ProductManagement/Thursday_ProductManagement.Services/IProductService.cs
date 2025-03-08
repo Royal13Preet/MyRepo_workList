@@ -42,6 +42,6 @@ namespace Thursday_ProductManagement.Services
         /// </summary>
         /// <param name="id"></param>
         /// <returns></returns>
-        public ProductDto GetSingleProductById(int id);
+        public Product GetSingleProductById(int id);
     }
 }

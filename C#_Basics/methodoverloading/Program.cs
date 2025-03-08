@@ -9,7 +9,7 @@ namespace methodoverloading
     
      public class A
     {
-        void A_Method()
+        public virtual void A_Method()
         {
             Console.WriteLine("Class A Method");
         }

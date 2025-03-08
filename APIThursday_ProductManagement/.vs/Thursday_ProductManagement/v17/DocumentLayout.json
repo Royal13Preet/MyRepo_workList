@@ -1,98 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\",
+  "WorkspaceRootPath": "C:\\Users\\preethu\\source\\repos\\APIThursday_ProductManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ED7E552E-B1E5-42EF-AC25-CE73E27FB091}|Thursday_ProductManagement.DataAccess\\Thursday_ProductManagement.DataAccess.csproj|c:\\users\\preethu\\source\\repos\\thursday_productmanagement\\thursday_productmanagement.dataaccess\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED7E552E-B1E5-42EF-AC25-CE73E27FB091}|Thursday_ProductManagement.DataAccess\\Thursday_ProductManagement.DataAccess.csproj|solutionrelative:thursday_productmanagement.dataaccess\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0856D4CF-5E01-4A2A-8E3A-1B01EA77F858}|Thursday_productManagementTesting\\Thursday_productManagementTesting.csproj|c:\\users\\preethu\\source\\repos\\apithursday_productmanagement\\thursday_productmanagementtesting\\thursday_productmanagementtesting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0856D4CF-5E01-4A2A-8E3A-1B01EA77F858}|Thursday_productManagementTesting\\Thursday_productManagementTesting.csproj|solutionrelative:thursday_productmanagementtesting\\thursday_productmanagementtesting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A1B75A6-D20A-4AA3-914F-0D7224B5E25D}|Thursday_ProductManagement.WebApi\\Thursday_ProductManagement.WebApi.csproj|c:\\users\\preethu\\source\\repos\\thursday_productmanagement\\thursday_productmanagement.webapi\\mymapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A1B75A6-D20A-4AA3-914F-0D7224B5E25D}|Thursday_ProductManagement.WebApi\\Thursday_ProductManagement.WebApi.csproj|solutionrelative:thursday_productmanagement.webapi\\mymapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0856D4CF-5E01-4A2A-8E3A-1B01EA77F858}|Thursday_productManagementTesting\\Thursday_productManagementTesting.csproj|c:\\users\\preethu\\source\\repos\\apithursday_productmanagement\\thursday_productmanagementtesting\\productcontroltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0856D4CF-5E01-4A2A-8E3A-1B01EA77F858}|Thursday_productManagementTesting\\Thursday_productManagementTesting.csproj|solutionrelative:thursday_productmanagementtesting\\productcontroltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6AE89A3F-B281-44B6-B050-9A09E694A232}|Thursday_ProductManagement.Managers\\Thursday_ProductManagement.Managers.csproj|c:\\users\\preethu\\source\\repos\\thursday_productmanagement\\thursday_productmanagement.managers\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6AE89A3F-B281-44B6-B050-9A09E694A232}|Thursday_ProductManagement.Managers\\Thursday_ProductManagement.Managers.csproj|solutionrelative:thursday_productmanagement.managers\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0856D4CF-5E01-4A2A-8E3A-1B01EA77F858}|Thursday_productManagementTesting\\Thursday_productManagementTesting.csproj|c:\\users\\preethu\\source\\repos\\apithursday_productmanagement\\thursday_productmanagementtesting\\productrepotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0856D4CF-5E01-4A2A-8E3A-1B01EA77F858}|Thursday_productManagementTesting\\Thursday_productManagementTesting.csproj|solutionrelative:thursday_productmanagementtesting\\productrepotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05C58151-3ABD-4962-ACDE-CDE9852DB444}|Thursday_ProductManagement.Filters\\Thursday_ProductManagement.Filters.csproj|c:\\users\\preethu\\source\\repos\\thursday_productmanagement\\thursday_productmanagement.filters\\validateactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05C58151-3ABD-4962-ACDE-CDE9852DB444}|Thursday_ProductManagement.Filters\\Thursday_ProductManagement.Filters.csproj|solutionrelative:thursday_productmanagement.filters\\validateactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0856D4CF-5E01-4A2A-8E3A-1B01EA77F858}|Thursday_productManagementTesting\\Thursday_productManagementTesting.csproj|c:\\users\\preethu\\source\\repos\\apithursday_productmanagement\\thursday_productmanagementtesting\\productmantest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0856D4CF-5E01-4A2A-8E3A-1B01EA77F858}|Thursday_productManagementTesting\\Thursday_productManagementTesting.csproj|solutionrelative:thursday_productmanagementtesting\\productmantest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6AE89A3F-B281-44B6-B050-9A09E694A232}|Thursday_ProductManagement.Managers\\Thursday_ProductManagement.Managers.csproj|c:\\users\\preethu\\source\\repos\\thursday_productmanagement\\thursday_productmanagement.managers\\iproductmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6AE89A3F-B281-44B6-B050-9A09E694A232}|Thursday_ProductManagement.Managers\\Thursday_ProductManagement.Managers.csproj|solutionrelative:thursday_productmanagement.managers\\iproductmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0856D4CF-5E01-4A2A-8E3A-1B01EA77F858}|Thursday_productManagementTesting\\Thursday_productManagementTesting.csproj|c:\\users\\preethu\\source\\repos\\apithursday_productmanagement\\thursday_productmanagementtesting\\productservtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0856D4CF-5E01-4A2A-8E3A-1B01EA77F858}|Thursday_productManagementTesting\\Thursday_productManagementTesting.csproj|solutionrelative:thursday_productmanagementtesting\\productservtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45FB55E6-D847-461F-AB21-BCF0C1AF5450}|Thursday_ProductManagement.Services\\Thursday_ProductManagement.Services.csproj|c:\\users\\preethu\\source\\repos\\thursday_productmanagement\\thursday_productmanagement.services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45FB55E6-D847-461F-AB21-BCF0C1AF5450}|Thursday_ProductManagement.Services\\Thursday_ProductManagement.Services.csproj|solutionrelative:thursday_productmanagement.services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A1B75A6-D20A-4AA3-914F-0D7224B5E25D}|Thursday_ProductManagement.WebApi\\Thursday_ProductManagement.WebApi.csproj|c:\\users\\preethu\\source\\repos\\thursday_productmanagement\\thursday_productmanagement.webapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9A1B75A6-D20A-4AA3-914F-0D7224B5E25D}|Thursday_ProductManagement.WebApi\\Thursday_ProductManagement.WebApi.csproj|c:\\users\\preethu\\source\\repos\\apithursday_productmanagement\\thursday_productmanagement.webapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A1B75A6-D20A-4AA3-914F-0D7224B5E25D}|Thursday_ProductManagement.WebApi\\Thursday_ProductManagement.WebApi.csproj|solutionrelative:thursday_productmanagement.webapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A1B75A6-D20A-4AA3-914F-0D7224B5E25D}|Thursday_ProductManagement.WebApi\\Thursday_ProductManagement.WebApi.csproj|c:\\users\\preethu\\source\\repos\\thursday_productmanagement\\thursday_productmanagement.webapi\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A1B75A6-D20A-4AA3-914F-0D7224B5E25D}|Thursday_ProductManagement.WebApi\\Thursday_ProductManagement.WebApi.csproj|solutionrelative:thursday_productmanagement.webapi\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6AE89A3F-B281-44B6-B050-9A09E694A232}|Thursday_ProductManagement.Managers\\Thursday_ProductManagement.Managers.csproj|c:\\users\\preethu\\source\\repos\\apithursday_productmanagement\\thursday_productmanagement.managers\\thursday_productmanagement.managers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6AE89A3F-B281-44B6-B050-9A09E694A232}|Thursday_ProductManagement.Managers\\Thursday_ProductManagement.Managers.csproj|solutionrelative:thursday_productmanagement.managers\\thursday_productmanagement.managers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45FB55E6-D847-461F-AB21-BCF0C1AF5450}|Thursday_ProductManagement.Services\\Thursday_ProductManagement.Services.csproj|c:\\users\\preethu\\source\\repos\\thursday_productmanagement\\thursday_productmanagement.services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45FB55E6-D847-461F-AB21-BCF0C1AF5450}|Thursday_ProductManagement.Services\\Thursday_ProductManagement.Services.csproj|solutionrelative:thursday_productmanagement.services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A1B75A6-D20A-4AA3-914F-0D7224B5E25D}|Thursday_ProductManagement.WebApi\\Thursday_ProductManagement.WebApi.csproj|c:\\users\\preethu\\source\\repos\\thursday_productmanagement\\thursday_productmanagement.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A1B75A6-D20A-4AA3-914F-0D7224B5E25D}|Thursday_ProductManagement.WebApi\\Thursday_ProductManagement.WebApi.csproj|solutionrelative:thursday_productmanagement.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9A1B75A6-D20A-4AA3-914F-0D7224B5E25D}|Thursday_ProductManagement.WebApi\\Thursday_ProductManagement.WebApi.csproj|c:\\users\\preethu\\source\\repos\\apithursday_productmanagement\\thursday_productmanagement.webapi\\thursday_productmanagement.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9A1B75A6-D20A-4AA3-914F-0D7224B5E25D}|Thursday_ProductManagement.WebApi\\Thursday_ProductManagement.WebApi.csproj|solutionrelative:thursday_productmanagement.webapi\\thursday_productmanagement.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED7E552E-B1E5-42EF-AC25-CE73E27FB091}|Thursday_ProductManagement.DataAccess\\Thursday_ProductManagement.DataAccess.csproj|c:\\users\\preethu\\source\\repos\\thursday_productmanagement\\thursday_productmanagement.dataaccess\\migrations\\productdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED7E552E-B1E5-42EF-AC25-CE73E27FB091}|Thursday_ProductManagement.DataAccess\\Thursday_ProductManagement.DataAccess.csproj|solutionrelative:thursday_productmanagement.dataaccess\\migrations\\productdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45FB55E6-D847-461F-AB21-BCF0C1AF5450}|Thursday_ProductManagement.Services\\Thursday_ProductManagement.Services.csproj|c:\\users\\preethu\\source\\repos\\apithursday_productmanagement\\thursday_productmanagement.services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45FB55E6-D847-461F-AB21-BCF0C1AF5450}|Thursday_ProductManagement.Services\\Thursday_ProductManagement.Services.csproj|solutionrelative:thursday_productmanagement.services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED7E552E-B1E5-42EF-AC25-CE73E27FB091}|Thursday_ProductManagement.DataAccess\\Thursday_ProductManagement.DataAccess.csproj|c:\\users\\preethu\\source\\repos\\thursday_productmanagement\\thursday_productmanagement.dataaccess\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED7E552E-B1E5-42EF-AC25-CE73E27FB091}|Thursday_ProductManagement.DataAccess\\Thursday_ProductManagement.DataAccess.csproj|solutionrelative:thursday_productmanagement.dataaccess\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{05C58151-3ABD-4962-ACDE-CDE9852DB444}|Thursday_ProductManagement.Filters\\Thursday_ProductManagement.Filters.csproj|c:\\users\\preethu\\source\\repos\\apithursday_productmanagement\\thursday_productmanagement.filters\\validateactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C58151-3ABD-4962-ACDE-CDE9852DB444}|Thursday_ProductManagement.Filters\\Thursday_ProductManagement.Filters.csproj|solutionrelative:thursday_productmanagement.filters\\validateactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED7E552E-B1E5-42EF-AC25-CE73E27FB091}|Thursday_ProductManagement.DataAccess\\Thursday_ProductManagement.DataAccess.csproj|c:\\users\\preethu\\source\\repos\\thursday_productmanagement\\thursday_productmanagement.dataaccess\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED7E552E-B1E5-42EF-AC25-CE73E27FB091}|Thursday_ProductManagement.DataAccess\\Thursday_ProductManagement.DataAccess.csproj|solutionrelative:thursday_productmanagement.dataaccess\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED7E552E-B1E5-42EF-AC25-CE73E27FB091}|Thursday_ProductManagement.DataAccess\\Thursday_ProductManagement.DataAccess.csproj|c:\\users\\preethu\\source\\repos\\thursday_productmanagement\\thursday_productmanagement.dataaccess\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED7E552E-B1E5-42EF-AC25-CE73E27FB091}|Thursday_ProductManagement.DataAccess\\Thursday_ProductManagement.DataAccess.csproj|solutionrelative:thursday_productmanagement.dataaccess\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED7E552E-B1E5-42EF-AC25-CE73E27FB091}|Thursday_ProductManagement.DataAccess\\Thursday_ProductManagement.DataAccess.csproj|c:\\users\\preethu\\source\\repos\\thursday_productmanagement\\thursday_productmanagement.dataaccess\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED7E552E-B1E5-42EF-AC25-CE73E27FB091}|Thursday_ProductManagement.DataAccess\\Thursday_ProductManagement.DataAccess.csproj|c:\\users\\preethu\\source\\repos\\apithursday_productmanagement\\thursday_productmanagement.dataaccess\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED7E552E-B1E5-42EF-AC25-CE73E27FB091}|Thursday_ProductManagement.DataAccess\\Thursday_ProductManagement.DataAccess.csproj|solutionrelative:thursday_productmanagement.dataaccess\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B80FFF58-DFCD-49F6-9BBF-FAB10B88D973}|Thursday_ProductManagement.xUnitTesting\\Thursday_ProductManagement.xUnitTesting.csproj|c:\\users\\preethu\\source\\repos\\thursday_productmanagement\\thursday_productmanagement.xunittesting\\productmanagertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B80FFF58-DFCD-49F6-9BBF-FAB10B88D973}|Thursday_ProductManagement.xUnitTesting\\Thursday_ProductManagement.xUnitTesting.csproj|solutionrelative:thursday_productmanagement.xunittesting\\productmanagertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A1B75A6-D20A-4AA3-914F-0D7224B5E25D}|Thursday_ProductManagement.WebApi\\Thursday_ProductManagement.WebApi.csproj|c:\\users\\preethu\\source\\repos\\thursday_productmanagement\\thursday_productmanagement.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9A1B75A6-D20A-4AA3-914F-0D7224B5E25D}|Thursday_ProductManagement.WebApi\\Thursday_ProductManagement.WebApi.csproj|solutionrelative:thursday_productmanagement.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED7E552E-B1E5-42EF-AC25-CE73E27FB091}|Thursday_ProductManagement.DataAccess\\Thursday_ProductManagement.DataAccess.csproj|c:\\users\\preethu\\source\\repos\\thursday_productmanagement\\thursday_productmanagement.dataaccess\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED7E552E-B1E5-42EF-AC25-CE73E27FB091}|Thursday_ProductManagement.DataAccess\\Thursday_ProductManagement.DataAccess.csproj|solutionrelative:thursday_productmanagement.dataaccess\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B80FFF58-DFCD-49F6-9BBF-FAB10B88D973}|Thursday_ProductManagement.xUnitTesting\\Thursday_ProductManagement.xUnitTesting.csproj|c:\\users\\preethu\\source\\repos\\thursday_productmanagement\\thursday_productmanagement.xunittesting\\productcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B80FFF58-DFCD-49F6-9BBF-FAB10B88D973}|Thursday_ProductManagement.xUnitTesting\\Thursday_ProductManagement.xUnitTesting.csproj|solutionrelative:thursday_productmanagement.xunittesting\\productcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6AE89A3F-B281-44B6-B050-9A09E694A232}|Thursday_ProductManagement.Managers\\Thursday_ProductManagement.Managers.csproj|c:\\users\\preethu\\source\\repos\\thursday_productmanagement\\thursday_productmanagement.managers\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6AE89A3F-B281-44B6-B050-9A09E694A232}|Thursday_ProductManagement.Managers\\Thursday_ProductManagement.Managers.csproj|solutionrelative:thursday_productmanagement.managers\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B80FFF58-DFCD-49F6-9BBF-FAB10B88D973}|Thursday_ProductManagement.xUnitTesting\\Thursday_ProductManagement.xUnitTesting.csproj|c:\\users\\preethu\\source\\repos\\thursday_productmanagement\\thursday_productmanagement.xunittesting\\productservicestest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B80FFF58-DFCD-49F6-9BBF-FAB10B88D973}|Thursday_ProductManagement.xUnitTesting\\Thursday_ProductManagement.xUnitTesting.csproj|solutionrelative:thursday_productmanagement.xunittesting\\productservicestest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A1B75A6-D20A-4AA3-914F-0D7224B5E25D}|Thursday_ProductManagement.WebApi\\Thursday_ProductManagement.WebApi.csproj|c:\\users\\preethu\\source\\repos\\thursday_productmanagement\\thursday_productmanagement.webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A1B75A6-D20A-4AA3-914F-0D7224B5E25D}|Thursday_ProductManagement.WebApi\\Thursday_ProductManagement.WebApi.csproj|solutionrelative:thursday_productmanagement.webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B80FFF58-DFCD-49F6-9BBF-FAB10B88D973}|Thursday_ProductManagement.xUnitTesting\\Thursday_ProductManagement.xUnitTesting.csproj|c:\\users\\preethu\\source\\repos\\thursday_productmanagement\\thursday_productmanagement.xunittesting\\productrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B80FFF58-DFCD-49F6-9BBF-FAB10B88D973}|Thursday_ProductManagement.xUnitTesting\\Thursday_ProductManagement.xUnitTesting.csproj|solutionrelative:thursday_productmanagement.xunittesting\\productrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -110,281 +65,150 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IProductManager.cs",
-              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.Managers\\IProductManager.cs",
-              "RelativeDocumentMoniker": "Thursday_ProductManagement.Managers\\IProductManager.cs",
-              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.Managers\\IProductManager.cs",
-              "RelativeToolTip": "Thursday_ProductManagement.Managers\\IProductManager.cs",
+              "DocumentIndex": 1,
+              "Title": "ProductControlTest.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APIThursday_ProductManagement\\Thursday_productManagementTesting\\ProductControlTest.cs",
+              "RelativeDocumentMoniker": "Thursday_productManagementTesting\\ProductControlTest.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APIThursday_ProductManagement\\Thursday_productManagementTesting\\ProductControlTest.cs",
+              "RelativeToolTip": "Thursday_productManagementTesting\\ProductControlTest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T07:57:48.318Z"
+              "WhenOpened": "2025-02-27T05:12:15.846Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.Services\\ProductService.cs",
-              "RelativeDocumentMoniker": "Thursday_ProductManagement.Services\\ProductService.cs",
-              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.Services\\ProductService.cs",
-              "RelativeToolTip": "Thursday_ProductManagement.Services\\ProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "ProductServTest.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APIThursday_ProductManagement\\Thursday_productManagementTesting\\ProductServTest.cs",
+              "RelativeDocumentMoniker": "Thursday_productManagementTesting\\ProductServTest.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APIThursday_ProductManagement\\Thursday_productManagementTesting\\ProductServTest.cs",
+              "RelativeToolTip": "Thursday_productManagementTesting\\ProductServTest.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAcwDsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T07:02:50.825Z"
+              "WhenOpened": "2025-02-26T11:41:22.83Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ProductManager.cs",
-              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.Managers\\ProductManager.cs",
-              "RelativeDocumentMoniker": "Thursday_ProductManagement.Managers\\ProductManager.cs",
-              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.Managers\\ProductManager.cs",
-              "RelativeToolTip": "Thursday_ProductManagement.Managers\\ProductManager.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAmwDEAAAAAAAAAAAAAAA==",
+              "Title": "ProductRepoTest.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APIThursday_ProductManagement\\Thursday_productManagementTesting\\ProductRepoTest.cs",
+              "RelativeDocumentMoniker": "Thursday_productManagementTesting\\ProductRepoTest.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APIThursday_ProductManagement\\Thursday_productManagementTesting\\ProductRepoTest.cs",
+              "RelativeToolTip": "Thursday_productManagementTesting\\ProductRepoTest.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwCgAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T06:34:36.478Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LoggingMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.WebApi\\LoggingMiddleware.cs",
-              "RelativeDocumentMoniker": "Thursday_ProductManagement.WebApi\\LoggingMiddleware.cs",
-              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.WebApi\\LoggingMiddleware.cs",
-              "RelativeToolTip": "Thursday_ProductManagement.WebApi\\LoggingMiddleware.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAYwBoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T12:16:26.129Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.DataAccess\\Repositories\\Repository.cs",
-              "RelativeDocumentMoniker": "Thursday_ProductManagement.DataAccess\\Repositories\\Repository.cs",
-              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.DataAccess\\Repositories\\Repository.cs",
-              "RelativeToolTip": "Thursday_ProductManagement.DataAccess\\Repositories\\Repository.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAAADgAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T06:48:10.869Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T11:40:03.295Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ValidateActionFilter.cs",
-              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.Filters\\ValidateActionFilter.cs",
-              "RelativeDocumentMoniker": "Thursday_ProductManagement.Filters\\ValidateActionFilter.cs",
-              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.Filters\\ValidateActionFilter.cs",
-              "RelativeToolTip": "Thursday_ProductManagement.Filters\\ValidateActionFilter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Title": "ProductManTest.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APIThursday_ProductManagement\\Thursday_productManagementTesting\\ProductManTest.cs",
+              "RelativeDocumentMoniker": "Thursday_productManagementTesting\\ProductManTest.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APIThursday_ProductManagement\\Thursday_productManagementTesting\\ProductManTest.cs",
+              "RelativeToolTip": "Thursday_productManagementTesting\\ProductManTest.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T06:35:09.241Z"
+              "WhenOpened": "2025-02-26T11:35:15.333Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "mymapping.cs",
-              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.WebApi\\mymapping.cs",
-              "RelativeDocumentMoniker": "Thursday_ProductManagement.WebApi\\mymapping.cs",
-              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.WebApi\\mymapping.cs",
-              "RelativeToolTip": "Thursday_ProductManagement.WebApi\\mymapping.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T08:02:18.589Z",
+              "DocumentIndex": 0,
+              "Title": "Thursday_productManagementTesting.csproj",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APIThursday_ProductManagement\\Thursday_productManagementTesting\\Thursday_productManagementTesting.csproj",
+              "RelativeDocumentMoniker": "Thursday_productManagementTesting\\Thursday_productManagementTesting.csproj",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APIThursday_ProductManagement\\Thursday_productManagementTesting\\Thursday_productManagementTesting.csproj",
+              "RelativeToolTip": "Thursday_productManagementTesting\\Thursday_productManagementTesting.csproj",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-26T11:34:18.366Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.WebApi\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Thursday_ProductManagement.WebApi\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.WebApi\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Thursday_ProductManagement.WebApi\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAmwFEAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T11:27:51.901Z"
+              "Title": "Thursday_ProductManagement.Managers.csproj",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APIThursday_ProductManagement\\Thursday_ProductManagement.Managers\\Thursday_ProductManagement.Managers.csproj",
+              "RelativeDocumentMoniker": "Thursday_ProductManagement.Managers\\Thursday_ProductManagement.Managers.csproj",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APIThursday_ProductManagement\\Thursday_ProductManagement.Managers\\Thursday_ProductManagement.Managers.csproj",
+              "RelativeToolTip": "Thursday_ProductManagement.Managers\\Thursday_ProductManagement.Managers.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-26T11:34:14.06Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.WebApi\\Program.cs",
-              "RelativeDocumentMoniker": "Thursday_ProductManagement.WebApi\\Program.cs",
-              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.WebApi\\Program.cs",
-              "RelativeToolTip": "Thursday_ProductManagement.WebApi\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAoAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAIEIAAAAAAAAAAAtwI4IAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-02-26T11:32:39.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APIThursday_ProductManagement\\Thursday_ProductManagement.WebApi\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Thursday_ProductManagement.WebApi\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APIThursday_ProductManagement\\Thursday_ProductManagement.WebApi\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Thursday_ProductManagement.WebApi\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAUwHEAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T11:53:04.936Z"
+              "WhenOpened": "2025-02-26T10:27:04.413Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.Services\\IProductService.cs",
-              "RelativeDocumentMoniker": "Thursday_ProductManagement.Services\\IProductService.cs",
-              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.Services\\IProductService.cs",
-              "RelativeToolTip": "Thursday_ProductManagement.Services\\IProductService.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAACwAAAA3AAAAAAAAAA==",
+              "Title": "Thursday_ProductManagement.WebApi.csproj",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APIThursday_ProductManagement\\Thursday_ProductManagement.WebApi\\Thursday_ProductManagement.WebApi.csproj",
+              "RelativeDocumentMoniker": "Thursday_ProductManagement.WebApi\\Thursday_ProductManagement.WebApi.csproj",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APIThursday_ProductManagement\\Thursday_ProductManagement.WebApi\\Thursday_ProductManagement.WebApi.csproj",
+              "RelativeToolTip": "Thursday_ProductManagement.WebApi\\Thursday_ProductManagement.WebApi.csproj",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-26T11:31:37.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APIThursday_ProductManagement\\Thursday_ProductManagement.Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Thursday_ProductManagement.Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APIThursday_ProductManagement\\Thursday_ProductManagement.Services\\ProductService.cs",
+              "RelativeToolTip": "Thursday_ProductManagement.Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T08:03:28.408Z"
+              "WhenOpened": "2025-02-26T10:27:00.419Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "ProductDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.DataAccess\\Migrations\\ProductDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "Thursday_ProductManagement.DataAccess\\Migrations\\ProductDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.DataAccess\\Migrations\\ProductDbContextModelSnapshot.cs",
-              "RelativeToolTip": "Thursday_ProductManagement.DataAccess\\Migrations\\ProductDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "ValidateActionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APIThursday_ProductManagement\\Thursday_ProductManagement.Filters\\ValidateActionFilter.cs",
+              "RelativeDocumentMoniker": "Thursday_ProductManagement.Filters\\ValidateActionFilter.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APIThursday_ProductManagement\\Thursday_ProductManagement.Filters\\ValidateActionFilter.cs",
+              "RelativeToolTip": "Thursday_ProductManagement.Filters\\ValidateActionFilter.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T07:48:04.94Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.DataAccess\\Repositories\\IRepository.cs",
-              "RelativeDocumentMoniker": "Thursday_ProductManagement.DataAccess\\Repositories\\IRepository.cs",
-              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.DataAccess\\Repositories\\IRepository.cs",
-              "RelativeToolTip": "Thursday_ProductManagement.DataAccess\\Repositories\\IRepository.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T10:08:38.519Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.DataAccess\\Repositories\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "Thursday_ProductManagement.DataAccess\\Repositories\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.DataAccess\\Repositories\\ProductRepository.cs",
-              "RelativeToolTip": "Thursday_ProductManagement.DataAccess\\Repositories\\ProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T10:52:56.238Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ProductManagerTest.cs",
-              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.xUnitTesting\\ProductManagerTest.cs",
-              "RelativeDocumentMoniker": "Thursday_ProductManagement.xUnitTesting\\ProductManagerTest.cs",
-              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.xUnitTesting\\ProductManagerTest.cs",
-              "RelativeToolTip": "Thursday_ProductManagement.xUnitTesting\\ProductManagerTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T07:32:27.249Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.DataAccess\\Repositories\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "Thursday_ProductManagement.DataAccess\\Repositories\\IProductRepository.cs",
-              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.DataAccess\\Repositories\\IProductRepository.cs",
-              "RelativeToolTip": "Thursday_ProductManagement.DataAccess\\Repositories\\IProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T04:08:25.72Z"
+              "WhenOpened": "2025-02-26T10:26:56.311Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.DataAccess\\Product.cs",
-              "RelativeDocumentMoniker": "Thursday_ProductManagement.DataAccess\\Product.cs",
-              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.DataAccess\\Product.cs",
-              "RelativeToolTip": "Thursday_ProductManagement.DataAccess\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APIThursday_ProductManagement\\Thursday_ProductManagement.DataAccess\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Thursday_ProductManagement.DataAccess\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APIThursday_ProductManagement\\Thursday_ProductManagement.DataAccess\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Thursday_ProductManagement.DataAccess\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T06:48:07.77Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ProductDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.DataAccess\\ProductDbContext.cs",
-              "RelativeDocumentMoniker": "Thursday_ProductManagement.DataAccess\\ProductDbContext.cs",
-              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.DataAccess\\ProductDbContext.cs",
-              "RelativeToolTip": "Thursday_ProductManagement.DataAccess\\ProductDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T11:46:54.651Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.WebApi\\appsettings.json",
-              "RelativeDocumentMoniker": "Thursday_ProductManagement.WebApi\\appsettings.json",
-              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.WebApi\\appsettings.json",
-              "RelativeToolTip": "Thursday_ProductManagement.WebApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-01T07:29:18.018Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ProductDto.cs",
-              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.Managers\\DTO\\ProductDto.cs",
-              "RelativeDocumentMoniker": "Thursday_ProductManagement.Managers\\DTO\\ProductDto.cs",
-              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.Managers\\DTO\\ProductDto.cs",
-              "RelativeToolTip": "Thursday_ProductManagement.Managers\\DTO\\ProductDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T11:47:02.436Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ProductControllerTests.cs",
-              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.xUnitTesting\\ProductControllerTests.cs",
-              "RelativeDocumentMoniker": "Thursday_ProductManagement.xUnitTesting\\ProductControllerTests.cs",
-              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.xUnitTesting\\ProductControllerTests.cs",
-              "RelativeToolTip": "Thursday_ProductManagement.xUnitTesting\\ProductControllerTests.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAawEgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T09:19:34.608Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.WebApi\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "Thursday_ProductManagement.WebApi\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.WebApi\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "Thursday_ProductManagement.WebApi\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T11:27:50.9Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ProductServicesTest.cs",
-              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.xUnitTesting\\ProductServicesTest.cs",
-              "RelativeDocumentMoniker": "Thursday_ProductManagement.xUnitTesting\\ProductServicesTest.cs",
-              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.xUnitTesting\\ProductServicesTest.cs",
-              "RelativeToolTip": "Thursday_ProductManagement.xUnitTesting\\ProductServicesTest.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAwwFsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T10:59:23.699Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "ProductRepositoryTests.cs",
-              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.xUnitTesting\\ProductRepositoryTests.cs",
-              "RelativeDocumentMoniker": "Thursday_ProductManagement.xUnitTesting\\ProductRepositoryTests.cs",
-              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.xUnitTesting\\ProductRepositoryTests.cs",
-              "RelativeToolTip": "Thursday_ProductManagement.xUnitTesting\\ProductRepositoryTests.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T09:13:12.747Z"
+              "WhenOpened": "2025-02-26T10:26:52.032Z"
             }
           ]
         },

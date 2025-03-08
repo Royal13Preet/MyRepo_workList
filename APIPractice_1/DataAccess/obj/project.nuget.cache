@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "opYtqN5Ki0Y=",
+  "dgSpecHash": "NAQKGKiPBVU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\preethu\\source\\repos\\Practice_1\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\preethu\\source\\repos\\APIPractice_1\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\preethu\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\preethu\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

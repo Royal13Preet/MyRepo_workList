@@ -38,7 +38,6 @@ namespace Multithreading
             th.Start();
             th.Abort();
             
-           
             th1.Start();
             
             //th1.Abort();

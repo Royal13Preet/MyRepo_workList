@@ -18,7 +18,6 @@ namespace staticmeth
             p.age = Convert.ToInt32(Console.ReadLine());
             id = Convert.ToInt32(Console.ReadLine());
 
-
         }
     }
 }

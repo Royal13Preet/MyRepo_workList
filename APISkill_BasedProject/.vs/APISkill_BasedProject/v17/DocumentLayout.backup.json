@@ -1,0 +1,448 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\preethu\\source\\repos\\APISkill_BasedProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6348A12-AAD7-48AF-AC5B-A6840DEDCAA6}|API_DataAccessLayer\\API_DataAccessLayer.csproj|c:\\users\\preethu\\source\\repos\\apiskill_basedproject\\api_dataaccesslayer\\dbmodel\\userskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6348A12-AAD7-48AF-AC5B-A6840DEDCAA6}|API_DataAccessLayer\\API_DataAccessLayer.csproj|solutionrelative:api_dataaccesslayer\\dbmodel\\userskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8FB235-4E94-4D2D-825A-68C709E1437D}|API_manager\\API_manager.csproj|c:\\users\\preethu\\source\\repos\\apiskill_basedproject\\api_manager\\dto\u0027s\\addskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D8FB235-4E94-4D2D-825A-68C709E1437D}|API_manager\\API_manager.csproj|solutionrelative:api_manager\\dto\u0027s\\addskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6348A12-AAD7-48AF-AC5B-A6840DEDCAA6}|API_DataAccessLayer\\API_DataAccessLayer.csproj|c:\\users\\preethu\\source\\repos\\apiskill_basedproject\\api_dataaccesslayer\\dbmodel\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6348A12-AAD7-48AF-AC5B-A6840DEDCAA6}|API_DataAccessLayer\\API_DataAccessLayer.csproj|solutionrelative:api_dataaccesslayer\\dbmodel\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6348A12-AAD7-48AF-AC5B-A6840DEDCAA6}|API_DataAccessLayer\\API_DataAccessLayer.csproj|c:\\users\\preethu\\source\\repos\\apiskill_basedproject\\api_dataaccesslayer\\repositories\\userskillrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6348A12-AAD7-48AF-AC5B-A6840DEDCAA6}|API_DataAccessLayer\\API_DataAccessLayer.csproj|solutionrelative:api_dataaccesslayer\\repositories\\userskillrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6348A12-AAD7-48AF-AC5B-A6840DEDCAA6}|API_DataAccessLayer\\API_DataAccessLayer.csproj|c:\\users\\preethu\\source\\repos\\apiskill_basedproject\\api_dataaccesslayer\\repositories\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6348A12-AAD7-48AF-AC5B-A6840DEDCAA6}|API_DataAccessLayer\\API_DataAccessLayer.csproj|solutionrelative:api_dataaccesslayer\\repositories\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6348A12-AAD7-48AF-AC5B-A6840DEDCAA6}|API_DataAccessLayer\\API_DataAccessLayer.csproj|c:\\users\\preethu\\source\\repos\\apiskill_basedproject\\api_dataaccesslayer\\repositories\\skillrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6348A12-AAD7-48AF-AC5B-A6840DEDCAA6}|API_DataAccessLayer\\API_DataAccessLayer.csproj|solutionrelative:api_dataaccesslayer\\repositories\\skillrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6348A12-AAD7-48AF-AC5B-A6840DEDCAA6}|API_DataAccessLayer\\API_DataAccessLayer.csproj|c:\\users\\preethu\\source\\repos\\apiskill_basedproject\\api_dataaccesslayer\\repositories\\iskillrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6348A12-AAD7-48AF-AC5B-A6840DEDCAA6}|API_DataAccessLayer\\API_DataAccessLayer.csproj|solutionrelative:api_dataaccesslayer\\repositories\\iskillrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8FB235-4E94-4D2D-825A-68C709E1437D}|API_manager\\API_manager.csproj|c:\\users\\preethu\\source\\repos\\apiskill_basedproject\\api_manager\\projectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D8FB235-4E94-4D2D-825A-68C709E1437D}|API_manager\\API_manager.csproj|solutionrelative:api_manager\\projectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C864C4-5D5A-4D0F-BF51-E8ECC923FDE6}|API_Controller\\API_Controller.csproj|c:\\users\\preethu\\source\\repos\\apiskill_basedproject\\api_controller\\mymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55C864C4-5D5A-4D0F-BF51-E8ECC923FDE6}|API_Controller\\API_Controller.csproj|solutionrelative:api_controller\\mymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8FB235-4E94-4D2D-825A-68C709E1437D}|API_manager\\API_manager.csproj|c:\\users\\preethu\\source\\repos\\apiskill_basedproject\\api_manager\\iprojectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D8FB235-4E94-4D2D-825A-68C709E1437D}|API_manager\\API_manager.csproj|solutionrelative:api_manager\\iprojectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8FB235-4E94-4D2D-825A-68C709E1437D}|API_manager\\API_manager.csproj|c:\\users\\preethu\\source\\repos\\apiskill_basedproject\\api_manager\\dto\u0027s\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D8FB235-4E94-4D2D-825A-68C709E1437D}|API_manager\\API_manager.csproj|solutionrelative:api_manager\\dto\u0027s\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6348A12-AAD7-48AF-AC5B-A6840DEDCAA6}|API_DataAccessLayer\\API_DataAccessLayer.csproj|c:\\users\\preethu\\source\\repos\\apiskill_basedproject\\api_dataaccesslayer\\repositories\\iprojectrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6348A12-AAD7-48AF-AC5B-A6840DEDCAA6}|API_DataAccessLayer\\API_DataAccessLayer.csproj|solutionrelative:api_dataaccesslayer\\repositories\\iprojectrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6348A12-AAD7-48AF-AC5B-A6840DEDCAA6}|API_DataAccessLayer\\API_DataAccessLayer.csproj|c:\\users\\preethu\\source\\repos\\apiskill_basedproject\\api_dataaccesslayer\\repositories\\iuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6348A12-AAD7-48AF-AC5B-A6840DEDCAA6}|API_DataAccessLayer\\API_DataAccessLayer.csproj|solutionrelative:api_dataaccesslayer\\repositories\\iuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8FB235-4E94-4D2D-825A-68C709E1437D}|API_manager\\API_manager.csproj|c:\\users\\preethu\\source\\repos\\apiskill_basedproject\\api_manager\\dto\u0027s\\createproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D8FB235-4E94-4D2D-825A-68C709E1437D}|API_manager\\API_manager.csproj|solutionrelative:api_manager\\dto\u0027s\\createproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98417E7-F005-4554-9FEB-A04067904743}|API_Servicelayer\\API_Servicelayer.csproj|c:\\users\\preethu\\source\\repos\\apiskill_basedproject\\api_servicelayer\\skillservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F98417E7-F005-4554-9FEB-A04067904743}|API_Servicelayer\\API_Servicelayer.csproj|solutionrelative:api_servicelayer\\skillservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98417E7-F005-4554-9FEB-A04067904743}|API_Servicelayer\\API_Servicelayer.csproj|c:\\users\\preethu\\source\\repos\\apiskill_basedproject\\api_servicelayer\\iskillservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F98417E7-F005-4554-9FEB-A04067904743}|API_Servicelayer\\API_Servicelayer.csproj|solutionrelative:api_servicelayer\\iskillservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8FB235-4E94-4D2D-825A-68C709E1437D}|API_manager\\API_manager.csproj|c:\\users\\preethu\\source\\repos\\apiskill_basedproject\\api_manager\\iskillmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D8FB235-4E94-4D2D-825A-68C709E1437D}|API_manager\\API_manager.csproj|solutionrelative:api_manager\\iskillmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8FB235-4E94-4D2D-825A-68C709E1437D}|API_manager\\API_manager.csproj|c:\\users\\preethu\\source\\repos\\apiskill_basedproject\\api_manager\\skillmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D8FB235-4E94-4D2D-825A-68C709E1437D}|API_manager\\API_manager.csproj|solutionrelative:api_manager\\skillmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98417E7-F005-4554-9FEB-A04067904743}|API_Servicelayer\\API_Servicelayer.csproj|c:\\users\\preethu\\source\\repos\\apiskill_basedproject\\api_servicelayer\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F98417E7-F005-4554-9FEB-A04067904743}|API_Servicelayer\\API_Servicelayer.csproj|solutionrelative:api_servicelayer\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98417E7-F005-4554-9FEB-A04067904743}|API_Servicelayer\\API_Servicelayer.csproj|c:\\users\\preethu\\source\\repos\\apiskill_basedproject\\api_servicelayer\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F98417E7-F005-4554-9FEB-A04067904743}|API_Servicelayer\\API_Servicelayer.csproj|solutionrelative:api_servicelayer\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C864C4-5D5A-4D0F-BF51-E8ECC923FDE6}|API_Controller\\API_Controller.csproj|c:\\users\\preethu\\source\\repos\\apiskill_basedproject\\api_controller\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{55C864C4-5D5A-4D0F-BF51-E8ECC923FDE6}|API_Controller\\API_Controller.csproj|solutionrelative:api_controller\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8FB235-4E94-4D2D-825A-68C709E1437D}|API_manager\\API_manager.csproj|c:\\users\\preethu\\source\\repos\\apiskill_basedproject\\api_manager\\dto\u0027s\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D8FB235-4E94-4D2D-825A-68C709E1437D}|API_manager\\API_manager.csproj|solutionrelative:api_manager\\dto\u0027s\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8FB235-4E94-4D2D-825A-68C709E1437D}|API_manager\\API_manager.csproj|c:\\users\\preethu\\source\\repos\\apiskill_basedproject\\api_manager\\dto\u0027s\\userprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D8FB235-4E94-4D2D-825A-68C709E1437D}|API_manager\\API_manager.csproj|solutionrelative:api_manager\\dto\u0027s\\userprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8FB235-4E94-4D2D-825A-68C709E1437D}|API_manager\\API_manager.csproj|c:\\users\\preethu\\source\\repos\\apiskill_basedproject\\api_manager\\api_manager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0D8FB235-4E94-4D2D-825A-68C709E1437D}|API_manager\\API_manager.csproj|solutionrelative:api_manager\\api_manager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\preethu\\source\\repos\\APISkill_BasedProject\\API_DataAccessLayer\\Migrations\\20250207094241_Intial_one.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_DataAccessLayer\\Migrations\\20250207094241_Intial_one.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 215,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APISkill_BasedProject\\API_DataAccessLayer\\DBModel\\Project.cs",
+              "RelativeDocumentMoniker": "API_DataAccessLayer\\DBModel\\Project.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APISkill_BasedProject\\API_DataAccessLayer\\DBModel\\Project.cs",
+              "RelativeToolTip": "API_DataAccessLayer\\DBModel\\Project.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAjwBMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T08:20:21.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APISkill_BasedProject\\API_DataAccessLayer\\Repositories\\UserRepo.cs",
+              "RelativeDocumentMoniker": "API_DataAccessLayer\\Repositories\\UserRepo.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APISkill_BasedProject\\API_DataAccessLayer\\Repositories\\UserRepo.cs",
+              "RelativeToolTip": "API_DataAccessLayer\\Repositories\\UserRepo.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T08:15:51.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserSkillRepo.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APISkill_BasedProject\\API_DataAccessLayer\\Repositories\\UserSkillRepo.cs",
+              "RelativeDocumentMoniker": "API_DataAccessLayer\\Repositories\\UserSkillRepo.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APISkill_BasedProject\\API_DataAccessLayer\\Repositories\\UserSkillRepo.cs",
+              "RelativeToolTip": "API_DataAccessLayer\\Repositories\\UserSkillRepo.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T07:15:31.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SkillRepo.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APISkill_BasedProject\\API_DataAccessLayer\\Repositories\\SkillRepo.cs",
+              "RelativeDocumentMoniker": "API_DataAccessLayer\\Repositories\\SkillRepo.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APISkill_BasedProject\\API_DataAccessLayer\\Repositories\\SkillRepo.cs",
+              "RelativeToolTip": "API_DataAccessLayer\\Repositories\\SkillRepo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T07:15:25.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ISkillRepo.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APISkill_BasedProject\\API_DataAccessLayer\\Repositories\\ISkillRepo.cs",
+              "RelativeDocumentMoniker": "API_DataAccessLayer\\Repositories\\ISkillRepo.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APISkill_BasedProject\\API_DataAccessLayer\\Repositories\\ISkillRepo.cs",
+              "RelativeToolTip": "API_DataAccessLayer\\Repositories\\ISkillRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T07:15:23.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserSkill.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APISkill_BasedProject\\API_DataAccessLayer\\DBModel\\UserSkill.cs",
+              "RelativeDocumentMoniker": "API_DataAccessLayer\\DBModel\\UserSkill.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APISkill_BasedProject\\API_DataAccessLayer\\DBModel\\UserSkill.cs",
+              "RelativeToolTip": "API_DataAccessLayer\\DBModel\\UserSkill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAjwA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T07:14:52.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddSkill.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APISkill_BasedProject\\API_manager\\DTo\u0027s\\AddSkill.cs",
+              "RelativeDocumentMoniker": "API_manager\\DTo\u0027s\\AddSkill.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APISkill_BasedProject\\API_manager\\DTo\u0027s\\AddSkill.cs",
+              "RelativeToolTip": "API_manager\\DTo\u0027s\\AddSkill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T12:33:15.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProjectManager.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APISkill_BasedProject\\API_manager\\ProjectManager.cs",
+              "RelativeDocumentMoniker": "API_manager\\ProjectManager.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APISkill_BasedProject\\API_manager\\ProjectManager.cs",
+              "RelativeToolTip": "API_manager\\ProjectManager.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAmwCAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T06:06:21.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MymappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APISkill_BasedProject\\API_Controller\\MymappingProfile.cs",
+              "RelativeDocumentMoniker": "API_Controller\\MymappingProfile.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APISkill_BasedProject\\API_Controller\\MymappingProfile.cs",
+              "RelativeToolTip": "API_Controller\\MymappingProfile.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T11:21:43.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IProjectManager.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APISkill_BasedProject\\API_manager\\IProjectManager.cs",
+              "RelativeDocumentMoniker": "API_manager\\IProjectManager.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APISkill_BasedProject\\API_manager\\IProjectManager.cs",
+              "RelativeToolTip": "API_manager\\IProjectManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T06:03:51.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IProjectRepo.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APISkill_BasedProject\\API_DataAccessLayer\\Repositories\\IProjectRepo.cs",
+              "RelativeDocumentMoniker": "API_DataAccessLayer\\Repositories\\IProjectRepo.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APISkill_BasedProject\\API_DataAccessLayer\\Repositories\\IProjectRepo.cs",
+              "RelativeToolTip": "API_DataAccessLayer\\Repositories\\IProjectRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T04:27:01.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserLogin.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APISkill_BasedProject\\API_manager\\DTo\u0027s\\UserLogin.cs",
+              "RelativeDocumentMoniker": "API_manager\\DTo\u0027s\\UserLogin.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APISkill_BasedProject\\API_manager\\DTo\u0027s\\UserLogin.cs",
+              "RelativeToolTip": "API_manager\\DTo\u0027s\\UserLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T07:00:07.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IUserRepo.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APISkill_BasedProject\\API_DataAccessLayer\\Repositories\\IUserRepo.cs",
+              "RelativeDocumentMoniker": "API_DataAccessLayer\\Repositories\\IUserRepo.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APISkill_BasedProject\\API_DataAccessLayer\\Repositories\\IUserRepo.cs",
+              "RelativeToolTip": "API_DataAccessLayer\\Repositories\\IUserRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T06:42:23.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateProject.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APISkill_BasedProject\\API_manager\\DTo\u0027s\\CreateProject.cs",
+              "RelativeDocumentMoniker": "API_manager\\DTo\u0027s\\CreateProject.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APISkill_BasedProject\\API_manager\\DTo\u0027s\\CreateProject.cs",
+              "RelativeToolTip": "API_manager\\DTo\u0027s\\CreateProject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T04:28:51.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SkillService.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APISkill_BasedProject\\API_Servicelayer\\SkillService.cs",
+              "RelativeDocumentMoniker": "API_Servicelayer\\SkillService.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APISkill_BasedProject\\API_Servicelayer\\SkillService.cs",
+              "RelativeToolTip": "API_Servicelayer\\SkillService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADgvw4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T04:04:04.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ISkillService.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APISkill_BasedProject\\API_Servicelayer\\ISkillService.cs",
+              "RelativeDocumentMoniker": "API_Servicelayer\\ISkillService.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APISkill_BasedProject\\API_Servicelayer\\ISkillService.cs",
+              "RelativeToolTip": "API_Servicelayer\\ISkillService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T04:11:42.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ISkillManager.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APISkill_BasedProject\\API_manager\\ISkillManager.cs",
+              "RelativeDocumentMoniker": "API_manager\\ISkillManager.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APISkill_BasedProject\\API_manager\\ISkillManager.cs",
+              "RelativeToolTip": "API_manager\\ISkillManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADgvw8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T03:45:51.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SkillManager.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APISkill_BasedProject\\API_manager\\SkillManager.cs",
+              "RelativeDocumentMoniker": "API_manager\\SkillManager.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APISkill_BasedProject\\API_manager\\SkillManager.cs",
+              "RelativeToolTip": "API_manager\\SkillManager.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAABBwAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T03:47:50.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APISkill_BasedProject\\API_Servicelayer\\IUserService.cs",
+              "RelativeDocumentMoniker": "API_Servicelayer\\IUserService.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APISkill_BasedProject\\API_Servicelayer\\IUserService.cs",
+              "RelativeToolTip": "API_Servicelayer\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T10:21:54.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APISkill_BasedProject\\API_Servicelayer\\UserService.cs",
+              "RelativeDocumentMoniker": "API_Servicelayer\\UserService.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APISkill_BasedProject\\API_Servicelayer\\UserService.cs",
+              "RelativeToolTip": "API_Servicelayer\\UserService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T10:14:05.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APISkill_BasedProject\\API_Controller\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "API_Controller\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APISkill_BasedProject\\API_Controller\\appsettings.Development.json",
+              "RelativeToolTip": "API_Controller\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-07T11:21:42.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APISkill_BasedProject\\API_manager\\DTo\u0027s\\UserCreateDto.cs",
+              "RelativeDocumentMoniker": "API_manager\\DTo\u0027s\\UserCreateDto.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APISkill_BasedProject\\API_manager\\DTo\u0027s\\UserCreateDto.cs",
+              "RelativeToolTip": "API_manager\\DTo\u0027s\\UserCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T11:07:37.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserProfileDto.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APISkill_BasedProject\\API_manager\\DTo\u0027s\\UserProfileDto.cs",
+              "RelativeDocumentMoniker": "API_manager\\DTo\u0027s\\UserProfileDto.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APISkill_BasedProject\\API_manager\\DTo\u0027s\\UserProfileDto.cs",
+              "RelativeToolTip": "API_manager\\DTo\u0027s\\UserProfileDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T10:58:05.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "API_manager.csproj",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APISkill_BasedProject\\API_manager\\API_manager.csproj",
+              "RelativeDocumentMoniker": "API_manager\\API_manager.csproj",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APISkill_BasedProject\\API_manager\\API_manager.csproj",
+              "RelativeToolTip": "API_manager\\API_manager.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-07T09:41:50.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20250207094241_Intial_one.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APISkill_BasedProject\\API_DataAccessLayer\\Migrations\\20250207094241_Intial_one.cs",
+              "RelativeDocumentMoniker": "API_DataAccessLayer\\Migrations\\20250207094241_Intial_one.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APISkill_BasedProject\\API_DataAccessLayer\\Migrations\\20250207094241_Intial_one.cs",
+              "RelativeToolTip": "API_DataAccessLayer\\Migrations\\20250207094241_Intial_one.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T09:42:41.229Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 51,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

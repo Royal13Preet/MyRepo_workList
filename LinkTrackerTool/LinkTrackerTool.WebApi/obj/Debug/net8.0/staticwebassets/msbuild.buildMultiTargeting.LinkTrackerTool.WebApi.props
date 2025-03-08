@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LinkTrackerTool.WebApi.props" />
+</Project>

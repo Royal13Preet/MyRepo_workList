@@ -1,0 +1,242 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\preethu\\source\\repos\\Sample_Webapi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82B0CAEF-EA05-4B81-8BF3-0690A86C945C}|Sample_Webapi\\Sample_Webapi.csproj|c:\\users\\preethu\\source\\repos\\sample_webapi\\sample_webapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B0CAEF-EA05-4B81-8BF3-0690A86C945C}|Sample_Webapi\\Sample_Webapi.csproj|solutionrelative:sample_webapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B0CAEF-EA05-4B81-8BF3-0690A86C945C}|Sample_Webapi\\Sample_Webapi.csproj|c:\\users\\preethu\\source\\repos\\sample_webapi\\sample_webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B0CAEF-EA05-4B81-8BF3-0690A86C945C}|Sample_Webapi\\Sample_Webapi.csproj|solutionrelative:sample_webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B0CAEF-EA05-4B81-8BF3-0690A86C945C}|Sample_Webapi\\Sample_Webapi.csproj|c:\\users\\preethu\\source\\repos\\sample_webapi\\sample_webapi\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B0CAEF-EA05-4B81-8BF3-0690A86C945C}|Sample_Webapi\\Sample_Webapi.csproj|solutionrelative:sample_webapi\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B0CAEF-EA05-4B81-8BF3-0690A86C945C}|Sample_Webapi\\Sample_Webapi.csproj|c:\\users\\preethu\\source\\repos\\sample_webapi\\sample_webapi\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B0CAEF-EA05-4B81-8BF3-0690A86C945C}|Sample_Webapi\\Sample_Webapi.csproj|solutionrelative:sample_webapi\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B0CAEF-EA05-4B81-8BF3-0690A86C945C}|Sample_Webapi\\Sample_Webapi.csproj|c:\\users\\preethu\\source\\repos\\sample_webapi\\sample_webapi\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B0CAEF-EA05-4B81-8BF3-0690A86C945C}|Sample_Webapi\\Sample_Webapi.csproj|solutionrelative:sample_webapi\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B0CAEF-EA05-4B81-8BF3-0690A86C945C}|Sample_Webapi\\Sample_Webapi.csproj|c:\\users\\preethu\\source\\repos\\sample_webapi\\sample_webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{82B0CAEF-EA05-4B81-8BF3-0690A86C945C}|Sample_Webapi\\Sample_Webapi.csproj|solutionrelative:sample_webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B0CAEF-EA05-4B81-8BF3-0690A86C945C}|Sample_Webapi\\Sample_Webapi.csproj|c:\\users\\preethu\\source\\repos\\sample_webapi\\sample_webapi\\mymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B0CAEF-EA05-4B81-8BF3-0690A86C945C}|Sample_Webapi\\Sample_Webapi.csproj|solutionrelative:sample_webapi\\mymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B0CAEF-EA05-4B81-8BF3-0690A86C945C}|Sample_Webapi\\Sample_Webapi.csproj|c:\\users\\preethu\\source\\repos\\sample_webapi\\sample_webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B0CAEF-EA05-4B81-8BF3-0690A86C945C}|Sample_Webapi\\Sample_Webapi.csproj|solutionrelative:sample_webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B0CAEF-EA05-4B81-8BF3-0690A86C945C}|Sample_Webapi\\Sample_Webapi.csproj|c:\\users\\preethu\\source\\repos\\sample_webapi\\sample_webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{82B0CAEF-EA05-4B81-8BF3-0690A86C945C}|Sample_Webapi\\Sample_Webapi.csproj|solutionrelative:sample_webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B0CAEF-EA05-4B81-8BF3-0690A86C945C}|Sample_Webapi\\Sample_Webapi.csproj|c:\\users\\preethu\\source\\repos\\sample_webapi\\sample_webapi\\sample_webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{82B0CAEF-EA05-4B81-8BF3-0690A86C945C}|Sample_Webapi\\Sample_Webapi.csproj|solutionrelative:sample_webapi\\sample_webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B0CAEF-EA05-4B81-8BF3-0690A86C945C}|Sample_Webapi\\Sample_Webapi.csproj|c:\\users\\preethu\\source\\repos\\sample_webapi\\sample_webapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B0CAEF-EA05-4B81-8BF3-0690A86C945C}|Sample_Webapi\\Sample_Webapi.csproj|solutionrelative:sample_webapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B0CAEF-EA05-4B81-8BF3-0690A86C945C}|Sample_Webapi\\Sample_Webapi.csproj|c:\\users\\preethu\\source\\repos\\sample_webapi\\sample_webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{82B0CAEF-EA05-4B81-8BF3-0690A86C945C}|Sample_Webapi\\Sample_Webapi.csproj|solutionrelative:sample_webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 215,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyMAppingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Sample_Webapi\\Sample_Webapi\\MyMAppingProfile.cs",
+              "RelativeDocumentMoniker": "Sample_Webapi\\MyMAppingProfile.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Sample_Webapi\\Sample_Webapi\\MyMAppingProfile.cs",
+              "RelativeToolTip": "Sample_Webapi\\MyMAppingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T06:34:00.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Createproductdto.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Sample_Webapi\\Sample_Webapi\\Createproductdto.cs",
+              "RelativeDocumentMoniker": "Sample_Webapi\\Createproductdto.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Sample_Webapi\\Sample_Webapi\\Createproductdto.cs",
+              "RelativeToolTip": "Sample_Webapi\\Createproductdto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T06:30:54.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Sample_Webapi\\Sample_Webapi\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Sample_Webapi\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Sample_Webapi\\Sample_Webapi\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Sample_Webapi\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T05:50:20.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Sample_Webapi\\Sample_Webapi\\Product.cs",
+              "RelativeDocumentMoniker": "Sample_Webapi\\Product.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Sample_Webapi\\Sample_Webapi\\Product.cs",
+              "RelativeToolTip": "Sample_Webapi\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T06:53:30.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Sample_Webapi\\Sample_Webapi\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "Sample_Webapi\\ProductDbContext.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Sample_Webapi\\Sample_Webapi\\ProductDbContext.cs",
+              "RelativeToolTip": "Sample_Webapi\\ProductDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T06:48:51.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Sample_Webapi\\Sample_Webapi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Sample_Webapi\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Sample_Webapi\\Sample_Webapi\\appsettings.Development.json",
+              "RelativeToolTip": "Sample_Webapi\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-13T06:41:26.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Sample_Webapi\\Sample_Webapi\\Program.cs",
+              "RelativeDocumentMoniker": "Sample_Webapi\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Sample_Webapi\\Sample_Webapi\\Program.cs",
+              "RelativeToolTip": "Sample_Webapi\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T06:42:06.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Sample_Webapi\\Sample_Webapi\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Sample_Webapi\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Sample_Webapi\\Sample_Webapi\\WeatherForecast.cs",
+              "RelativeToolTip": "Sample_Webapi\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T06:43:47.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Sample_Webapi\\Sample_Webapi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Sample_Webapi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Sample_Webapi\\Sample_Webapi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Sample_Webapi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T06:40:39.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Sample_Webapi.csproj",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Sample_Webapi\\Sample_Webapi\\Sample_Webapi.csproj",
+              "RelativeDocumentMoniker": "Sample_Webapi\\Sample_Webapi.csproj",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Sample_Webapi\\Sample_Webapi\\Sample_Webapi.csproj",
+              "RelativeToolTip": "Sample_Webapi\\Sample_Webapi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-13T07:02:41.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Sample_Webapi\\Sample_Webapi\\appsettings.json",
+              "RelativeDocumentMoniker": "Sample_Webapi\\appsettings.json",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Sample_Webapi\\Sample_Webapi\\appsettings.json",
+              "RelativeToolTip": "Sample_Webapi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-13T06:41:12.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Sample_Webapi\\Sample_Webapi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Sample_Webapi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Sample_Webapi\\Sample_Webapi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Sample_Webapi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-13T06:40:25.564Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 51,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

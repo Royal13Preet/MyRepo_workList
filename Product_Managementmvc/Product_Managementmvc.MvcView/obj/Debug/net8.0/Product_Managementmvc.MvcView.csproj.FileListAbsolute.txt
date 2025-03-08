@@ -173,3 +173,8 @@ C:\Users\preethu\source\repos\Product_Managementmvc\Product_Managementmvc.MvcVie
 C:\Users\preethu\source\repos\Product_Managementmvc\Product_Managementmvc.MvcView\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\preethu\source\repos\Product_Managementmvc\Product_Managementmvc.MvcView\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\preethu\source\repos\Product_Managementmvc\Product_Managementmvc.MvcView\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\preethu\source\repos\Product_Managementmvc\Product_Managementmvc.MvcView\obj\Debug\net8.0\Product_Managementmvc.MvcView.sourcelink.json
+C:\Users\preethu\source\repos\Product_Managementmvc\Product_Managementmvc.MvcView\bin\Debug\net8.0\Product_Managementmvc.MvcView.staticwebassets.endpoints.json
+C:\Users\preethu\source\repos\Product_Managementmvc\Product_Managementmvc.MvcView\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\preethu\source\repos\Product_Managementmvc\Product_Managementmvc.MvcView\obj\Debug\net8.0\staticwebassets\msbuild.Product_Managementmvc.MvcView.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\preethu\source\repos\Product_Managementmvc\Product_Managementmvc.MvcView\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

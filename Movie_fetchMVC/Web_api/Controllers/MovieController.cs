@@ -1,6 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Service_layer;
-using System.Linq;
 
 namespace Web_api.Controllers
 {
@@ -13,9 +12,12 @@ namespace Web_api.Controllers
             _service = service;
         }
 
+
         public async Task<IActionResult> GetAll(string title = "", List<string> genre = null!, int page = 1, int pageSize = 10)
         {
             var movies = await _service.FetchMovieFromLocalJSONAsync();
+
+            var genresss = movies.SelectMany(m => m.genres!).Distinct().ToList();
 
             if (!string.IsNullOrEmpty(title))
             {
@@ -31,13 +33,13 @@ namespace Web_api.Controllers
 
             var pagedMovies = movies.Skip((page - 1) * pageSize).Take(pageSize).ToList();
 
-            var genresss = movies.SelectMany(m => m.genres!).Distinct().ToList(); 
+
 
             ViewData["CurrentPage"] = page;
             ViewData["TotalPages"] = totalPages;
             ViewData["TitleSearch"] = title;
-            
-            ViewData["Genres"] = genresss; 
+
+            ViewData["Genres"] = genresss;
             ViewData["SelectedGenre"] = genre ?? new List<string>();
 
 

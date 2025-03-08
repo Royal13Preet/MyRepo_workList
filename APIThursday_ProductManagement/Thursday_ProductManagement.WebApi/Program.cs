@@ -11,6 +11,12 @@ using Thursday_ProductManagement.WebApi;
 
 var builder = WebApplication.CreateBuilder(args);
 
+builder.WebHost.ConfigureKestrel(serverOptions =>
+{
+    serverOptions.ListenAnyIP(5033); // HTTP
+    serverOptions.ListenAnyIP(7208, listenOptions => listenOptions.UseHttps()); // HTTPS
+});
+
 IConfiguration configuration = builder.Configuration;
 
 builder.Services.AddDbContext<ProductDbContext>(options =>
@@ -21,12 +27,12 @@ builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
 builder.Services.AddScoped<IProductRepository, ProductRepository>();
 builder.Services.AddScoped(typeof(IProductManager), typeof(ProductManager));
 builder.Services.AddScoped(typeof(IProductService), typeof(ProductService));
-
+builder.Services.AddAutoMapper(typeof(Program));
 
 //// Add controllers and Swagger for API
 builder.Services.AddControllers();
 
-builder.Services.AddAutoMapper(typeof(Program));
+
 
 // Configure session management
 builder.Services.AddDistributedMemoryCache();
@@ -39,15 +45,15 @@ builder.Services.AddSession(options =>
 
 
 
-builder.Services.AddCors(options =>
-{
-    options.AddPolicy("AllowSpecificOrigin", policy =>
-    {
-        policy.WithOrigins("https://example.com")
-        .AllowAnyHeader()
-        .AllowAnyMethod();
-    });
-});
+//builder.Services.AddCors(options =>
+//{
+//    options.AddPolicy("AllowSpecificOrigin", policy =>
+//    {
+//        policy.WithOrigins("https://example.com")
+//        .AllowAnyHeader()
+//        .AllowAnyMethod();
+//    });
+//});
 
 
 // Add memory cache
@@ -64,11 +70,11 @@ builder.Services.AddEndpointsApiExplorer();
 // Add Basic Authentication
 builder.Services.AddAuthentication("Basic")
     .AddScheme<AuthenticationSchemeOptions, BasicAuthenticationHandler>("Basic", null);
-builder.Services.AddAuthorization(options =>
-{
-    options.AddPolicy("AdminPolicy", policy =>
+
+builder.Services.AddAuthorizationBuilder()
+    .AddPolicy("AdminPolicy", policy =>
         policy.RequireRole("Admin"));
-});
+
 
 // Configure Swagger with Basic Authentication
 builder.Services.AddSwaggerGen(c =>
@@ -99,6 +105,8 @@ builder.Services.AddSwaggerGen(c =>
 
 var app = builder.Build();
 
+
+app.UseCors(policy => policy.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader());
 // Enable Swagger UI in development
 if (app.Environment.IsDevelopment())
 {
@@ -122,3 +130,4 @@ app.Run();
 
 
 
+public partial class Program { }

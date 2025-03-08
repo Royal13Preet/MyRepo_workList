@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("secureuser.Manager")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2f600c73e90cbec1554ce5a38384972d4f16b03")]
 [assembly: System.Reflection.AssemblyProductAttribute("secureuser.Manager")]
 [assembly: System.Reflection.AssemblyTitleAttribute("secureuser.Manager")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

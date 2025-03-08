@@ -16,6 +16,6 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Secureuser.DataAccess
-build_property.ProjectDir = C:\Users\preethu\source\repos\Secureuser\Secureuser.DataAccess\
+build_property.ProjectDir = C:\Users\preethu\source\repos\APISecureuser_jwtauth\Secureuser.DataAccess\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

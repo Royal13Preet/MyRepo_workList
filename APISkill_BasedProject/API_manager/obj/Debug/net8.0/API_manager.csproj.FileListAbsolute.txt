@@ -1,0 +1,16 @@
+C:\Users\preethu\source\repos\APISkill_BasedProject\API_manager\bin\Debug\net8.0\API_manager.deps.json
+C:\Users\preethu\source\repos\APISkill_BasedProject\API_manager\bin\Debug\net8.0\API_manager.dll
+C:\Users\preethu\source\repos\APISkill_BasedProject\API_manager\bin\Debug\net8.0\API_manager.pdb
+C:\Users\preethu\source\repos\APISkill_BasedProject\API_manager\bin\Debug\net8.0\API_DataAccessLayer.dll
+C:\Users\preethu\source\repos\APISkill_BasedProject\API_manager\bin\Debug\net8.0\API_DataAccessLayer.pdb
+C:\Users\preethu\source\repos\APISkill_BasedProject\API_manager\obj\Debug\net8.0\API_manager.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\APISkill_BasedProject\API_manager\obj\Debug\net8.0\API_manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\preethu\source\repos\APISkill_BasedProject\API_manager\obj\Debug\net8.0\API_manager.AssemblyInfoInputs.cache
+C:\Users\preethu\source\repos\APISkill_BasedProject\API_manager\obj\Debug\net8.0\API_manager.AssemblyInfo.cs
+C:\Users\preethu\source\repos\APISkill_BasedProject\API_manager\obj\Debug\net8.0\API_manager.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\APISkill_BasedProject\API_manager\obj\Debug\net8.0\API_manager.sourcelink.json
+C:\Users\preethu\source\repos\APISkill_BasedProject\API_manager\obj\Debug\net8.0\API_mana.B797A6B1.Up2Date
+C:\Users\preethu\source\repos\APISkill_BasedProject\API_manager\obj\Debug\net8.0\API_manager.dll
+C:\Users\preethu\source\repos\APISkill_BasedProject\API_manager\obj\Debug\net8.0\refint\API_manager.dll
+C:\Users\preethu\source\repos\APISkill_BasedProject\API_manager\obj\Debug\net8.0\API_manager.pdb
+C:\Users\preethu\source\repos\APISkill_BasedProject\API_manager\obj\Debug\net8.0\ref\API_manager.dll

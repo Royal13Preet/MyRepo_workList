@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SfA8rz4d030=",
+  "dgSpecHash": "pdy9kFEEzkM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.WebApi\\Thursday_ProductManagement.WebApi.csproj",
+  "projectFilePath": "C:\\Users\\preethu\\source\\repos\\APIThursday_ProductManagement\\Thursday_ProductManagement.WebApi\\Thursday_ProductManagement.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\preethu\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\preethu\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",

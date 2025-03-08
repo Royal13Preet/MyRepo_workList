@@ -1,89 +1,109 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\preethu\\source\\repos\\Saturday_ManagingProducts\\",
+  "WorkspaceRootPath": "C:\\Users\\preethu\\source\\repos\\APISaturday_ManagingProducts\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B3994A2A-1943-4BEA-A264-605327611222}|Saturday_ManagingProducts.Service\\Saturday_ManagingProducts.Service.csproj|c:\\users\\preethu\\source\\repos\\saturday_managingproducts\\saturday_managingproducts.service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3994A2A-1943-4BEA-A264-605327611222}|Saturday_ManagingProducts.Service\\Saturday_ManagingProducts.Service.csproj|solutionrelative:saturday_managingproducts.service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B4955C7-07F3-42D9-B7F7-4AD5AC42D43B}|xUnitTesting\\xUnitTesting.IntegrationTesting.csproj|c:\\users\\preethu\\source\\repos\\apisaturday_managingproducts\\xunittesting\\properties\\managingtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B4955C7-07F3-42D9-B7F7-4AD5AC42D43B}|xUnitTesting\\xUnitTesting.IntegrationTesting.csproj|solutionrelative:xunittesting\\properties\\managingtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14CF0F40-1CAD-4CE9-8A11-A7ECE79BE30D}|Saturday_ManagingProducts.Manager\\Saturday_ManagingProducts.Manager.csproj|c:\\users\\preethu\\source\\repos\\saturday_managingproducts\\saturday_managingproducts.manager\\dtos\\productcreaterequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14CF0F40-1CAD-4CE9-8A11-A7ECE79BE30D}|Saturday_ManagingProducts.Manager\\Saturday_ManagingProducts.Manager.csproj|solutionrelative:saturday_managingproducts.manager\\dtos\\productcreaterequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E49210A3-2213-496F-9F98-64ED84E4142B}|Saturday_ManagingProducts\\Saturday_ManagingProducts.csproj|c:\\users\\preethu\\source\\repos\\saturday_managingproducts\\saturday_managingproducts\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E49210A3-2213-496F-9F98-64ED84E4142B}|Saturday_ManagingProducts\\Saturday_ManagingProducts.csproj|solutionrelative:saturday_managingproducts\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8159F78D-1CBB-4F25-A10D-9145BB16FDC5}|Saturday_ManagingProducts.DataAccess\\Saturday_ManagingProducts.DataAccess.csproj|c:\\users\\preethu\\source\\repos\\saturday_managingproducts\\saturday_managingproducts.dataaccess\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8159F78D-1CBB-4F25-A10D-9145BB16FDC5}|Saturday_ManagingProducts.DataAccess\\Saturday_ManagingProducts.DataAccess.csproj|solutionrelative:saturday_managingproducts.dataaccess\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E49210A3-2213-496F-9F98-64ED84E4142B}|Saturday_ManagingProducts\\Saturday_ManagingProducts.csproj|c:\\users\\preethu\\source\\repos\\saturday_managingproducts\\saturday_managingproducts\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E49210A3-2213-496F-9F98-64ED84E4142B}|Saturday_ManagingProducts\\Saturday_ManagingProducts.csproj|solutionrelative:saturday_managingproducts\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E49210A3-2213-496F-9F98-64ED84E4142B}|Saturday_ManagingProducts\\Saturday_ManagingProducts.csproj|c:\\users\\preethu\\source\\repos\\saturday_managingproducts\\saturday_managingproducts\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E49210A3-2213-496F-9F98-64ED84E4142B}|Saturday_ManagingProducts\\Saturday_ManagingProducts.csproj|solutionrelative:saturday_managingproducts\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E49210A3-2213-496F-9F98-64ED84E4142B}|Saturday_ManagingProducts\\Saturday_ManagingProducts.csproj|c:\\users\\preethu\\source\\repos\\saturday_managingproducts\\saturday_managingproducts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E49210A3-2213-496F-9F98-64ED84E4142B}|Saturday_ManagingProducts\\Saturday_ManagingProducts.csproj|solutionrelative:saturday_managingproducts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8159F78D-1CBB-4F25-A10D-9145BB16FDC5}|Saturday_ManagingProducts.DataAccess\\Saturday_ManagingProducts.DataAccess.csproj|c:\\users\\preethu\\source\\repos\\saturday_managingproducts\\saturday_managingproducts.dataaccess\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8159F78D-1CBB-4F25-A10D-9145BB16FDC5}|Saturday_ManagingProducts.DataAccess\\Saturday_ManagingProducts.DataAccess.csproj|solutionrelative:saturday_managingproducts.dataaccess\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14CF0F40-1CAD-4CE9-8A11-A7ECE79BE30D}|Saturday_ManagingProducts.Manager\\Saturday_ManagingProducts.Manager.csproj|c:\\users\\preethu\\source\\repos\\saturday_managingproducts\\saturday_managingproducts.manager\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14CF0F40-1CAD-4CE9-8A11-A7ECE79BE30D}|Saturday_ManagingProducts.Manager\\Saturday_ManagingProducts.Manager.csproj|solutionrelative:saturday_managingproducts.manager\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3994A2A-1943-4BEA-A264-605327611222}|Saturday_ManagingProducts.Service\\Saturday_ManagingProducts.Service.csproj|c:\\users\\preethu\\source\\repos\\saturday_managingproducts\\saturday_managingproducts.service\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3994A2A-1943-4BEA-A264-605327611222}|Saturday_ManagingProducts.Service\\Saturday_ManagingProducts.Service.csproj|solutionrelative:saturday_managingproducts.service\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14CF0F40-1CAD-4CE9-8A11-A7ECE79BE30D}|Saturday_ManagingProducts.Manager\\Saturday_ManagingProducts.Manager.csproj|c:\\users\\preethu\\source\\repos\\saturday_managingproducts\\saturday_managingproducts.manager\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14CF0F40-1CAD-4CE9-8A11-A7ECE79BE30D}|Saturday_ManagingProducts.Manager\\Saturday_ManagingProducts.Manager.csproj|solutionrelative:saturday_managingproducts.manager\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14CF0F40-1CAD-4CE9-8A11-A7ECE79BE30D}|Saturday_ManagingProducts.Manager\\Saturday_ManagingProducts.Manager.csproj|c:\\users\\preethu\\source\\repos\\saturday_managingproducts\\saturday_managingproducts.manager\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14CF0F40-1CAD-4CE9-8A11-A7ECE79BE30D}|Saturday_ManagingProducts.Manager\\Saturday_ManagingProducts.Manager.csproj|solutionrelative:saturday_managingproducts.manager\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8159F78D-1CBB-4F25-A10D-9145BB16FDC5}|Saturday_ManagingProducts.DataAccess\\Saturday_ManagingProducts.DataAccess.csproj|c:\\users\\preethu\\source\\repos\\saturday_managingproducts\\saturday_managingproducts.dataaccess\\dbmodel\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8159F78D-1CBB-4F25-A10D-9145BB16FDC5}|Saturday_ManagingProducts.DataAccess\\Saturday_ManagingProducts.DataAccess.csproj|solutionrelative:saturday_managingproducts.dataaccess\\dbmodel\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8159F78D-1CBB-4F25-A10D-9145BB16FDC5}|Saturday_ManagingProducts.DataAccess\\Saturday_ManagingProducts.DataAccess.csproj|c:\\users\\preethu\\source\\repos\\saturday_managingproducts\\saturday_managingproducts.dataaccess\\dbmodel\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8159F78D-1CBB-4F25-A10D-9145BB16FDC5}|Saturday_ManagingProducts.DataAccess\\Saturday_ManagingProducts.DataAccess.csproj|solutionrelative:saturday_managingproducts.dataaccess\\dbmodel\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8159F78D-1CBB-4F25-A10D-9145BB16FDC5}|Saturday_ManagingProducts.DataAccess\\Saturday_ManagingProducts.DataAccess.csproj|c:\\users\\preethu\\source\\repos\\saturday_managingproducts\\saturday_managingproducts.dataaccess\\dbmodel\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8159F78D-1CBB-4F25-A10D-9145BB16FDC5}|Saturday_ManagingProducts.DataAccess\\Saturday_ManagingProducts.DataAccess.csproj|c:\\users\\preethu\\source\\repos\\apisaturday_managingproducts\\saturday_managingproducts.dataaccess\\dbmodel\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8159F78D-1CBB-4F25-A10D-9145BB16FDC5}|Saturday_ManagingProducts.DataAccess\\Saturday_ManagingProducts.DataAccess.csproj|solutionrelative:saturday_managingproducts.dataaccess\\dbmodel\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8159F78D-1CBB-4F25-A10D-9145BB16FDC5}|Saturday_ManagingProducts.DataAccess\\Saturday_ManagingProducts.DataAccess.csproj|c:\\users\\preethu\\source\\repos\\saturday_managingproducts\\saturday_managingproducts.dataaccess\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8159F78D-1CBB-4F25-A10D-9145BB16FDC5}|Saturday_ManagingProducts.DataAccess\\Saturday_ManagingProducts.DataAccess.csproj|solutionrelative:saturday_managingproducts.dataaccess\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8159F78D-1CBB-4F25-A10D-9145BB16FDC5}|Saturday_ManagingProducts.DataAccess\\Saturday_ManagingProducts.DataAccess.csproj|c:\\users\\preethu\\source\\repos\\apisaturday_managingproducts\\saturday_managingproducts.dataaccess\\dbmodel\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8159F78D-1CBB-4F25-A10D-9145BB16FDC5}|Saturday_ManagingProducts.DataAccess\\Saturday_ManagingProducts.DataAccess.csproj|solutionrelative:saturday_managingproducts.dataaccess\\dbmodel\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E49210A3-2213-496F-9F98-64ED84E4142B}|Saturday_ManagingProducts\\Saturday_ManagingProducts.csproj|c:\\users\\preethu\\source\\repos\\saturday_managingproducts\\saturday_managingproducts\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E49210A3-2213-496F-9F98-64ED84E4142B}|Saturday_ManagingProducts\\Saturday_ManagingProducts.csproj|solutionrelative:saturday_managingproducts\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8159F78D-1CBB-4F25-A10D-9145BB16FDC5}|Saturday_ManagingProducts.DataAccess\\Saturday_ManagingProducts.DataAccess.csproj|c:\\users\\preethu\\source\\repos\\apisaturday_managingproducts\\saturday_managingproducts.dataaccess\\dbmodel\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8159F78D-1CBB-4F25-A10D-9145BB16FDC5}|Saturday_ManagingProducts.DataAccess\\Saturday_ManagingProducts.DataAccess.csproj|solutionrelative:saturday_managingproducts.dataaccess\\dbmodel\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E49210A3-2213-496F-9F98-64ED84E4142B}|Saturday_ManagingProducts\\Saturday_ManagingProducts.csproj|c:\\users\\preethu\\source\\repos\\saturday_managingproducts\\saturday_managingproducts\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E49210A3-2213-496F-9F98-64ED84E4142B}|Saturday_ManagingProducts\\Saturday_ManagingProducts.csproj|c:\\users\\preethu\\source\\repos\\apisaturday_managingproducts\\saturday_managingproducts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49210A3-2213-496F-9F98-64ED84E4142B}|Saturday_ManagingProducts\\Saturday_ManagingProducts.csproj|solutionrelative:saturday_managingproducts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49210A3-2213-496F-9F98-64ED84E4142B}|Saturday_ManagingProducts\\Saturday_ManagingProducts.csproj|c:\\users\\preethu\\source\\repos\\apisaturday_managingproducts\\saturday_managingproducts\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49210A3-2213-496F-9F98-64ED84E4142B}|Saturday_ManagingProducts\\Saturday_ManagingProducts.csproj|solutionrelative:saturday_managingproducts\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49210A3-2213-496F-9F98-64ED84E4142B}|Saturday_ManagingProducts\\Saturday_ManagingProducts.csproj|c:\\users\\preethu\\source\\repos\\apisaturday_managingproducts\\saturday_managingproducts\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E49210A3-2213-496F-9F98-64ED84E4142B}|Saturday_ManagingProducts\\Saturday_ManagingProducts.csproj|solutionrelative:saturday_managingproducts\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14CF0F40-1CAD-4CE9-8A11-A7ECE79BE30D}|Saturday_ManagingProducts.Manager\\Saturday_ManagingProducts.Manager.csproj|c:\\users\\preethu\\source\\repos\\saturday_managingproducts\\saturday_managingproducts.manager\\iproductmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E49210A3-2213-496F-9F98-64ED84E4142B}|Saturday_ManagingProducts\\Saturday_ManagingProducts.csproj|c:\\users\\preethu\\source\\repos\\apisaturday_managingproducts\\saturday_managingproducts\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49210A3-2213-496F-9F98-64ED84E4142B}|Saturday_ManagingProducts\\Saturday_ManagingProducts.csproj|solutionrelative:saturday_managingproducts\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3994A2A-1943-4BEA-A264-605327611222}|Saturday_ManagingProducts.Service\\Saturday_ManagingProducts.Service.csproj|c:\\users\\preethu\\source\\repos\\apisaturday_managingproducts\\saturday_managingproducts.service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3994A2A-1943-4BEA-A264-605327611222}|Saturday_ManagingProducts.Service\\Saturday_ManagingProducts.Service.csproj|solutionrelative:saturday_managingproducts.service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3994A2A-1943-4BEA-A264-605327611222}|Saturday_ManagingProducts.Service\\Saturday_ManagingProducts.Service.csproj|c:\\users\\preethu\\source\\repos\\apisaturday_managingproducts\\saturday_managingproducts.service\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3994A2A-1943-4BEA-A264-605327611222}|Saturday_ManagingProducts.Service\\Saturday_ManagingProducts.Service.csproj|solutionrelative:saturday_managingproducts.service\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B4955C7-07F3-42D9-B7F7-4AD5AC42D43B}|xUnitTesting\\xUnitTesting.IntegrationTesting.csproj|c:\\users\\preethu\\source\\repos\\apisaturday_managingproducts\\xunittesting\\test.runsettings||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4B4955C7-07F3-42D9-B7F7-4AD5AC42D43B}|xUnitTesting\\xUnitTesting.IntegrationTesting.csproj|solutionrelative:xunittesting\\test.runsettings||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B4955C7-07F3-42D9-B7F7-4AD5AC42D43B}|xUnitTesting\\xUnitTesting.IntegrationTesting.csproj|c:\\users\\preethu\\source\\repos\\apisaturday_managingproducts\\xunittesting\\xunittesting.integrationtesting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4B4955C7-07F3-42D9-B7F7-4AD5AC42D43B}|xUnitTesting\\xUnitTesting.IntegrationTesting.csproj|solutionrelative:xunittesting\\xunittesting.integrationtesting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B4955C7-07F3-42D9-B7F7-4AD5AC42D43B}|xUnitTesting\\xUnitTesting.IntegrationTesting.csproj|c:\\users\\preethu\\source\\repos\\apisaturday_managingproducts\\xunittesting\\xunit.runner.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4B4955C7-07F3-42D9-B7F7-4AD5AC42D43B}|xUnitTesting\\xUnitTesting.IntegrationTesting.csproj|solutionrelative:xunittesting\\xunit.runner.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B4955C7-07F3-42D9-B7F7-4AD5AC42D43B}|xUnitTesting\\xUnitTesting.IntegrationTesting.csproj|c:\\users\\preethu\\source\\repos\\apisaturday_managingproducts\\xunittesting\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4B4955C7-07F3-42D9-B7F7-4AD5AC42D43B}|xUnitTesting\\xUnitTesting.IntegrationTesting.csproj|solutionrelative:xunittesting\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8159F78D-1CBB-4F25-A10D-9145BB16FDC5}|Saturday_ManagingProducts.DataAccess\\Saturday_ManagingProducts.DataAccess.csproj|c:\\users\\preethu\\source\\repos\\apisaturday_managingproducts\\saturday_managingproducts.dataaccess\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8159F78D-1CBB-4F25-A10D-9145BB16FDC5}|Saturday_ManagingProducts.DataAccess\\Saturday_ManagingProducts.DataAccess.csproj|solutionrelative:saturday_managingproducts.dataaccess\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14CF0F40-1CAD-4CE9-8A11-A7ECE79BE30D}|Saturday_ManagingProducts.Manager\\Saturday_ManagingProducts.Manager.csproj|c:\\users\\preethu\\source\\repos\\apisaturday_managingproducts\\saturday_managingproducts.manager\\iproductmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14CF0F40-1CAD-4CE9-8A11-A7ECE79BE30D}|Saturday_ManagingProducts.Manager\\Saturday_ManagingProducts.Manager.csproj|solutionrelative:saturday_managingproducts.manager\\iproductmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E49210A3-2213-496F-9F98-64ED84E4142B}|Saturday_ManagingProducts\\Saturday_ManagingProducts.csproj|c:\\users\\preethu\\source\\repos\\saturday_managingproducts\\saturday_managingproducts\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{14CF0F40-1CAD-4CE9-8A11-A7ECE79BE30D}|Saturday_ManagingProducts.Manager\\Saturday_ManagingProducts.Manager.csproj|c:\\users\\preethu\\source\\repos\\apisaturday_managingproducts\\saturday_managingproducts.manager\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14CF0F40-1CAD-4CE9-8A11-A7ECE79BE30D}|Saturday_ManagingProducts.Manager\\Saturday_ManagingProducts.Manager.csproj|solutionrelative:saturday_managingproducts.manager\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14CF0F40-1CAD-4CE9-8A11-A7ECE79BE30D}|Saturday_ManagingProducts.Manager\\Saturday_ManagingProducts.Manager.csproj|c:\\users\\preethu\\source\\repos\\apisaturday_managingproducts\\saturday_managingproducts.manager\\dtos\\productcreaterequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14CF0F40-1CAD-4CE9-8A11-A7ECE79BE30D}|Saturday_ManagingProducts.Manager\\Saturday_ManagingProducts.Manager.csproj|solutionrelative:saturday_managingproducts.manager\\dtos\\productcreaterequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49210A3-2213-496F-9F98-64ED84E4142B}|Saturday_ManagingProducts\\Saturday_ManagingProducts.csproj|c:\\users\\preethu\\source\\repos\\apisaturday_managingproducts\\saturday_managingproducts\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E49210A3-2213-496F-9F98-64ED84E4142B}|Saturday_ManagingProducts\\Saturday_ManagingProducts.csproj|solutionrelative:saturday_managingproducts\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49210A3-2213-496F-9F98-64ED84E4142B}|Saturday_ManagingProducts\\Saturday_ManagingProducts.csproj|c:\\users\\preethu\\source\\repos\\apisaturday_managingproducts\\saturday_managingproducts\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E49210A3-2213-496F-9F98-64ED84E4142B}|Saturday_ManagingProducts\\Saturday_ManagingProducts.csproj|solutionrelative:saturday_managingproducts\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8159F78D-1CBB-4F25-A10D-9145BB16FDC5}|Saturday_ManagingProducts.DataAccess\\Saturday_ManagingProducts.DataAccess.csproj|c:\\users\\preethu\\source\\repos\\apisaturday_managingproducts\\saturday_managingproducts.dataaccess\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8159F78D-1CBB-4F25-A10D-9145BB16FDC5}|Saturday_ManagingProducts.DataAccess\\Saturday_ManagingProducts.DataAccess.csproj|solutionrelative:saturday_managingproducts.dataaccess\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14CF0F40-1CAD-4CE9-8A11-A7ECE79BE30D}|Saturday_ManagingProducts.Manager\\Saturday_ManagingProducts.Manager.csproj|c:\\users\\preethu\\source\\repos\\apisaturday_managingproducts\\saturday_managingproducts.manager\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14CF0F40-1CAD-4CE9-8A11-A7ECE79BE30D}|Saturday_ManagingProducts.Manager\\Saturday_ManagingProducts.Manager.csproj|solutionrelative:saturday_managingproducts.manager\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14CF0F40-1CAD-4CE9-8A11-A7ECE79BE30D}|Saturday_ManagingProducts.Manager\\Saturday_ManagingProducts.Manager.csproj|c:\\users\\preethu\\source\\repos\\apisaturday_managingproducts\\saturday_managingproducts.manager\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14CF0F40-1CAD-4CE9-8A11-A7ECE79BE30D}|Saturday_ManagingProducts.Manager\\Saturday_ManagingProducts.Manager.csproj|solutionrelative:saturday_managingproducts.manager\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8159F78D-1CBB-4F25-A10D-9145BB16FDC5}|Saturday_ManagingProducts.DataAccess\\Saturday_ManagingProducts.DataAccess.csproj|c:\\users\\preethu\\source\\repos\\apisaturday_managingproducts\\saturday_managingproducts.dataaccess\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8159F78D-1CBB-4F25-A10D-9145BB16FDC5}|Saturday_ManagingProducts.DataAccess\\Saturday_ManagingProducts.DataAccess.csproj|solutionrelative:saturday_managingproducts.dataaccess\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49210A3-2213-496F-9F98-64ED84E4142B}|Saturday_ManagingProducts\\Saturday_ManagingProducts.csproj|c:\\users\\preethu\\source\\repos\\apisaturday_managingproducts\\saturday_managingproducts\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E49210A3-2213-496F-9F98-64ED84E4142B}|Saturday_ManagingProducts\\Saturday_ManagingProducts.csproj|solutionrelative:saturday_managingproducts\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8159F78D-1CBB-4F25-A10D-9145BB16FDC5}|Saturday_ManagingProducts.DataAccess\\Saturday_ManagingProducts.DataAccess.csproj|c:\\users\\preethu\\source\\repos\\saturday_managingproducts\\saturday_managingproducts.dataaccess\\migrations\\20250201073506_intial_one.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8159F78D-1CBB-4F25-A10D-9145BB16FDC5}|Saturday_ManagingProducts.DataAccess\\Saturday_ManagingProducts.DataAccess.csproj|c:\\users\\preethu\\source\\repos\\apisaturday_managingproducts\\saturday_managingproducts.dataaccess\\migrations\\20250201073506_intial_one.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8159F78D-1CBB-4F25-A10D-9145BB16FDC5}|Saturday_ManagingProducts.DataAccess\\Saturday_ManagingProducts.DataAccess.csproj|solutionrelative:saturday_managingproducts.dataaccess\\migrations\\20250201073506_intial_one.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -94,188 +114,58 @@
       "DocumentGroups": [
         {
           "DockedHeight": 215,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APISaturday_ManagingProducts\\Saturday_ManagingProducts.DataAccess\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Saturday_ManagingProducts.DataAccess\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APISaturday_ManagingProducts\\Saturday_ManagingProducts.DataAccess\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Saturday_ManagingProducts.DataAccess\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T09:49:03.533Z",
+              "IsPinned": true
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Saturday_ManagingProducts\\Saturday_ManagingProducts.DataAccess\\Repositories\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "Saturday_ManagingProducts.DataAccess\\Repositories\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Saturday_ManagingProducts\\Saturday_ManagingProducts.DataAccess\\Repositories\\ProductRepository.cs",
-              "RelativeToolTip": "Saturday_ManagingProducts.DataAccess\\Repositories\\ProductRepository.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T09:49:03.533Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Saturday_ManagingProducts\\Saturday_ManagingProducts.Service\\ProductService.cs",
-              "RelativeDocumentMoniker": "Saturday_ManagingProducts.Service\\ProductService.cs",
-              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Saturday_ManagingProducts\\Saturday_ManagingProducts.Service\\ProductService.cs",
-              "RelativeToolTip": "Saturday_ManagingProducts.Service\\ProductService.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T08:08:52.795Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Saturday_ManagingProducts\\Saturday_ManagingProducts\\Controllers\\ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APISaturday_ManagingProducts\\Saturday_ManagingProducts\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Saturday_ManagingProducts\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Saturday_ManagingProducts\\Saturday_ManagingProducts\\Controllers\\ProductController.cs*",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APISaturday_ManagingProducts\\Saturday_ManagingProducts\\Controllers\\ProductController.cs*",
               "RelativeToolTip": "Saturday_ManagingProducts\\Controllers\\ProductController.cs*",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-01T07:43:40.49Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Saturday_ManagingProducts\\Saturday_ManagingProducts\\appsettings.json",
-              "RelativeDocumentMoniker": "Saturday_ManagingProducts\\appsettings.json",
-              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Saturday_ManagingProducts\\Saturday_ManagingProducts\\appsettings.json",
-              "RelativeToolTip": "Saturday_ManagingProducts\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-01T05:57:15.902Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Saturday_ManagingProducts\\Saturday_ManagingProducts\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "Saturday_ManagingProducts\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Saturday_ManagingProducts\\Saturday_ManagingProducts\\appsettings.Development.json",
-              "RelativeToolTip": "Saturday_ManagingProducts\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-01T07:28:43.976Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductCreateRequestDto.cs",
-              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Saturday_ManagingProducts\\Saturday_ManagingProducts.Manager\\Dtos\\ProductCreateRequestDto.cs",
-              "RelativeDocumentMoniker": "Saturday_ManagingProducts.Manager\\Dtos\\ProductCreateRequestDto.cs",
-              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Saturday_ManagingProducts\\Saturday_ManagingProducts.Manager\\Dtos\\ProductCreateRequestDto.cs",
-              "RelativeToolTip": "Saturday_ManagingProducts.Manager\\Dtos\\ProductCreateRequestDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T08:46:20.812Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Saturday_ManagingProducts\\Saturday_ManagingProducts\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APISaturday_ManagingProducts\\Saturday_ManagingProducts\\Program.cs",
               "RelativeDocumentMoniker": "Saturday_ManagingProducts\\Program.cs",
-              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Saturday_ManagingProducts\\Saturday_ManagingProducts\\Program.cs",
-              "RelativeToolTip": "Saturday_ManagingProducts\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAkAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APISaturday_ManagingProducts\\Saturday_ManagingProducts\\Program.cs*",
+              "RelativeToolTip": "Saturday_ManagingProducts\\Program.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-01T06:30:17.633Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Saturday_ManagingProducts\\Saturday_ManagingProducts.DataAccess\\Repositories\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "Saturday_ManagingProducts.DataAccess\\Repositories\\IProductRepository.cs",
-              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Saturday_ManagingProducts\\Saturday_ManagingProducts.DataAccess\\Repositories\\IProductRepository.cs",
-              "RelativeToolTip": "Saturday_ManagingProducts.DataAccess\\Repositories\\IProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T09:49:01.759Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ProductDto.cs",
-              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Saturday_ManagingProducts\\Saturday_ManagingProducts.Manager\\Dtos\\ProductDto.cs",
-              "RelativeDocumentMoniker": "Saturday_ManagingProducts.Manager\\Dtos\\ProductDto.cs",
-              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Saturday_ManagingProducts\\Saturday_ManagingProducts.Manager\\Dtos\\ProductDto.cs",
-              "RelativeToolTip": "Saturday_ManagingProducts.Manager\\Dtos\\ProductDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T08:13:28.652Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Saturday_ManagingProducts\\Saturday_ManagingProducts.Service\\IProductService.cs",
-              "RelativeDocumentMoniker": "Saturday_ManagingProducts.Service\\IProductService.cs",
-              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Saturday_ManagingProducts\\Saturday_ManagingProducts.Service\\IProductService.cs",
-              "RelativeToolTip": "Saturday_ManagingProducts.Service\\IProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T09:51:35.345Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ProductManager.cs",
-              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Saturday_ManagingProducts\\Saturday_ManagingProducts.Manager\\ProductManager.cs",
-              "RelativeDocumentMoniker": "Saturday_ManagingProducts.Manager\\ProductManager.cs",
-              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Saturday_ManagingProducts\\Saturday_ManagingProducts.Manager\\ProductManager.cs",
-              "RelativeToolTip": "Saturday_ManagingProducts.Manager\\ProductManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T10:39:15.278Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CategoryDto.cs",
-              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Saturday_ManagingProducts\\Saturday_ManagingProducts.Manager\\Dtos\\CategoryDto.cs",
-              "RelativeDocumentMoniker": "Saturday_ManagingProducts.Manager\\Dtos\\CategoryDto.cs",
-              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Saturday_ManagingProducts\\Saturday_ManagingProducts.Manager\\Dtos\\CategoryDto.cs",
-              "RelativeToolTip": "Saturday_ManagingProducts.Manager\\Dtos\\CategoryDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T08:55:22.713Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Saturday_ManagingProducts\\Saturday_ManagingProducts.DataAccess\\DBModel\\Category.cs",
-              "RelativeDocumentMoniker": "Saturday_ManagingProducts.DataAccess\\DBModel\\Category.cs",
-              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Saturday_ManagingProducts\\Saturday_ManagingProducts.DataAccess\\DBModel\\Category.cs",
-              "RelativeToolTip": "Saturday_ManagingProducts.DataAccess\\DBModel\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T07:35:39.137Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 3,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Saturday_ManagingProducts\\Saturday_ManagingProducts.DataAccess\\DBModel\\Product.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APISaturday_ManagingProducts\\Saturday_ManagingProducts.DataAccess\\DBModel\\Product.cs",
               "RelativeDocumentMoniker": "Saturday_ManagingProducts.DataAccess\\DBModel\\Product.cs",
-              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Saturday_ManagingProducts\\Saturday_ManagingProducts.DataAccess\\DBModel\\Product.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APISaturday_ManagingProducts\\Saturday_ManagingProducts.DataAccess\\DBModel\\Product.cs",
               "RelativeToolTip": "Saturday_ManagingProducts.DataAccess\\DBModel\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -284,61 +174,149 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APISaturday_ManagingProducts\\Saturday_ManagingProducts.DataAccess\\DBModel\\Category.cs",
+              "RelativeDocumentMoniker": "Saturday_ManagingProducts.DataAccess\\DBModel\\Category.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APISaturday_ManagingProducts\\Saturday_ManagingProducts.DataAccess\\DBModel\\Category.cs",
+              "RelativeToolTip": "Saturday_ManagingProducts.DataAccess\\DBModel\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T07:35:39.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ProductCategory.cs",
-              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Saturday_ManagingProducts\\Saturday_ManagingProducts.DataAccess\\DBModel\\ProductCategory.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APISaturday_ManagingProducts\\Saturday_ManagingProducts.DataAccess\\DBModel\\ProductCategory.cs",
               "RelativeDocumentMoniker": "Saturday_ManagingProducts.DataAccess\\DBModel\\ProductCategory.cs",
-              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Saturday_ManagingProducts\\Saturday_ManagingProducts.DataAccess\\DBModel\\ProductCategory.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APISaturday_ManagingProducts\\Saturday_ManagingProducts.DataAccess\\DBModel\\ProductCategory.cs",
               "RelativeToolTip": "Saturday_ManagingProducts.DataAccess\\DBModel\\ProductCategory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-01T09:55:00.211Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "AppDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Saturday_ManagingProducts\\Saturday_ManagingProducts.DataAccess\\AppDBContext.cs",
-              "RelativeDocumentMoniker": "Saturday_ManagingProducts.DataAccess\\AppDBContext.cs",
-              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Saturday_ManagingProducts\\Saturday_ManagingProducts.DataAccess\\AppDBContext.cs",
-              "RelativeToolTip": "Saturday_ManagingProducts.DataAccess\\AppDBContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ManagingTest.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APISaturday_ManagingProducts\\xUnitTesting\\Properties\\ManagingTest.cs",
+              "RelativeDocumentMoniker": "xUnitTesting\\Properties\\ManagingTest.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APISaturday_ManagingProducts\\xUnitTesting\\Properties\\ManagingTest.cs",
+              "RelativeToolTip": "xUnitTesting\\Properties\\ManagingTest.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA6wBQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T08:54:54.487Z",
+              "WhenOpened": "2025-02-27T08:43:13.636Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "LoggingMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Saturday_ManagingProducts\\Saturday_ManagingProducts\\LoggingMiddleware.cs",
-              "RelativeDocumentMoniker": "Saturday_ManagingProducts\\LoggingMiddleware.cs",
-              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Saturday_ManagingProducts\\Saturday_ManagingProducts\\LoggingMiddleware.cs",
-              "RelativeToolTip": "Saturday_ManagingProducts\\LoggingMiddleware.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APISaturday_ManagingProducts\\Saturday_ManagingProducts\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Saturday_ManagingProducts\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APISaturday_ManagingProducts\\Saturday_ManagingProducts\\Controllers\\WeatherForecastController.cs*",
+              "RelativeToolTip": "Saturday_ManagingProducts\\Controllers\\WeatherForecastController.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wB0AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T09:11:47.621Z"
+              "WhenOpened": "2025-02-01T09:13:53.82Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Saturday_ManagingProducts\\Saturday_ManagingProducts\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "Saturday_ManagingProducts\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Saturday_ManagingProducts\\Saturday_ManagingProducts\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "Saturday_ManagingProducts\\Controllers\\WeatherForecastController.cs",
+              "DocumentIndex": 7,
+              "Title": "LoggingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APISaturday_ManagingProducts\\Saturday_ManagingProducts\\LoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "Saturday_ManagingProducts\\LoggingMiddleware.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APISaturday_ManagingProducts\\Saturday_ManagingProducts\\LoggingMiddleware.cs*",
+              "RelativeToolTip": "Saturday_ManagingProducts\\LoggingMiddleware.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T09:11:47.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APISaturday_ManagingProducts\\Saturday_ManagingProducts.Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "Saturday_ManagingProducts.Service\\ProductService.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APISaturday_ManagingProducts\\Saturday_ManagingProducts.Service\\ProductService.cs",
+              "RelativeToolTip": "Saturday_ManagingProducts.Service\\ProductService.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwDgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T04:20:45.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "xunit.runner.json",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APISaturday_ManagingProducts\\xUnitTesting\\xunit.runner.json",
+              "RelativeDocumentMoniker": "xUnitTesting\\xunit.runner.json",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APISaturday_ManagingProducts\\xUnitTesting\\xunit.runner.json",
+              "RelativeToolTip": "xUnitTesting\\xunit.runner.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-27T05:06:13.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APISaturday_ManagingProducts\\Saturday_ManagingProducts.Service\\IProductService.cs",
+              "RelativeDocumentMoniker": "Saturday_ManagingProducts.Service\\IProductService.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APISaturday_ManagingProducts\\Saturday_ManagingProducts.Service\\IProductService.cs",
+              "RelativeToolTip": "Saturday_ManagingProducts.Service\\IProductService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T09:13:53.82Z"
+              "WhenOpened": "2025-02-28T04:20:44.493Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 11,
+              "Title": "xUnitTesting.IntegrationTesting.csproj",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APISaturday_ManagingProducts\\xUnitTesting\\xUnitTesting.IntegrationTesting.csproj",
+              "RelativeDocumentMoniker": "xUnitTesting\\xUnitTesting.IntegrationTesting.csproj",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APISaturday_ManagingProducts\\xUnitTesting\\xUnitTesting.IntegrationTesting.csproj",
+              "RelativeToolTip": "xUnitTesting\\xUnitTesting.IntegrationTesting.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-27T08:55:08.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APISaturday_ManagingProducts\\xUnitTesting\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "xUnitTesting\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APISaturday_ManagingProducts\\xUnitTesting\\Properties\\launchSettings.json",
+              "RelativeToolTip": "xUnitTesting\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-27T09:03:59.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "test.runsettings",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APISaturday_ManagingProducts\\xUnitTesting\\test.runsettings",
+              "RelativeDocumentMoniker": "xUnitTesting\\test.runsettings",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APISaturday_ManagingProducts\\xUnitTesting\\test.runsettings",
+              "RelativeToolTip": "xUnitTesting\\test.runsettings",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-27T12:08:33.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "IProductManager.cs",
-              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Saturday_ManagingProducts\\Saturday_ManagingProducts.Manager\\IProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APISaturday_ManagingProducts\\Saturday_ManagingProducts.Manager\\IProductManager.cs",
               "RelativeDocumentMoniker": "Saturday_ManagingProducts.Manager\\IProductManager.cs",
-              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Saturday_ManagingProducts\\Saturday_ManagingProducts.Manager\\IProductManager.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APISaturday_ManagingProducts\\Saturday_ManagingProducts.Manager\\IProductManager.cs",
               "RelativeToolTip": "Saturday_ManagingProducts.Manager\\IProductManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -346,11 +324,107 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APISaturday_ManagingProducts\\Saturday_ManagingProducts.Manager\\ProductManager.cs",
+              "RelativeDocumentMoniker": "Saturday_ManagingProducts.Manager\\ProductManager.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APISaturday_ManagingProducts\\Saturday_ManagingProducts.Manager\\ProductManager.cs",
+              "RelativeToolTip": "Saturday_ManagingProducts.Manager\\ProductManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T10:39:15.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductCreateRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APISaturday_ManagingProducts\\Saturday_ManagingProducts.Manager\\Dtos\\ProductCreateRequestDto.cs",
+              "RelativeDocumentMoniker": "Saturday_ManagingProducts.Manager\\Dtos\\ProductCreateRequestDto.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APISaturday_ManagingProducts\\Saturday_ManagingProducts.Manager\\Dtos\\ProductCreateRequestDto.cs",
+              "RelativeToolTip": "Saturday_ManagingProducts.Manager\\Dtos\\ProductCreateRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T08:46:20.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APISaturday_ManagingProducts\\Saturday_ManagingProducts\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Saturday_ManagingProducts\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APISaturday_ManagingProducts\\Saturday_ManagingProducts\\appsettings.Development.json",
+              "RelativeToolTip": "Saturday_ManagingProducts\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-01T07:28:43.976Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APISaturday_ManagingProducts\\Saturday_ManagingProducts\\appsettings.json",
+              "RelativeDocumentMoniker": "Saturday_ManagingProducts\\appsettings.json",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APISaturday_ManagingProducts\\Saturday_ManagingProducts\\appsettings.json",
+              "RelativeToolTip": "Saturday_ManagingProducts\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-01T05:57:15.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APISaturday_ManagingProducts\\Saturday_ManagingProducts.DataAccess\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Saturday_ManagingProducts.DataAccess\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APISaturday_ManagingProducts\\Saturday_ManagingProducts.DataAccess\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "Saturday_ManagingProducts.DataAccess\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T09:49:01.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APISaturday_ManagingProducts\\Saturday_ManagingProducts.Manager\\Dtos\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Saturday_ManagingProducts.Manager\\Dtos\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APISaturday_ManagingProducts\\Saturday_ManagingProducts.Manager\\Dtos\\ProductDto.cs",
+              "RelativeToolTip": "Saturday_ManagingProducts.Manager\\Dtos\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T08:13:28.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APISaturday_ManagingProducts\\Saturday_ManagingProducts.Manager\\Dtos\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "Saturday_ManagingProducts.Manager\\Dtos\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APISaturday_ManagingProducts\\Saturday_ManagingProducts.Manager\\Dtos\\CategoryDto.cs",
+              "RelativeToolTip": "Saturday_ManagingProducts.Manager\\Dtos\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T08:55:22.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APISaturday_ManagingProducts\\Saturday_ManagingProducts.DataAccess\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "Saturday_ManagingProducts.DataAccess\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APISaturday_ManagingProducts\\Saturday_ManagingProducts.DataAccess\\AppDBContext.cs",
+              "RelativeToolTip": "Saturday_ManagingProducts.DataAccess\\AppDBContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAABQwBwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T08:54:54.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Saturday_ManagingProducts\\Saturday_ManagingProducts\\WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APISaturday_ManagingProducts\\Saturday_ManagingProducts\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "Saturday_ManagingProducts\\WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Saturday_ManagingProducts\\Saturday_ManagingProducts\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APISaturday_ManagingProducts\\Saturday_ManagingProducts\\WeatherForecast.cs",
               "RelativeToolTip": "Saturday_ManagingProducts\\WeatherForecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -358,13 +432,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "20250201073506_Intial_one.cs",
-              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Saturday_ManagingProducts\\Saturday_ManagingProducts.DataAccess\\Migrations\\20250201073506_Intial_one.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\APISaturday_ManagingProducts\\Saturday_ManagingProducts.DataAccess\\Migrations\\20250201073506_Intial_one.cs",
               "RelativeDocumentMoniker": "Saturday_ManagingProducts.DataAccess\\Migrations\\20250201073506_Intial_one.cs",
-              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Saturday_ManagingProducts\\Saturday_ManagingProducts.DataAccess\\Migrations\\20250201073506_Intial_one.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\APISaturday_ManagingProducts\\Saturday_ManagingProducts.DataAccess\\Migrations\\20250201073506_Intial_one.cs",
               "RelativeToolTip": "Saturday_ManagingProducts.DataAccess\\Migrations\\20250201073506_Intial_one.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-01T07:35:07.082Z"
             }

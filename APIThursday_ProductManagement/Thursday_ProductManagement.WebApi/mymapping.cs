@@ -4,9 +4,9 @@ using Thursday_ProductManagement.Managers.DTO;
 
 namespace Thursday_ProductManagement.WebApi
 {
-    public class mymapping : Profile
+    public class Mymapping : Profile
     {
-        public mymapping() {
+        public Mymapping() {
             CreateMap<Product, ProductDto>().ReverseMap();
         }
     }

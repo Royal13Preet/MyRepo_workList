@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="95565eff-e26c-47f8-a7bc-c0ab67dd717e" name="preethu@PREETHU_GSS 2025-02-25 18:06:04" runUser="Preethu_gss\preethu" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2025-02-25T18:06:04.6678621+05:30" queuing="2025-02-25T18:06:04.6678623+05:30" start="2025-02-25T18:06:02.4132321+05:30" finish="2025-02-25T18:06:04.6721375+05:30" />
+  <TestSettings name="default" id="100ae29b-5877-4ba8-8569-f8a2752c3396">
+    <Deployment runDeploymentRoot="preethu_PREETHU_GSS_2025-02-25_18_06_04" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="e672c1ac-c155-4d37-90a7-42926d6105d9" testId="98dbc74b-0eaf-8591-6cd6-8563cac2633a" testName="Thursday_productManagementTesting.ProductRepoTest.Update_Entity_should_Modify_Existing_Records" computerName="PREETHU_GSS" duration="00:00:00.0132160" startTime="2025-02-25T18:06:04.5728080+05:30" endTime="2025-02-25T18:06:04.5728083+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e672c1ac-c155-4d37-90a7-42926d6105d9" />
+    <UnitTestResult executionId="9828b498-e43e-461f-a1ad-6df0d9a8236b" testId="e7eff44d-7751-61a6-64f4-6ea148b33d2e" testName="Thursday_productManagementTesting.ProductRepoTest.Create_Entity_Should_Add_To_Database" computerName="PREETHU_GSS" duration="00:00:00.0025282" startTime="2025-02-25T18:06:04.5824837+05:30" endTime="2025-02-25T18:06:04.5824839+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9828b498-e43e-461f-a1ad-6df0d9a8236b" />
+    <UnitTestResult executionId="fafeb8a0-efbf-4709-9c85-9f7b97666004" testId="415a2535-c340-13cb-89f1-a5e6faadeba5" testName="Thursday_productManagementTesting.ProductRepoTest.GetAll_should_return_all_Entities" computerName="PREETHU_GSS" duration="00:00:00.0069547" startTime="2025-02-25T18:06:04.5798729+05:30" endTime="2025-02-25T18:06:04.5798732+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="fafeb8a0-efbf-4709-9c85-9f7b97666004" />
+    <UnitTestResult executionId="9555973e-0509-4933-a1e2-e300b72cf1ae" testId="00b30871-314f-ab38-d7b5-ee1c123f4e27" testName="Thursday_productManagementTesting.ProductRepoTest.GetById_should_Return_Correct_Entity" computerName="PREETHU_GSS" duration="00:00:00.0249566" startTime="2025-02-25T18:06:04.5595607+05:30" endTime="2025-02-25T18:06:04.5595610+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9555973e-0509-4933-a1e2-e300b72cf1ae" />
+    <UnitTestResult executionId="ea9993e8-8c7c-4efb-8eeb-3a1f091182fa" testId="dd609963-8d69-c8eb-b199-6ecce391b8e2" testName="Thursday_productManagementTesting.ProductRepoTest.Delete_Entity_should_remove_from_database" computerName="PREETHU_GSS" duration="00:00:00.5213288" startTime="2025-02-25T18:06:04.5349384+05:30" endTime="2025-02-25T18:06:04.5349579+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ea9993e8-8c7c-4efb-8eeb-3a1f091182fa" />
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="Thursday_productManagementTesting.ProductRepoTest.Update_Entity_should_Modify_Existing_Records" storage="c:\users\preethu\source\repos\apithursday_productmanagement\thursday_productmanagementtesting\bin\debug\net8.0\thursday_productmanagementtesting.dll" id="98dbc74b-0eaf-8591-6cd6-8563cac2633a">
+      <Execution id="e672c1ac-c155-4d37-90a7-42926d6105d9" />
+      <TestMethod codeBase="C:\Users\preethu\source\repos\APIThursday_ProductManagement\Thursday_productManagementTesting\bin\Debug\net8.0\Thursday_productManagementTesting.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Thursday_productManagementTesting.ProductRepoTest" name="Update_Entity_should_Modify_Existing_Records" />
+    </UnitTest>
+    <UnitTest name="Thursday_productManagementTesting.ProductRepoTest.Create_Entity_Should_Add_To_Database" storage="c:\users\preethu\source\repos\apithursday_productmanagement\thursday_productmanagementtesting\bin\debug\net8.0\thursday_productmanagementtesting.dll" id="e7eff44d-7751-61a6-64f4-6ea148b33d2e">
+      <Execution id="9828b498-e43e-461f-a1ad-6df0d9a8236b" />
+      <TestMethod codeBase="C:\Users\preethu\source\repos\APIThursday_ProductManagement\Thursday_productManagementTesting\bin\Debug\net8.0\Thursday_productManagementTesting.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Thursday_productManagementTesting.ProductRepoTest" name="Create_Entity_Should_Add_To_Database" />
+    </UnitTest>
+    <UnitTest name="Thursday_productManagementTesting.ProductRepoTest.GetById_should_Return_Correct_Entity" storage="c:\users\preethu\source\repos\apithursday_productmanagement\thursday_productmanagementtesting\bin\debug\net8.0\thursday_productmanagementtesting.dll" id="00b30871-314f-ab38-d7b5-ee1c123f4e27">
+      <Execution id="9555973e-0509-4933-a1e2-e300b72cf1ae" />
+      <TestMethod codeBase="C:\Users\preethu\source\repos\APIThursday_ProductManagement\Thursday_productManagementTesting\bin\Debug\net8.0\Thursday_productManagementTesting.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Thursday_productManagementTesting.ProductRepoTest" name="GetById_should_Return_Correct_Entity" />
+    </UnitTest>
+    <UnitTest name="Thursday_productManagementTesting.ProductRepoTest.Delete_Entity_should_remove_from_database" storage="c:\users\preethu\source\repos\apithursday_productmanagement\thursday_productmanagementtesting\bin\debug\net8.0\thursday_productmanagementtesting.dll" id="dd609963-8d69-c8eb-b199-6ecce391b8e2">
+      <Execution id="ea9993e8-8c7c-4efb-8eeb-3a1f091182fa" />
+      <TestMethod codeBase="C:\Users\preethu\source\repos\APIThursday_ProductManagement\Thursday_productManagementTesting\bin\Debug\net8.0\Thursday_productManagementTesting.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Thursday_productManagementTesting.ProductRepoTest" name="Delete_Entity_should_remove_from_database" />
+    </UnitTest>
+    <UnitTest name="Thursday_productManagementTesting.ProductRepoTest.GetAll_should_return_all_Entities" storage="c:\users\preethu\source\repos\apithursday_productmanagement\thursday_productmanagementtesting\bin\debug\net8.0\thursday_productmanagementtesting.dll" id="415a2535-c340-13cb-89f1-a5e6faadeba5">
+      <Execution id="fafeb8a0-efbf-4709-9c85-9f7b97666004" />
+      <TestMethod codeBase="C:\Users\preethu\source\repos\APIThursday_ProductManagement\Thursday_productManagementTesting\bin\Debug\net8.0\Thursday_productManagementTesting.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Thursday_productManagementTesting.ProductRepoTest" name="GetAll_should_return_all_Entities" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="98dbc74b-0eaf-8591-6cd6-8563cac2633a" executionId="e672c1ac-c155-4d37-90a7-42926d6105d9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e7eff44d-7751-61a6-64f4-6ea148b33d2e" executionId="9828b498-e43e-461f-a1ad-6df0d9a8236b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="415a2535-c340-13cb-89f1-a5e6faadeba5" executionId="fafeb8a0-efbf-4709-9c85-9f7b97666004" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="00b30871-314f-ab38-d7b5-ee1c123f4e27" executionId="9555973e-0509-4933-a1e2-e300b72cf1ae" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="dd609963-8d69-c8eb-b199-6ecce391b8e2" executionId="ea9993e8-8c7c-4efb-8eeb-3a1f091182fa" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="5" executed="5" passed="5" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <Output>
+      <StdOut>[xUnit.net 00:00:00.00] xUnit.net VSTest Adapter v2.5.3.1+6b60a9e56a (64-bit .NET 8.0.13)&#xD;
+[xUnit.net 00:00:01.14]   Discovering: Thursday_productManagementTesting&#xD;
+[xUnit.net 00:00:01.17]   Discovered:  Thursday_productManagementTesting&#xD;
+[xUnit.net 00:00:01.17]   Starting:    Thursday_productManagementTesting&#xD;
+[xUnit.net 00:00:01.78]   Finished:    Thursday_productManagementTesting&#xD;
+</StdOut>
+    </Output>
+  </ResultSummary>
+</TestRun>

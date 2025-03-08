@@ -1,0 +1,16 @@
+C:\Users\preethu\source\repos\LinkTrackerTool\LinkTrackerTool.Manager\obj\Debug\net8.0\LinkTrackerTool.Manager.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\LinkTrackerTool\LinkTrackerTool.Manager\obj\Debug\net8.0\LinkTrackerTool.Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\preethu\source\repos\LinkTrackerTool\LinkTrackerTool.Manager\obj\Debug\net8.0\LinkTrackerTool.Manager.AssemblyInfoInputs.cache
+C:\Users\preethu\source\repos\LinkTrackerTool\LinkTrackerTool.Manager\obj\Debug\net8.0\LinkTrackerTool.Manager.AssemblyInfo.cs
+C:\Users\preethu\source\repos\LinkTrackerTool\LinkTrackerTool.Manager\obj\Debug\net8.0\LinkTrackerTool.Manager.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\LinkTrackerTool\LinkTrackerTool.Manager\obj\Debug\net8.0\LinkTrackerTool.Manager.sourcelink.json
+C:\Users\preethu\source\repos\LinkTrackerTool\LinkTrackerTool.Manager\bin\Debug\net8.0\LinkTrackerTool.Manager.deps.json
+C:\Users\preethu\source\repos\LinkTrackerTool\LinkTrackerTool.Manager\bin\Debug\net8.0\LinkTrackerTool.Manager.dll
+C:\Users\preethu\source\repos\LinkTrackerTool\LinkTrackerTool.Manager\bin\Debug\net8.0\LinkTrackerTool.Manager.pdb
+C:\Users\preethu\source\repos\LinkTrackerTool\LinkTrackerTool.Manager\bin\Debug\net8.0\LinkTrackerTool.DataAccess.dll
+C:\Users\preethu\source\repos\LinkTrackerTool\LinkTrackerTool.Manager\bin\Debug\net8.0\LinkTrackerTool.DataAccess.pdb
+C:\Users\preethu\source\repos\LinkTrackerTool\LinkTrackerTool.Manager\obj\Debug\net8.0\LinkTrac.8D22EB34.Up2Date
+C:\Users\preethu\source\repos\LinkTrackerTool\LinkTrackerTool.Manager\obj\Debug\net8.0\LinkTrackerTool.Manager.dll
+C:\Users\preethu\source\repos\LinkTrackerTool\LinkTrackerTool.Manager\obj\Debug\net8.0\refint\LinkTrackerTool.Manager.dll
+C:\Users\preethu\source\repos\LinkTrackerTool\LinkTrackerTool.Manager\obj\Debug\net8.0\LinkTrackerTool.Manager.pdb
+C:\Users\preethu\source\repos\LinkTrackerTool\LinkTrackerTool.Manager\obj\Debug\net8.0\ref\LinkTrackerTool.Manager.dll

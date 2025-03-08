@@ -1,0 +1,15 @@
+C:\Users\preethu\source\repos\APISkill_BasedProject\API_DataAccessLayer\bin\Debug\net8.0\API_DataAccessLayer.deps.json
+C:\Users\preethu\source\repos\APISkill_BasedProject\API_DataAccessLayer\bin\Debug\net8.0\API_DataAccessLayer.dll
+C:\Users\preethu\source\repos\APISkill_BasedProject\API_DataAccessLayer\bin\Debug\net8.0\API_DataAccessLayer.pdb
+C:\Users\preethu\source\repos\APISkill_BasedProject\API_DataAccessLayer\obj\Debug\net8.0\API_DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\APISkill_BasedProject\API_DataAccessLayer\obj\Debug\net8.0\API_DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\preethu\source\repos\APISkill_BasedProject\API_DataAccessLayer\obj\Debug\net8.0\API_DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\preethu\source\repos\APISkill_BasedProject\API_DataAccessLayer\obj\Debug\net8.0\API_DataAccessLayer.AssemblyInfo.cs
+C:\Users\preethu\source\repos\APISkill_BasedProject\API_DataAccessLayer\obj\Debug\net8.0\API_DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\APISkill_BasedProject\API_DataAccessLayer\obj\Debug\net8.0\API_DataAccessLayer.sourcelink.json
+C:\Users\preethu\source\repos\APISkill_BasedProject\API_DataAccessLayer\obj\Debug\net8.0\API_DataAccessLayer.dll
+C:\Users\preethu\source\repos\APISkill_BasedProject\API_DataAccessLayer\obj\Debug\net8.0\refint\API_DataAccessLayer.dll
+C:\Users\preethu\source\repos\APISkill_BasedProject\API_DataAccessLayer\obj\Debug\net8.0\API_DataAccessLayer.pdb
+C:\Users\preethu\source\repos\APISkill_BasedProject\API_DataAccessLayer\obj\Debug\net8.0\ref\API_DataAccessLayer.dll
+C:\Users\preethu\source\repos\APISkill_BasedProject\API_DataAccessLayer\bin\Debug\net8.0\API_DataAccessLayer.runtimeconfig.json
+C:\Users\preethu\source\repos\APISkill_BasedProject\API_DataAccessLayer\obj\Debug\net8.0\API_DataAccessLayer.genruntimeconfig.cache

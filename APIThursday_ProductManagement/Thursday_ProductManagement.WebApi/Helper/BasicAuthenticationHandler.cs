@@ -16,15 +16,15 @@ public class BasicAuthenticationHandler : AuthenticationHandler<AuthenticationSc
     {
     }
 
-    protected override async Task<AuthenticateResult> HandleAuthenticateAsync()
+    protected override Task<AuthenticateResult> HandleAuthenticateAsync()
     {
         if (!Request.Headers.ContainsKey("Authorization"))
-            return AuthenticateResult.Fail("Missing Authorization Header");
+            return  Task.FromResult(AuthenticateResult.Fail("Missing Authorization Header"));
 
         try
         {
-            var authHeader = AuthenticationHeaderValue.Parse(Request.Headers["Authorization"]);
-            var credentialBytes = Convert.FromBase64String(authHeader.Parameter);
+            var authHeader = AuthenticationHeaderValue.Parse(Request.Headers["Authorization"]!);
+            var credentialBytes = Convert.FromBase64String(authHeader.Parameter!);
             var credentials = Encoding.UTF8.GetString(credentialBytes).Split(':', 2);
             var username = credentials[0];
             var password = credentials[1];
@@ -37,16 +37,17 @@ public class BasicAuthenticationHandler : AuthenticationHandler<AuthenticationSc
                 var principal = new ClaimsPrincipal(identity);
                 var ticket = new AuthenticationTicket(principal, Scheme.Name);
 
-                return AuthenticateResult.Success(ticket);
+                return Task.FromResult(AuthenticateResult.Success(ticket));
             }
             else
             {
-                return AuthenticateResult.Fail("Invalid Username or Password");
+                return  Task.FromResult(AuthenticateResult.Fail("Invalid Username or Password"));
             }
         }
         catch
         {
-            return AuthenticateResult.Fail("Invalid Authorization Header");
+            return Task.FromResult(AuthenticateResult.Fail("Invalid Authorization Header"));
         }
     }
+
 }

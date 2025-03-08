@@ -5687,11 +5687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.UserProject\\Secureuser.UserProject.csproj",
+      "projectUniqueName": "C:\\Users\\preethu\\source\\repos\\APISecureuser_jwtauth\\Secureuser.UserProject\\Secureuser.UserProject.csproj",
       "projectName": "Secureuser.UserProject",
-      "projectPath": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.UserProject\\Secureuser.UserProject.csproj",
+      "projectPath": "C:\\Users\\preethu\\source\\repos\\APISecureuser_jwtauth\\Secureuser.UserProject\\Secureuser.UserProject.csproj",
       "packagesPath": "C:\\Users\\preethu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.UserProject\\obj\\",
+      "outputPath": "C:\\Users\\preethu\\source\\repos\\APISecureuser_jwtauth\\Secureuser.UserProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\preethu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5708,14 +5708,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.DataAccess\\Secureuser.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.DataAccess\\Secureuser.DataAccess.csproj"
+            "C:\\Users\\preethu\\source\\repos\\APISecureuser_jwtauth\\Secureuser.DataAccess\\Secureuser.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\preethu\\source\\repos\\APISecureuser_jwtauth\\Secureuser.DataAccess\\Secureuser.DataAccess.csproj"
             },
-            "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.Models\\Secureuser.Models.csproj": {
-              "projectPath": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.Models\\Secureuser.Models.csproj"
+            "C:\\Users\\preethu\\source\\repos\\APISecureuser_jwtauth\\Secureuser.Models\\Secureuser.Models.csproj": {
+              "projectPath": "C:\\Users\\preethu\\source\\repos\\APISecureuser_jwtauth\\Secureuser.Models\\Secureuser.Models.csproj"
             },
-            "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.Services\\Secureuser.Services.csproj": {
-              "projectPath": "C:\\Users\\preethu\\source\\repos\\Secureuser\\Secureuser.Services\\Secureuser.Services.csproj"
+            "C:\\Users\\preethu\\source\\repos\\APISecureuser_jwtauth\\Secureuser.Services\\Secureuser.Services.csproj": {
+              "projectPath": "C:\\Users\\preethu\\source\\repos\\APISecureuser_jwtauth\\Secureuser.Services\\Secureuser.Services.csproj"
             }
           }
         }

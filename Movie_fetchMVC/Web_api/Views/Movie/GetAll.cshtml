@@ -9,19 +9,6 @@
 </form>
 
 <form method="get">
-    @*  <select name="genre">
-    <option value="">All Genres</option>
-    @if (ViewData["Genres"] is List<string> genres && genres.Any())
-    {
-    foreach (var genre in genres)
-    {
-    <option value="@genre" selected="@(ViewData["SelectedGenre"]?.ToString() == genre ? "selected" : null)">
-    @genre
-    </option>
-    }
-    }
-    </select> *@
-
     <select name="genre" multiple>
         @if (ViewData["Genres"] is List<string> genres && genres.Any())
         {
@@ -52,16 +39,16 @@
     .pagination {
         display: inline-block;
         margin-top: 20px;
-        bottom: 50px; /* Aligns to the bottom */
-        right: 30px; /* Aligns to the right */
+        bottom: 50px;
+        right: 30px; 
     }
 
     .pagination a {
-        padding: 5px 10px; /* Smaller padding */
-        margin: 0 3px; /* Smaller margin */
+        padding: 5px 10px;
+        margin: 0 3px; 
         text-decoration: none;
         border: 1px solid #ccc;
-        font-size: 12px; /* Smaller font size */
+        font-size: 12px; 
     }
 
     .pagination .active {
@@ -129,3 +116,15 @@
 </div>
 
 
+@*  <select name="genre">
+    <option value="">All Genres</option>
+    @if (ViewData["Genres"] is List<string> genres && genres.Any())
+    {
+    foreach (var genre in genres)
+    {
+    <option value="@genre" selected="@(ViewData["SelectedGenre"]?.ToString() == genre ? "selected" : null)">
+    @genre
+    </option>
+    }
+    }
+    </select> *@

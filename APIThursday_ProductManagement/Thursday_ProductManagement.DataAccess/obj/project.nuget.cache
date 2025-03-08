@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "18FucKdSd6U=",
+  "dgSpecHash": "T3kjNaCXCDc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\preethu\\source\\repos\\Thursday_ProductManagement\\Thursday_ProductManagement.DataAccess\\Thursday_ProductManagement.DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\preethu\\source\\repos\\APIThursday_ProductManagement\\Thursday_ProductManagement.DataAccess\\Thursday_ProductManagement.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\preethu\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\preethu\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

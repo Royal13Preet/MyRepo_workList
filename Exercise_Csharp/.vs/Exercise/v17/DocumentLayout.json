@@ -1,65 +1,69 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\preethu\\source\\repos\\Exercise\\",
+  "WorkspaceRootPath": "C:\\Users\\preethu\\source\\repos\\Exercise_Csharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{04BA8ECD-3E20-46E7-81A9-068E8D48FB21}|Day_name_swith\\Day_name_swith.csproj|c:\\users\\preethu\\source\\repos\\exercise\\day_name_swith\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{04BA8ECD-3E20-46E7-81A9-068E8D48FB21}|Day_name_swith\\Day_name_swith.csproj|solutionrelative:day_name_swith\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5728597-C849-4330-A417-42CAAD76BB34}|Diamond\\Diamond.csproj|c:\\users\\preethu\\source\\repos\\exercise\\diamond\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5728597-C849-4330-A417-42CAAD76BB34}|Diamond\\Diamond.csproj|solutionrelative:diamond\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2983A6CE-648C-4BAA-8F2F-73439A74E68A}|DateTimeyear\\DateTimeyear.csproj|C:\\Users\\preethu\\source\\repos\\Exercise\\datetimeyear\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2983A6CE-648C-4BAA-8F2F-73439A74E68A}|DateTimeyear\\DateTimeyear.csproj|solutionrelative:datetimeyear\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A429A55-7836-4EB9-8531-C9DEC9F43177}|smallmatrix\\smallmatrix.csproj|C:\\Users\\preethu\\source\\repos\\Exercise\\smallmatrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A429A55-7836-4EB9-8531-C9DEC9F43177}|smallmatrix\\smallmatrix.csproj|solutionrelative:smallmatrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BCBA866D-B6A6-4455-A345-34DD46018341}|swap\\swap.csproj|C:\\Users\\preethu\\source\\repos\\Exercise\\swap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BCBA866D-B6A6-4455-A345-34DD46018341}|swap\\swap.csproj|solutionrelative:swap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4B23E51-54D7-46CA-90A7-E3C76B36B0CF}|Binary\\Binary.csproj|C:\\Users\\preethu\\source\\repos\\Exercise\\binary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4B23E51-54D7-46CA-90A7-E3C76B36B0CF}|Binary\\Binary.csproj|solutionrelative:binary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3FDD80E-58BC-45A7-B04E-5B4E330E91C7}|pascal\\pascal.csproj|C:\\Users\\preethu\\source\\repos\\Exercise\\pascal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3FDD80E-58BC-45A7-B04E-5B4E330E91C7}|pascal\\pascal.csproj|solutionrelative:pascal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC696885-250E-487E-A69B-6FEBD4B49EC8}|Marks\\Marks.csproj|C:\\Users\\preethu\\source\\repos\\Exercise\\marks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC696885-250E-487E-A69B-6FEBD4B49EC8}|Marks\\Marks.csproj|solutionrelative:marks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2987DB78-41FB-4E92-B27D-50A39302D36A}|userauthentication\\userauthentication.csproj|C:\\Users\\preethu\\source\\repos\\Exercise\\userauthentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2987DB78-41FB-4E92-B27D-50A39302D36A}|userauthentication\\userauthentication.csproj|solutionrelative:userauthentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3CB26FF4-6E10-4639-AA96-CD52F41705CF}|minimum\\minimum.csproj|C:\\Users\\preethu\\source\\repos\\Exercise\\minimum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3CB26FF4-6E10-4639-AA96-CD52F41705CF}|minimum\\minimum.csproj|solutionrelative:minimum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FA1436E-EC6F-4F27-8C86-E3FD990BBEF9}|PhoneBook\\PhoneBook.csproj|C:\\Users\\preethu\\source\\repos\\Exercise\\phonebook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FA1436E-EC6F-4F27-8C86-E3FD990BBEF9}|PhoneBook\\PhoneBook.csproj|solutionrelative:phonebook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D33B41D5-6F04-4D4F-B804-F1F5C7F95C30}|ATMtransaction\\ATMtransaction.csproj|C:\\Users\\preethu\\source\\repos\\Exercise\\atmtransaction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D33B41D5-6F04-4D4F-B804-F1F5C7F95C30}|ATMtransaction\\ATMtransaction.csproj|C:\\Users\\preethu\\source\\repos\\Exercise_Csharp\\atmtransaction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D33B41D5-6F04-4D4F-B804-F1F5C7F95C30}|ATMtransaction\\ATMtransaction.csproj|solutionrelative:atmtransaction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F8356DC-9066-430C-8826-5DCF2B33D818}|Exercise\\Exercise.csproj|C:\\Users\\preethu\\source\\repos\\Exercise\\exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{937BD1A9-B384-48FD-8E31-E371C604299A}|Stringoccurences\\Stringoccurences.csproj|c:\\users\\preethu\\source\\repos\\exercise_csharp\\stringoccurences\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{937BD1A9-B384-48FD-8E31-E371C604299A}|Stringoccurences\\Stringoccurences.csproj|solutionrelative:stringoccurences\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2987DB78-41FB-4E92-B27D-50A39302D36A}|userauthentication\\userauthentication.csproj|c:\\users\\preethu\\source\\repos\\exercise_csharp\\userauthentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2987DB78-41FB-4E92-B27D-50A39302D36A}|userauthentication\\userauthentication.csproj|solutionrelative:userauthentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FA1436E-EC6F-4F27-8C86-E3FD990BBEF9}|PhoneBook\\PhoneBook.csproj|C:\\Users\\preethu\\source\\repos\\Exercise_Csharp\\phonebook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FA1436E-EC6F-4F27-8C86-E3FD990BBEF9}|PhoneBook\\PhoneBook.csproj|solutionrelative:phonebook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04BA8ECD-3E20-46E7-81A9-068E8D48FB21}|Day_name_swith\\Day_name_swith.csproj|C:\\Users\\preethu\\source\\repos\\Exercise_Csharp\\day_name_swith\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04BA8ECD-3E20-46E7-81A9-068E8D48FB21}|Day_name_swith\\Day_name_swith.csproj|solutionrelative:day_name_swith\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5728597-C849-4330-A417-42CAAD76BB34}|Diamond\\Diamond.csproj|C:\\Users\\preethu\\source\\repos\\Exercise_Csharp\\diamond\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5728597-C849-4330-A417-42CAAD76BB34}|Diamond\\Diamond.csproj|solutionrelative:diamond\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2983A6CE-648C-4BAA-8F2F-73439A74E68A}|DateTimeyear\\DateTimeyear.csproj|C:\\Users\\preethu\\source\\repos\\Exercise_Csharp\\datetimeyear\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2983A6CE-648C-4BAA-8F2F-73439A74E68A}|DateTimeyear\\DateTimeyear.csproj|solutionrelative:datetimeyear\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A429A55-7836-4EB9-8531-C9DEC9F43177}|smallmatrix\\smallmatrix.csproj|C:\\Users\\preethu\\source\\repos\\Exercise_Csharp\\smallmatrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A429A55-7836-4EB9-8531-C9DEC9F43177}|smallmatrix\\smallmatrix.csproj|solutionrelative:smallmatrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCBA866D-B6A6-4455-A345-34DD46018341}|swap\\swap.csproj|C:\\Users\\preethu\\source\\repos\\Exercise_Csharp\\swap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCBA866D-B6A6-4455-A345-34DD46018341}|swap\\swap.csproj|solutionrelative:swap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4B23E51-54D7-46CA-90A7-E3C76B36B0CF}|Binary\\Binary.csproj|C:\\Users\\preethu\\source\\repos\\Exercise_Csharp\\binary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4B23E51-54D7-46CA-90A7-E3C76B36B0CF}|Binary\\Binary.csproj|solutionrelative:binary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3FDD80E-58BC-45A7-B04E-5B4E330E91C7}|pascal\\pascal.csproj|C:\\Users\\preethu\\source\\repos\\Exercise_Csharp\\pascal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3FDD80E-58BC-45A7-B04E-5B4E330E91C7}|pascal\\pascal.csproj|solutionrelative:pascal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC696885-250E-487E-A69B-6FEBD4B49EC8}|Marks\\Marks.csproj|C:\\Users\\preethu\\source\\repos\\Exercise_Csharp\\marks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC696885-250E-487E-A69B-6FEBD4B49EC8}|Marks\\Marks.csproj|solutionrelative:marks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB26FF4-6E10-4639-AA96-CD52F41705CF}|minimum\\minimum.csproj|C:\\Users\\preethu\\source\\repos\\Exercise_Csharp\\minimum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB26FF4-6E10-4639-AA96-CD52F41705CF}|minimum\\minimum.csproj|solutionrelative:minimum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F8356DC-9066-430C-8826-5DCF2B33D818}|Exercise\\Exercise.csproj|C:\\Users\\preethu\\source\\repos\\Exercise_Csharp\\exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F8356DC-9066-430C-8826-5DCF2B33D818}|Exercise\\Exercise.csproj|solutionrelative:exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA4BB5E9-9110-44BD-8752-89C94749FDF6}|heloo\\heloo.csproj|C:\\Users\\preethu\\source\\repos\\Exercise\\heloo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FA4BB5E9-9110-44BD-8752-89C94749FDF6}|heloo\\heloo.csproj|C:\\Users\\preethu\\source\\repos\\Exercise_Csharp\\heloo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA4BB5E9-9110-44BD-8752-89C94749FDF6}|heloo\\heloo.csproj|solutionrelative:heloo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{239755D5-5AB3-44DA-897A-A5C56DE94BE3}|Ipaddress\\Ipaddress.csproj|C:\\Users\\preethu\\source\\repos\\Exercise\\ipaddress\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{239755D5-5AB3-44DA-897A-A5C56DE94BE3}|Ipaddress\\Ipaddress.csproj|C:\\Users\\preethu\\source\\repos\\Exercise_Csharp\\ipaddress\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{239755D5-5AB3-44DA-897A-A5C56DE94BE3}|Ipaddress\\Ipaddress.csproj|solutionrelative:ipaddress\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -70,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,36 +82,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Exercise\\Day_name_swith\\Program.cs",
-              "RelativeDocumentMoniker": "Day_name_swith\\Program.cs",
-              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Exercise\\Day_name_swith\\Program.cs",
-              "RelativeToolTip": "Day_name_swith\\Program.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAAwDMAAAAIAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Exercise_Csharp\\Stringoccurences\\Program.cs",
+              "RelativeDocumentMoniker": "Stringoccurences\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Exercise_Csharp\\Stringoccurences\\Program.cs",
+              "RelativeToolTip": "Stringoccurences\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwCkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T10:43:45.1Z",
+              "WhenOpened": "2025-02-12T11:55:23.416Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Exercise\\smallmatrix\\Program.cs",
-              "RelativeDocumentMoniker": "smallmatrix\\Program.cs",
-              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Exercise\\smallmatrix\\Program.cs",
-              "RelativeToolTip": "smallmatrix\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAADwvxcAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T09:16:27.685Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Exercise\\Binary\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Exercise_Csharp\\Binary\\Program.cs",
               "RelativeDocumentMoniker": "Binary\\Program.cs",
-              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Exercise\\Binary\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Exercise_Csharp\\Binary\\Program.cs",
               "RelativeToolTip": "Binary\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -115,24 +107,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Exercise\\Diamond\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Exercise_Csharp\\Diamond\\Program.cs",
               "RelativeDocumentMoniker": "Diamond\\Program.cs",
-              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Exercise\\Diamond\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Exercise_Csharp\\Diamond\\Program.cs",
               "RelativeToolTip": "Diamond\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T11:52:33.519Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-09T11:52:33.519Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Exercise\\pascal\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Exercise_Csharp\\pascal\\Program.cs",
               "RelativeDocumentMoniker": "pascal\\Program.cs",
-              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Exercise\\pascal\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Exercise_Csharp\\pascal\\Program.cs",
               "RelativeToolTip": "pascal\\Program.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -140,11 +131,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Exercise\\Marks\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Exercise_Csharp\\Marks\\Program.cs",
               "RelativeDocumentMoniker": "Marks\\Program.cs",
-              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Exercise\\Marks\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Exercise_Csharp\\Marks\\Program.cs",
               "RelativeToolTip": "Marks\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -152,35 +143,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Exercise\\PhoneBook\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Exercise_Csharp\\PhoneBook\\Program.cs",
               "RelativeDocumentMoniker": "PhoneBook\\Program.cs",
-              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Exercise\\PhoneBook\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Exercise_Csharp\\PhoneBook\\Program.cs",
               "RelativeToolTip": "PhoneBook\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAowBUAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowBYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T06:35:05.179Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Exercise\\userauthentication\\Program.cs",
-              "RelativeDocumentMoniker": "userauthentication\\Program.cs",
-              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Exercise\\userauthentication\\Program.cs",
-              "RelativeToolTip": "userauthentication\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwBIAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T10:54:22.333Z"
+              "WhenOpened": "2024-11-09T06:35:05.179Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Exercise\\DateTimeyear\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Exercise_Csharp\\userauthentication\\Program.cs",
+              "RelativeDocumentMoniker": "userauthentication\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Exercise_Csharp\\userauthentication\\Program.cs",
+              "RelativeToolTip": "userauthentication\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:54:22.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Exercise_Csharp\\DateTimeyear\\Program.cs",
               "RelativeDocumentMoniker": "DateTimeyear\\Program.cs",
-              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Exercise\\DateTimeyear\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Exercise_Csharp\\DateTimeyear\\Program.cs",
               "RelativeToolTip": "DateTimeyear\\Program.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAgwCcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -188,11 +181,48 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Exercise_Csharp\\ATMtransaction\\Program.cs",
+              "RelativeDocumentMoniker": "ATMtransaction\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Exercise_Csharp\\ATMtransaction\\Program.cs",
+              "RelativeToolTip": "ATMtransaction\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:11:55.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Exercise_Csharp\\smallmatrix\\Program.cs",
+              "RelativeDocumentMoniker": "smallmatrix\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Exercise_Csharp\\smallmatrix\\Program.cs",
+              "RelativeToolTip": "smallmatrix\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvxcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T09:16:27.685Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Exercise\\swap\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Exercise_Csharp\\Day_name_swith\\Program.cs",
+              "RelativeDocumentMoniker": "Day_name_swith\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Exercise_Csharp\\Day_name_swith\\Program.cs",
+              "RelativeToolTip": "Day_name_swith\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T10:43:45.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Exercise_Csharp\\swap\\Program.cs",
               "RelativeDocumentMoniker": "swap\\Program.cs",
-              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Exercise\\swap\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Exercise_Csharp\\swap\\Program.cs",
               "RelativeToolTip": "swap\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -200,11 +230,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Exercise\\Ipaddress\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Exercise_Csharp\\Ipaddress\\Program.cs",
               "RelativeDocumentMoniker": "Ipaddress\\Program.cs",
-              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Exercise\\Ipaddress\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Exercise_Csharp\\Ipaddress\\Program.cs",
               "RelativeToolTip": "Ipaddress\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -212,23 +242,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Exercise\\ATMtransaction\\Program.cs",
-              "RelativeDocumentMoniker": "ATMtransaction\\Program.cs",
-              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Exercise\\ATMtransaction\\Program.cs",
-              "RelativeToolTip": "ATMtransaction\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T07:11:55.819Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Exercise\\heloo\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Exercise_Csharp\\heloo\\Program.cs",
               "RelativeDocumentMoniker": "heloo\\Program.cs",
-              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Exercise\\heloo\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Exercise_Csharp\\heloo\\Program.cs",
               "RelativeToolTip": "heloo\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -236,11 +254,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Exercise\\minimum\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Exercise_Csharp\\minimum\\Program.cs",
               "RelativeDocumentMoniker": "minimum\\Program.cs",
-              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Exercise\\minimum\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Exercise_Csharp\\minimum\\Program.cs",
               "RelativeToolTip": "minimum\\Program.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwBoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -248,11 +266,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Exercise\\Exercise\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\Exercise_Csharp\\Exercise\\Program.cs",
               "RelativeDocumentMoniker": "Exercise\\Program.cs",
-              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Exercise\\Exercise\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\Exercise_Csharp\\Exercise\\Program.cs",
               "RelativeToolTip": "Exercise\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

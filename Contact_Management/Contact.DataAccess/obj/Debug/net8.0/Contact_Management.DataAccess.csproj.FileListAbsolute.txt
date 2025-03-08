@@ -1,0 +1,13 @@
+C:\Users\preethu\source\repos\Contact_Management\Contact.DataAccess\bin\Debug\net8.0\Contact_Management.DataAccess.deps.json
+C:\Users\preethu\source\repos\Contact_Management\Contact.DataAccess\bin\Debug\net8.0\Contact_Management.DataAccess.dll
+C:\Users\preethu\source\repos\Contact_Management\Contact.DataAccess\bin\Debug\net8.0\Contact_Management.DataAccess.pdb
+C:\Users\preethu\source\repos\Contact_Management\Contact.DataAccess\obj\Debug\net8.0\Contact_Management.DataAccess.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\Contact_Management\Contact.DataAccess\obj\Debug\net8.0\Contact_Management.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\preethu\source\repos\Contact_Management\Contact.DataAccess\obj\Debug\net8.0\Contact_Management.DataAccess.AssemblyInfoInputs.cache
+C:\Users\preethu\source\repos\Contact_Management\Contact.DataAccess\obj\Debug\net8.0\Contact_Management.DataAccess.AssemblyInfo.cs
+C:\Users\preethu\source\repos\Contact_Management\Contact.DataAccess\obj\Debug\net8.0\Contact_Management.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\Contact_Management\Contact.DataAccess\obj\Debug\net8.0\Contact_Management.DataAccess.sourcelink.json
+C:\Users\preethu\source\repos\Contact_Management\Contact.DataAccess\obj\Debug\net8.0\Contact_Management.DataAccess.dll
+C:\Users\preethu\source\repos\Contact_Management\Contact.DataAccess\obj\Debug\net8.0\refint\Contact_Management.DataAccess.dll
+C:\Users\preethu\source\repos\Contact_Management\Contact.DataAccess\obj\Debug\net8.0\Contact_Management.DataAccess.pdb
+C:\Users\preethu\source\repos\Contact_Management\Contact.DataAccess\obj\Debug\net8.0\ref\Contact_Management.DataAccess.dll

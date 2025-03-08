@@ -1,0 +1,15 @@
+C:\Users\preethu\source\repos\LinkTrackingtool\LinkTrackingTool.DataAccess\bin\Debug\net8.0\LinkTrackingTool.DataAccess.deps.json
+C:\Users\preethu\source\repos\LinkTrackingtool\LinkTrackingTool.DataAccess\bin\Debug\net8.0\LinkTrackingTool.DataAccess.runtimeconfig.json
+C:\Users\preethu\source\repos\LinkTrackingtool\LinkTrackingTool.DataAccess\bin\Debug\net8.0\LinkTrackingTool.DataAccess.dll
+C:\Users\preethu\source\repos\LinkTrackingtool\LinkTrackingTool.DataAccess\bin\Debug\net8.0\LinkTrackingTool.DataAccess.pdb
+C:\Users\preethu\source\repos\LinkTrackingtool\LinkTrackingTool.DataAccess\obj\Debug\net8.0\LinkTrackingTool.DataAccess.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\LinkTrackingtool\LinkTrackingTool.DataAccess\obj\Debug\net8.0\LinkTrackingTool.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\preethu\source\repos\LinkTrackingtool\LinkTrackingTool.DataAccess\obj\Debug\net8.0\LinkTrackingTool.DataAccess.AssemblyInfoInputs.cache
+C:\Users\preethu\source\repos\LinkTrackingtool\LinkTrackingTool.DataAccess\obj\Debug\net8.0\LinkTrackingTool.DataAccess.AssemblyInfo.cs
+C:\Users\preethu\source\repos\LinkTrackingtool\LinkTrackingTool.DataAccess\obj\Debug\net8.0\LinkTrackingTool.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\LinkTrackingtool\LinkTrackingTool.DataAccess\obj\Debug\net8.0\LinkTrackingTool.DataAccess.sourcelink.json
+C:\Users\preethu\source\repos\LinkTrackingtool\LinkTrackingTool.DataAccess\obj\Debug\net8.0\LinkTrackingTool.DataAccess.dll
+C:\Users\preethu\source\repos\LinkTrackingtool\LinkTrackingTool.DataAccess\obj\Debug\net8.0\refint\LinkTrackingTool.DataAccess.dll
+C:\Users\preethu\source\repos\LinkTrackingtool\LinkTrackingTool.DataAccess\obj\Debug\net8.0\LinkTrackingTool.DataAccess.pdb
+C:\Users\preethu\source\repos\LinkTrackingtool\LinkTrackingTool.DataAccess\obj\Debug\net8.0\LinkTrackingTool.DataAccess.genruntimeconfig.cache
+C:\Users\preethu\source\repos\LinkTrackingtool\LinkTrackingTool.DataAccess\obj\Debug\net8.0\ref\LinkTrackingTool.DataAccess.dll

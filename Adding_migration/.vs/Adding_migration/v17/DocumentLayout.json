@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "Adding_migration\\SchoolContext.cs",
               "ToolTip": "C:\\Users\\preethu\\source\\repos\\Adding_migration\\Adding_migration\\SchoolContext.cs",
               "RelativeToolTip": "Adding_migration\\SchoolContext.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAIwAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwC0AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T09:46:34.839Z",
               "EditorCaption": ""
@@ -59,8 +59,7 @@
               "RelativeToolTip": "Adding_migration\\Program.cs",
               "ViewState": "AgIAAC4AAAAAAAAAAAAgwEoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T09:42:12.73Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T09:42:12.73Z"
             },
             {
               "$type": "Document",
@@ -72,8 +71,7 @@
               "RelativeToolTip": "Adding_migration\\Models\\Student.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAAABYAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T09:42:48.411Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T09:42:48.411Z"
             },
             {
               "$type": "Document",
@@ -85,8 +83,7 @@
               "RelativeToolTip": "Adding_migration\\Models\\Course.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T09:43:12.224Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T09:43:12.224Z"
             },
             {
               "$type": "Document",
@@ -98,8 +95,7 @@
               "RelativeToolTip": "Adding_migration\\Models\\Teacher.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T09:43:01.446Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T09:43:01.446Z"
             }
           ]
         },

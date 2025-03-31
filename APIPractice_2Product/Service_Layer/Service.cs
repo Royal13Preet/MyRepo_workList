@@ -33,7 +33,6 @@ namespace Service_Layer
         {
 
             var products = _manager.GetAllProducts();
-
             if (!string.IsNullOrEmpty(name)) 
             {
                 products = products.Where(p => p.Name.Contains(name, StringComparison.OrdinalIgnoreCase));

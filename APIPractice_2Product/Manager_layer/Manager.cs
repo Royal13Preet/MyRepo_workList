@@ -27,11 +27,6 @@ namespace Manager_layer
         
         public bool DeleteProduct(int id)
         {
-            //var isIdThere = _repository.GetProductById(id);
-            //if(isIdThere == null)
-            //{
-            //    throw new Exception("Id is not there");
-            //}
             return _repository.DeleteProduct(id);
         }
 

@@ -19,8 +19,6 @@
         public IEnumerable<Product> GetAllProducts()
         {
             return _context.Products;
-
-
         }
 
         public Product GetProductById(int id)
@@ -42,7 +40,6 @@
             {
                 _context.Remove(entity);
                 _context.SaveChanges();
-            }
 
             return true;
         }

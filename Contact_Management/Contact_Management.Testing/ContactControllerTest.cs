@@ -43,7 +43,6 @@ namespace Contact_Management.Testing
             response.StatusCode.Should().Be(HttpStatusCode.Created);
             //Assert.Equal(HttpStatusCode.Created, response.StatusCode);
         }
-
         [Fact]
         public async Task CreateContact_InvalidData_ShouldReturnBadRequest()
         {
@@ -54,7 +53,6 @@ namespace Contact_Management.Testing
             response.StatusCode.Should().Be(HttpStatusCode.BadRequest);
             //Assert.Equal(HttpStatusCode.BadRequest, response.StatusCode);
         }
-
 
         [Fact]
         public async Task GetContactById_ExistingContact_ShouldReturnOk()
@@ -67,7 +65,6 @@ namespace Contact_Management.Testing
                 Email = "jane@example.com"
             };
             var postResponse = await _client.PostAsJsonAsync("/api/Contact", newContact);
-
             var response = await _client.GetAsync("/api/Contact/1");
             
             response.StatusCode.Should().Be(HttpStatusCode.OK);
@@ -75,7 +72,6 @@ namespace Contact_Management.Testing
         }
 
        
-        
         [Fact]
         public async Task GetContactById_NonExistingContact_ShouldReturnNotFound()
         {
@@ -84,8 +80,6 @@ namespace Contact_Management.Testing
             response.StatusCode.Should().Be(HttpStatusCode.NotFound);
             //Assert.Equal(HttpStatusCode.NotFound, response.StatusCode);
         }
-
-   
 
         [Fact]
         public async Task UpdateContact_ValidData_ShouldReturnOk()
